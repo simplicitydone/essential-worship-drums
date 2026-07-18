@@ -121,3 +121,15 @@ Workflow note: passing a big array via Workflow `args` as a JSON string fails
 - Repo made public as github.com/simplicitydone/essential-worship-drums
   (port number dropped from the GitHub name, same convention as
   korean-lottery-analysis; folder stays 3012_ewd). README port 3027→3012.
+
+## Sit + pedal lessons (2026-07-18)
+- `throne-pedal-and-posture` reworked into "The Throne: How to Sit" (id kept):
+  throne height/distance numbers, sit bones, explicit straight-vs-slouch answer
+  (tall-and-loose), lift-both-feet balance check, per-song reset habit.
+- NEW `pedals-press-and-release` at basics ord 8 (later ords shifted +1),
+  pattern_ref groove-8beat-kick-var. Answers "keep stepping or hold?": kick =
+  press-and-release stroke (foot rests on board between notes; bury-the-beater
+  = resting placement, not constant pressure; heel-down first, heel-up for
+  volume) vs hi-hat = the one you DO hold closed, chick 2&4 when riding.
+- Both lessons fully bilingual. Content lives in the DB (one-off migration in
+  the job tmp dir, seed content.json untouched per bootstrap-only convention).

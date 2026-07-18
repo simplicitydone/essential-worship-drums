@@ -18,7 +18,8 @@ then drill the technique so you're genuinely at that level instead of faking it.
 - **Crash Course** — the fast track: grip in 60 seconds → your first groove →
   lock to a click → one fill → loud/soft = chorus/verse → ready for Sunday.
 - **Back to Basics** — *The Fundamentals* (led by "Now Earn It: Fake vs. Real",
-  then grip/fulcrum/stroke/kit/counting/click, How to Practice, a daily routine)
+  then grip/fulcrum/stroke/kit, how to sit & pedal technique, counting/click,
+  How to Practice, a daily routine)
   plus **Practice Drills** (rebound, single-stroke tempo ladder, accents/ghosts,
   rudiment ladder, click discipline, foot control, independence).
 - **Grooves** — 8-beat, 16-beat, half-time, driving 8ths, four-on-the-floor,
