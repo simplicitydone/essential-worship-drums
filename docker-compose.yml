@@ -1,0 +1,10 @@
+services:
+  ewd:
+    image: nginx:alpine
+    container_name: ewd
+    restart: always
+    ports:
+      - "3012:80"
+    volumes:
+      - ./dist:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro

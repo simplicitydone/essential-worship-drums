@@ -1,0 +1,4392 @@
+{
+  "lessons": [
+    {
+      "id": "hold-the-stick-matched-grip",
+      "section": "basics",
+      "title": "Holding the Stick: Matched Grip",
+      "titleKr": "스틱 잡는 법: 매치드 그립",
+      "order": 1,
+      "body": "Matched grip means both hands hold the stick exactly the same way — mirror images of each other. Lay the stick across the first joint of your index finger and press your thumb gently against it from the other side; that thumb-and-index pinch is your grip's anchor. Place it about a third of the way up from the butt end, right at the stick's natural balance point — too far back feels heavy, too far forward chokes the bounce. Curl your middle, ring, and pinky fingers loosely underneath to cradle the stick. Squeeze just enough that it can't fly out of your hand, and no more. If your knuckles turn white, you're strangling it — relax.",
+      "bodyKr": "매치드 그립은 양손이 스틱을 똑같은 방식으로 잡는 방법이에요. 두 손이 거울처럼 대칭이 되죠. 검지 첫 마디 위에 스틱을 얹고 반대쪽에서 엄지로 살짝 눌러 주세요. 이 엄지와 검지의 집게 지점이 그립의 중심이에요. 위치는 스틱 끝(버트)에서 약 3분의 1 지점, 스틱이 자연스럽게 균형을 이루는 자리에 두세요. 너무 뒤를 잡으면 무겁고, 너무 앞을 잡으면 튕김이 죽어요. 나머지 중지, 약지, 새끼손가락은 아래에서 스틱을 부드럽게 감싸 받쳐 주세요. 스틱이 손에서 튀어나가지 않을 정도로만 살짝 쥐고, 그 이상은 힘을 빼세요. 손가락 마디가 하얗게 변하면 너무 세게 쥔 거예요.",
+      "keyPoints": [
+        "Both hands hold the stick the same way — that is \"matched\" grip.",
+        "Grip about one-third up from the butt, at the balance point.",
+        "Thumb pad + side of the index finger form the fulcrum (the pivot).",
+        "Loose wins: a death-grip kills rebound and tires you out."
+      ],
+      "keyPointsKr": [
+        "양손이 똑같이 잡는 것이 매치드 그립이에요.",
+        "버트에서 약 3분의 1 지점, 균형점을 잡으세요.",
+        "엄지 바닥과 검지 옆면이 받침점(펄크럼)을 만들어요.",
+        "힘을 빼야 이겨요. 꽉 쥐면 튕김도 죽고 금방 지쳐요."
+      ],
+      "diagram": "grip-matched",
+      "patternRef": null
+    },
+    {
+      "id": "matched-grip-three-variants",
+      "section": "basics",
+      "title": "The Three Matched Grip Variants",
+      "titleKr": "매치드 그립의 세 가지 변형",
+      "order": 2,
+      "body": "Once matched grip feels natural, notice that your palms can face three different ways — these are the three matched variants. In German grip your palms face straight down; it's wide and powerful, great for big crashes and driving backbeats. In French grip your palms face each other with thumbs on top; it's finger-driven and delicate, lovely for quiet ride and hi-hat work. American grip sits in between, palms at about a 45-degree angle — the everyday all-rounder most worship drummers default to. You don't have to pick one forever. Many players drift between them song by song: American for most of the set, a touch of German when the chorus needs power, French for the soft intro.",
+      "bodyKr": "매치드 그립이 익숙해지면 손바닥이 향하는 방향이 세 가지라는 걸 알게 돼요. 이게 매치드의 세 가지 변형이에요. 저먼 그립은 손바닥이 바닥을 향해요. 넓고 힘이 좋아서 큰 크래시나 강한 백비트에 잘 맞아요. 프렌치 그립은 손바닥이 서로 마주 보고 엄지가 위로 오는 자세예요. 손가락으로 컨트롤하는 섬세한 그립이라 조용한 라이드나 하이햇 연주에 좋아요. 아메리칸 그립은 그 중간으로 손바닥이 약 45도 기울어져요. 대부분의 찬양 드러머가 기본으로 쓰는 만능 그립이죠. 하나만 평생 고를 필요는 없어요. 곡에 따라 자연스럽게 오가면 돼요. 대부분은 아메리칸으로, 후렴에서 힘이 필요할 땐 살짝 저먼으로, 조용한 인트로엔 프렌치로 바꿔 보세요.",
+      "keyPoints": [
+        "German = palms down: wide, powerful, big backbeats and crashes.",
+        "French = palms facing, thumbs up: finger control for soft ride/hi-hat.",
+        "American = 45° in-between: the everyday worship default.",
+        "Switch freely between them as the song's energy changes."
+      ],
+      "keyPointsKr": [
+        "저먼은 손바닥이 아래예요. 넓고 강해서 백비트와 크래시에 좋아요.",
+        "프렌치는 손바닥이 마주 보고 엄지가 위예요. 섬세한 라이드와 하이햇에 좋아요.",
+        "아메리칸은 45도 중간이에요. 찬양에서 기본으로 쓰는 만능 그립이에요.",
+        "곡의 에너지에 따라 자유롭게 바꿔 가며 쓰세요."
+      ],
+      "diagram": "grip-matched",
+      "patternRef": null
+    },
+    {
+      "id": "traditional-vs-matched-grip",
+      "section": "basics",
+      "title": "Traditional vs. Matched Grip",
+      "titleKr": "트래디셔널 그립과 매치드 그립",
+      "order": 3,
+      "body": "You'll also hear about traditional grip, where the left hand holds the stick underhand, cradled between thumb and index finger like a pencil, while the right stays overhand. It came from marching drummers whose snare hung at an angle off one shoulder, and it lives on today in jazz and drum corps. It's a beautiful, expressive grip — but it takes longer to learn and gives you less raw power on a modern kit. For worship, where you need consistent backbeats, solid crashes, and quick recovery under stage lights, matched grip is the standard. Learn matched first and get comfortable. You can always explore traditional later out of curiosity, but you'll never be held back by starting with matched.",
+      "bodyKr": "트래디셔널 그립이라는 것도 들어 보게 될 거예요. 왼손을 엄지와 검지 사이에 연필 쥐듯이 아래에서 받쳐 잡고, 오른손은 위에서 잡는 방식이에요. 스네어를 한쪽 어깨에 비스듬히 메던 행진 드러머들에게서 나온 그립이고, 지금도 재즈나 드럼 코어에서 쓰여요. 표현력이 아주 좋은 멋진 그립이지만, 배우는 데 시간이 더 걸리고 현대 드럼셋에서는 순수한 파워가 덜 나와요. 일정한 백비트, 단단한 크래시, 무대 위에서의 빠른 회복이 필요한 찬양에서는 매치드 그립이 표준이에요. 먼저 매치드를 배워서 익숙해지세요. 나중에 궁금하면 트래디셔널을 시도해 봐도 좋지만, 매치드로 시작해서 손해 볼 일은 전혀 없어요.",
+      "keyPoints": [
+        "Traditional grip = left hand underhand, from marching/jazz roots.",
+        "It's expressive but slower to learn and less powerful on a kit.",
+        "Matched grip is the worship standard — learn it first.",
+        "You can explore traditional later; matched won't hold you back."
+      ],
+      "keyPointsKr": [
+        "트래디셔널은 왼손을 아래에서 받쳐 잡는 그립으로 행진·재즈에서 왔어요.",
+        "표현력은 좋지만 배우기 더 어렵고 드럼셋에서 파워가 덜해요.",
+        "찬양의 표준은 매치드 그립이에요. 이것부터 배우세요.",
+        "트래디셔널은 나중에 취미로 봐도 돼요. 매치드가 발목을 잡지 않아요."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "fulcrum-rebound-and-bounce",
+      "section": "basics",
+      "title": "Fulcrum, Rebound, and the Bounce",
+      "titleKr": "받침점, 리바운드, 그리고 튕김",
+      "order": 4,
+      "body": "Here's the secret that separates strugglers from natural players: let the stick bounce. When a stick hits a drum, the head pushes it right back up — that's rebound, free energy the drum hands you. Your job is to catch and reuse it, not fight it. Keep the fulcrum (thumb + index) firm as the pivot, and let the back fingers stay loose so the stick can pop back up on its own, like a basketball dribble. Try it: drop the tip onto the snare from a couple of inches and let it bounce freely, catching it lightly — buh-buh-buh-buh. If it thuds and dies, you're squeezing and \"choking\" the stick. A relaxed hand plays faster, longer, and with a better sound, because the drum is doing half the work for you.",
+      "bodyKr": "초보와 자연스러운 연주자를 가르는 비밀이 있어요. 스틱을 튕기게 두는 거예요. 스틱이 드럼을 때리면 헤드가 스틱을 다시 위로 밀어 올려요. 이게 리바운드, 드럼이 공짜로 주는 에너지예요. 우리가 할 일은 이걸 붙잡아 다시 쓰는 거지 억누르는 게 아니에요. 받침점(엄지와 검지)은 축으로 단단히 두고, 뒤쪽 손가락은 힘을 빼서 스틱이 농구공 드리블처럼 스스로 튀어 오르게 하세요. 이렇게 해 보세요. 스틱 끝을 스네어 위 몇 센티에서 떨어뜨리고 자유롭게 튕기며 가볍게 받아 보세요. 부-부-부-부 하고요. 소리가 툭 하고 죽으면 스틱을 꽉 쥐어 '초크'하고 있는 거예요. 힘을 뺀 손이 더 빠르고, 더 오래, 더 좋은 소리로 연주해요. 드럼이 절반을 대신 해 주니까요.",
+      "keyPoints": [
+        "Rebound is free energy — the drum pushes the stick back up.",
+        "Firm fulcrum, loose back fingers = the stick bounces on its own.",
+        "Choking the stick makes it thud, tires you, and slows you down.",
+        "Think basketball dribble: catch and reuse the bounce."
+      ],
+      "keyPointsKr": [
+        "리바운드는 공짜 에너지예요. 드럼이 스틱을 다시 밀어 올려요.",
+        "받침점은 단단히, 뒷손가락은 느슨하게 하면 스틱이 스스로 튕겨요.",
+        "스틱을 꽉 쥐면 소리가 죽고 금방 지치고 느려져요.",
+        "농구 드리블처럼 튕김을 받아 다시 쓴다고 생각하세요."
+      ],
+      "diagram": "grip-fulcrum",
+      "patternRef": null
+    },
+    {
+      "id": "the-basic-stroke-up-down",
+      "section": "basics",
+      "title": "The Basic Stroke: Up-Down Motion",
+      "titleKr": "기본 스트로크: 업다운 동작",
+      "order": 5,
+      "body": "Every beat you'll ever play is built from one motion: the stroke. Start with the tip up, swing it down to strike, then let the rebound carry it back to where it started — up, down, up, down. Lead the motion from your wrist, like knocking on a door or shaking water off your fingertips, and let the stick's weight fall rather than forcing it. Two sizes matter most at first. A full stroke starts high and returns high — big and loud, for crashes and strong backbeats. A tap starts low and returns low — small and quiet, for fast hi-hats and ghost notes. Same motion, different heights. Loud and soft aren't about squeezing harder; they're about how far the stick travels.",
+      "bodyKr": "앞으로 치게 될 모든 비트는 단 하나의 동작, 스트로크에서 나와요. 스틱 끝을 위로 든 상태에서 아래로 내리쳐 때리고, 리바운드를 이용해 다시 출발한 높이로 올라오게 하세요. 위, 아래, 위, 아래. 이 동작은 손목에서 이끌어요. 문을 노크하거나 손끝의 물기를 털듯이요. 힘으로 밀어붙이지 말고 스틱의 무게가 떨어지게 두세요. 처음엔 두 가지 크기가 제일 중요해요. 풀 스트로크는 높이 들어 높이 돌아와요. 크고 강해서 크래시나 강한 백비트에 써요. 탭은 낮게 시작해 낮게 돌아와요. 작고 조용해서 빠른 하이햇이나 고스트노트에 써요. 같은 동작, 다른 높이예요. 크고 작은 소리는 세게 쥐는 게 아니라 스틱이 얼마나 멀리 움직이느냐로 정해져요.",
+      "keyPoints": [
+        "One motion underlies everything: up, down, up, down from the wrist.",
+        "Let the stick's weight fall and the rebound lift it back.",
+        "Full stroke = high/loud (crashes, backbeats); tap = low/soft (fast hats, ghosts).",
+        "Volume comes from stick height, not from squeezing."
+      ],
+      "keyPointsKr": [
+        "모든 것의 바탕은 하나의 동작이에요. 손목으로 위, 아래, 위, 아래.",
+        "스틱의 무게로 떨어뜨리고 리바운드로 다시 올리세요.",
+        "풀 스트로크는 높고 크게(크래시·백비트), 탭은 낮고 작게(빠른 하이햇·고스트노트) 해요.",
+        "소리 크기는 세게 쥐는 게 아니라 스틱 높이에서 나와요."
+      ],
+      "diagram": "stroke-motion",
+      "patternRef": null
+    },
+    {
+      "id": "the-kit-and-worship-setup",
+      "section": "basics",
+      "title": "The Kit and a Worship Setup",
+      "titleKr": "드럼셋과 찬양 셋업",
+      "order": 6,
+      "body": "Let's meet the kit. Right in front of you sits the snare — the sharp, cracking drum that plays the backbeat — nestled between your knees. Under your right foot is the kick (bass drum) pedal, the low heartbeat of every groove; under your left is the hi-hat pedal, two cymbals that clap together. Your right hand usually rides the hi-hat or the ride cymbal for a steady tick-tick-tick, while crashes punctuate the big moments. Above and around you are the toms — high (T1) and mid (T2) mounted over the kick, and the floor tom (FT) to your right — used for fills and color. A sensible worship setup keeps it simple: snare, kick, hi-hat, ride, one crash, and a tom or two. You don't need a wall of drums to lead a congregation.",
+      "bodyKr": "드럼셋을 만나 볼까요. 바로 앞, 무릎 사이에 스네어가 있어요. 백비트를 담당하는, 날카롭게 '탁' 하고 터지는 드럼이죠. 오른발 아래엔 킥(베이스 드럼) 페달이 있어요. 모든 그루브의 낮은 심장 박동이에요. 왼발 아래엔 하이햇 페달이 있고, 두 장의 심벌이 서로 부딪혀요. 오른손은 보통 하이햇이나 라이드 심벌 위에서 '틱틱틱' 하고 박자를 짚고, 크래시는 큰 순간을 강조해요. 위쪽과 주변엔 톰이 있어요. 킥 위에 얹힌 하이톰(T1)과 미드톰(T2), 그리고 오른쪽의 플로어톰(FT)은 필인과 색채를 더할 때 써요. 좋은 찬양 셋업은 단순함을 지켜요. 스네어, 킥, 하이햇, 라이드, 크래시 하나, 톰 한두 개면 충분해요. 회중을 이끄는 데 드럼이 벽처럼 많이 필요하진 않아요.",
+      "keyPoints": [
+        "Snare between the knees plays the backbeat; kick sits under the right foot.",
+        "Left foot works the hi-hat; the right hand keeps time on hats or ride.",
+        "Toms (T1/T2/FT) add fills and color; the crash marks big moments.",
+        "A worship kit stays simple: snare, kick, hats, ride, a crash, a tom or two."
+      ],
+      "keyPointsKr": [
+        "무릎 사이의 스네어가 백비트를, 오른발이 킥을 담당해요.",
+        "왼발은 하이햇을, 오른손은 하이햇이나 라이드로 박자를 짚어요.",
+        "톰(T1/T2/FT)은 필인과 색을, 크래시는 큰 순간을 강조해요.",
+        "찬양 셋업은 단순하게 해요. 스네어, 킥, 하이햇, 라이드, 크래시, 톰 한두 개면 돼요."
+      ],
+      "diagram": "kit",
+      "patternRef": null
+    },
+    {
+      "id": "throne-pedal-and-posture",
+      "section": "basics",
+      "title": "Throne, Pedal, and Posture",
+      "titleKr": "스로운, 페달, 자세",
+      "order": 7,
+      "body": "Before you play a note, set your body up to succeed. Adjust the throne (drum stool) so your thighs slope slightly downhill — hips a touch higher than your knees — which frees your legs to work the pedals. Sit on the front half of the seat, back straight but relaxed, leaning in just slightly like you're about to stand. Position the kick pedal under the ball of your right foot and the hi-hat under your left; both heels can rest down while you learn. Keep your wrists neutral and level, not bent up or cranked down, so they can flick freely without strain. Good posture isn't about looking tidy — it's what lets you play a 40-minute set without your back, shoulders, or wrists screaming at you.",
+      "bodyKr": "한 음을 치기 전에 몸부터 잘 세팅하세요. 드럼 의자(스로운)는 허벅지가 살짝 내리막이 되도록, 엉덩이가 무릎보다 조금 높게 맞추세요. 그래야 다리가 페달을 편하게 움직여요. 의자 앞쪽 절반에 앉고, 등은 곧게 펴되 힘을 빼서 막 일어설 것처럼 살짝 앞으로 기대세요. 킥 페달은 오른발 앞꿈치 아래, 하이햇은 왼발 아래에 두세요. 배우는 동안엔 양쪽 뒤꿈치를 바닥에 붙여도 괜찮아요. 손목은 위로 꺾거나 아래로 눌리지 않게 중립으로 나란히 두어, 힘 안 들이고 자유롭게 튕길 수 있게 하세요. 좋은 자세는 멋져 보이려는 게 아니에요. 40분 찬양을 등, 어깨, 손목이 비명 지르지 않고 끝까지 연주하게 해 주는 거예요.",
+      "keyPoints": [
+        "Set throne height so your hips sit slightly above the knees.",
+        "Sit on the front half, back straight and relaxed, leaning in a little.",
+        "Ball of the foot on each pedal; wrists neutral and level.",
+        "Good posture = playing a full set without pain."
+      ],
+      "keyPointsKr": [
+        "스로운 높이는 엉덩이가 무릎보다 살짝 높게 맞추세요.",
+        "의자 앞쪽에 앉아 등을 곧게, 힘을 빼고 살짝 앞으로 기대세요.",
+        "페달엔 발 앞꿈치를, 손목은 중립으로 나란히 두세요.",
+        "좋은 자세는 한 세트 내내 아프지 않고 연주하게 해 줘요."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "counting-and-subdivision",
+      "section": "basics",
+      "title": "Counting and Subdivision",
+      "titleKr": "박자 세기와 잘게 나누기",
+      "order": 8,
+      "body": "Drumming is really counting made audible, so let's learn to count time out loud. Tap your foot at a steady walking pace — each tap is a quarter note, counted \"1, 2, 3, 4\" over and over. Now split each beat in half and you get eighth notes, counted \"1 & 2 & 3 & 4 &\" — the \"&\" (say \"and\") lands exactly between the taps, and this is the pulse under most worship songs. Split each half again into sixteenth notes, counted \"1 e & a 2 e & a\" — four evenly spaced sounds per beat, used for busier hi-hat patterns and fills. Same beat, just chopped into finer slices, called subdivisions. Say the counts out loud while you tap. If you can speak the rhythm cleanly, your hands can learn to play it.",
+      "bodyKr": "드럼은 사실 소리로 나타낸 박자 세기예요. 그러니 박자를 소리 내어 세는 법부터 배워요. 걷는 속도로 발을 일정하게 두드려 보세요. 발을 구르는 한 번 한 번이 4분음표고, '1, 2, 3, 4' 하고 반복해서 세요. 이제 각 박을 반으로 쪼개면 8분음표가 되고, '1 앤 2 앤 3 앤 4 앤' 하고 세요. '앤'은 발구름 정확히 가운데에 떨어지고, 대부분의 찬양곡이 이 흐름 위에 있어요. 그 반을 또 쪼개면 16분음표가 되고, '1 e & a 2 e & a' 하고 세요. 한 박에 네 개의 소리가 고르게 들어가고, 촘촘한 하이햇 패턴이나 필인에 써요. 같은 박을 더 잘게 자른 것뿐이고, 이걸 잘게 나눔(서브디비전)이라고 해요. 두드리면서 소리 내어 세어 보세요. 리듬을 입으로 깔끔하게 말할 수 있으면 손도 그걸 배울 수 있어요.",
+      "keyPoints": [
+        "Quarters = \"1 2 3 4\", one per foot tap.",
+        "Eighths = \"1 & 2 & 3 & 4 &\", the \"&\" halfway between beats.",
+        "Sixteenths = \"1 e & a\", four even sounds per beat.",
+        "Count out loud — if you can say it, you can play it."
+      ],
+      "keyPointsKr": [
+        "4분음표는 '1 2 3 4', 발구름 한 번에 하나예요.",
+        "8분음표는 '1 앤 2 앤 3 앤 4 앤', '앤'은 박 사이 정가운데예요.",
+        "16분음표는 '1 e & a', 한 박에 네 개가 고르게 들어가요.",
+        "소리 내어 세세요. 입으로 말할 수 있으면 칠 수 있어요."
+      ],
+      "diagram": "counting",
+      "patternRef": null
+    },
+    {
+      "id": "reading-the-groovegrid",
+      "section": "basics",
+      "title": "Reading the GrooveGrid",
+      "titleKr": "그루브 그리드 읽는 법",
+      "order": 9,
+      "body": "This app shows every beat as a GrooveGrid, and once you can read it, you can learn any pattern at a glance. Each row (a \"lane\") is one piece of the kit — hi-hat, snare, kick, and so on — stacked top to bottom the way you'd reach for them. Each column is one step in time, moving left to right; eight columns means eighth notes, sixteen means sixteenths, matching the count above the grid. A filled cell means \"play this piece on this step\"; an empty cell means rest, stay silent. Brighter or accented cells are louder hits, and soft snare marks are ghost notes. Press ▶ and the grid loops the bar over and over so you can play along. Read down a column to see everything that happens at one moment; read across a lane to hear one drum's rhythm.",
+      "bodyKr": "이 앱은 모든 비트를 그루브 그리드로 보여줘요. 이걸 읽을 줄 알면 어떤 패턴이든 한눈에 배울 수 있어요. 각 가로줄('레인')은 드럼셋의 한 부분이에요. 하이햇, 스네어, 킥처럼 손이 가는 순서대로 위에서 아래로 쌓여 있어요. 각 세로줄은 시간의 한 스텝이고 왼쪽에서 오른쪽으로 흘러가요. 여덟 칸이면 8분음표, 열여섯 칸이면 16분음표고, 그리드 위의 카운트와 맞아떨어져요. 칸이 채워져 있으면 '이 스텝에 이 악기를 쳐라'는 뜻이고, 빈 칸은 쉼표, 즉 소리 내지 말라는 뜻이에요. 더 밝거나 강조된 칸은 더 큰 소리고, 작은 스네어 표시는 고스트노트예요. ▶를 누르면 그리드가 한 마디를 계속 반복해서 함께 칠 수 있어요. 세로로 읽으면 한 순간에 일어나는 모든 걸 보고, 가로로 읽으면 한 드럼의 리듬을 들을 수 있어요.",
+      "keyPoints": [
+        "Rows are kit pieces (lanes); columns are steps in time, left to right.",
+        "Filled = hit that piece; empty = rest. Accents are louder, ghosts are soft.",
+        "Column count matches the subdivision (8 = eighths, 16 = sixteenths).",
+        "Press ▶ to loop the bar and play along."
+      ],
+      "keyPointsKr": [
+        "가로줄은 악기(레인), 세로줄은 시간의 스텝이고 왼쪽에서 오른쪽으로 가요.",
+        "채워짐은 침, 빈칸은 쉼표예요. 강조는 크게, 고스트노트는 작게요.",
+        "세로줄 개수는 잘게 나눔과 같아요. 8이면 8분, 16이면 16분음표예요.",
+        "▶를 누르면 마디가 반복돼 함께 칠 수 있어요."
+      ],
+      "diagram": null,
+      "patternRef": "groove-8beat-basic"
+    },
+    {
+      "id": "practicing-to-a-click",
+      "section": "basics",
+      "title": "Practicing to a Click",
+      "titleKr": "클릭에 맞춰 연습하기",
+      "order": 10,
+      "body": "A metronome is a device that clicks at a steady tempo, and learning with it is the single biggest favor you can do your future self. Set it to a slow BPM (beats per minute) — try 70 or 80 — and play your groove so every hi-hat lines up with a click, like two people clapping as one. It will feel unforgiving at first, and that's the point: the click reveals exactly where you rush or drag so you can fix it. Worship drummers especially live by the click, because on Sunday you'll often play to a \"click track\" in your in-ear monitors that keeps the whole band — plus any backing tracks or lyric slides — locked together. Being the steady one is your gift to the team. Start slow, nail it, then nudge the tempo up a few BPM at a time.",
+      "bodyKr": "메트로놈은 일정한 템포로 '똑딱' 소리를 내는 도구예요. 이걸로 연습하는 건 미래의 나에게 주는 가장 큰 선물이에요. 느린 BPM(분당 박자 수)에 맞추세요. 70이나 80으로 해 보세요. 그리고 모든 하이햇이 클릭과 딱 맞도록 그루브를 쳐 보세요. 두 사람이 하나처럼 손뼉 치듯이요. 처음엔 야박하게 느껴질 텐데, 바로 그게 핵심이에요. 클릭은 내가 어디서 빨라지거나 늘어지는지 정확히 드러내 줘서 고칠 수 있게 해 줘요. 특히 찬양 드러머는 클릭과 함께 살아요. 주일엔 인이어 모니터로 '클릭 트랙'을 들으며 연주하는 경우가 많은데, 그게 밴드 전체와 반주 트랙, 가사 슬라이드까지 하나로 묶어 주거든요. 흔들림 없는 사람이 되는 것이 팀에게 주는 선물이에요. 느리게 시작해서 완벽히 익히고, 그다음 몇 BPM씩 올리세요.",
+      "keyPoints": [
+        "A metronome clicks a steady tempo; practice locked to it.",
+        "Start slow (70–80 BPM) so every hi-hat lands on the click.",
+        "The click exposes rushing and dragging so you can fix them.",
+        "On Sunday you'll play to a click track in your in-ears — be the steady one."
+      ],
+      "keyPointsKr": [
+        "메트로놈은 일정한 템포로 똑딱여요. 거기에 딱 맞춰 연습하세요.",
+        "느리게(70~80 BPM) 시작해 모든 하이햇을 클릭에 맞추세요.",
+        "클릭은 빨라짐과 늘어짐을 드러내 고칠 수 있게 해 줘요.",
+        "주일엔 인이어로 클릭 트랙을 들으며 쳐요. 흔들리지 않는 사람이 되세요."
+      ],
+      "diagram": null,
+      "patternRef": "groove-8beat-basic"
+    },
+    {
+      "id": "warm-ups-and-practice-habits",
+      "section": "basics",
+      "title": "Warm-Ups and Practice Habits",
+      "titleKr": "워밍업과 연습 습관",
+      "order": 11,
+      "body": "Great drummers aren't born with fast hands — they build them through slow, patient reps. Before you play, warm up gently: tap steady single strokes (right-left-right-left, \"R L R L\") on the snare or a practice pad for a minute or two, keeping every stroke even in height and sound. Then follow three habits every session. Practice slow enough to play it perfectly — speed is a by-product of accuracy, never the goal. Loop the tricky bar over and over instead of restarting the whole song, so your hands drill the exact spot that's hard. And count out loud while you play, even when it feels silly, because your voice keeps your hands honest to the beat. Ten focused, slow, counted minutes beat an hour of sloppy fast playing every time.",
+      "bodyKr": "훌륭한 드러머는 빠른 손을 타고나는 게 아니에요. 느리고 끈기 있는 반복으로 만들어 가는 거예요. 연주 전엔 가볍게 워밍업하세요. 스네어나 연습 패드에 고른 싱글 스트로크(오른-왼-오른-왼, 'R L R L')를 1~2분 두드리며 모든 타격의 높이와 소리를 똑같이 유지하세요. 그리고 매 연습마다 세 가지 습관을 지키세요. 완벽하게 칠 수 있을 만큼 느리게 연습하세요. 속도는 정확함의 결과일 뿐 목표가 아니에요. 곡 전체를 처음부터 다시 치지 말고 어려운 마디만 계속 반복하세요. 손이 정확히 그 힘든 지점을 익히도록요. 그리고 연주하면서 소리 내어 세세요. 유치하게 느껴져도요. 목소리가 손을 박자에 정직하게 붙들어 주거든요. 집중해서 느리게, 세어 가며 하는 10분이 엉성하게 빠른 1시간을 늘 이겨요.",
+      "keyPoints": [
+        "Warm up with even single strokes (R L R L) before playing.",
+        "Practice slow enough to be perfect — speed follows accuracy.",
+        "Loop the hard bar; don't restart the whole song each time.",
+        "Count out loud; ten slow focused minutes beat an hour of sloppy speed."
+      ],
+      "keyPointsKr": [
+        "연주 전 고른 싱글 스트로크(R L R L)로 워밍업하세요.",
+        "완벽할 만큼 느리게 연습하세요. 속도는 정확함을 따라와요.",
+        "어려운 마디만 반복하세요. 매번 곡을 처음부터 치지 마세요.",
+        "소리 내어 세세요. 집중한 느린 10분이 엉성한 1시간을 이겨요."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "worship-click-in-ears",
+      "section": "worship",
+      "title": "Playing to a Click & In-Ears",
+      "titleKr": "클릭과 인이어에 맞춰 연주하기",
+      "order": 1,
+      "body": "In most worship bands today you'll wear in-ear monitors and play to a click (a metronome track). This can feel strange at first, but the click is your friend — it keeps the whole team locked together and lets the tech team run tracks, loops, and lyric slides in sync. Start by simply listening: breathe with the click, let your hi-hat or kick land right on top of it, and don't fight it. If you rush, the click will feel like it's slowing down; if you drag, it'll feel like it's speeding up. Set your in-ear mix so you can hear the click clearly, plus a little of yourself and the worship leader's voice. Practice at home with a metronome long before Sunday, so playing to a click feels natural, not scary.",
+      "bodyKr": "요즘 대부분의 찬양팀은 인이어를 끼고 클릭(메트로놈)에 맞춰 연주한다. 처음엔 어색하지만 클릭은 여러분의 친구다. 팀 전체를 하나로 묶어 주고, 트랙과 루프, 가사 화면까지 동기화되게 해 준다. 먼저 그냥 듣는 것부터 시작한다. 클릭과 함께 호흡하고, 하이햇이나 킥을 클릭 바로 위에 얹는다는 느낌으로 친다. 서두르면 클릭이 느려지는 것처럼 들리고, 늘어지면 빨라지는 것처럼 들린다. 인이어 밸런스는 클릭이 또렷하게 들리고 내 소리와 인도자 목소리가 조금 섞이도록 맞춘다. 주일 훨씬 전부터 집에서 메트로놈에 맞춰 연습해서 클릭이 무섭지 않고 자연스러워지게 하자.",
+      "keyPoints": [
+        "The click keeps the whole team and the tracks locked together",
+        "Build an in-ear mix: click, a little of yourself, the leader's voice",
+        "Rushing makes the click feel slow; dragging makes it feel fast",
+        "Practice with a metronome at home so Sunday feels natural"
+      ],
+      "keyPointsKr": [
+        "클릭은 팀 전체와 트랙을 하나로 묶어 준다.",
+        "인이어에는 클릭, 내 소리 조금, 인도자 목소리를 담는다.",
+        "서두르면 클릭이 느리게, 늘어지면 빠르게 느껴진다.",
+        "집에서 메트로놈으로 미리 연습해 두자."
+      ],
+      "diagram": "counting",
+      "patternRef": null
+    },
+    {
+      "id": "worship-serving-the-song",
+      "section": "worship",
+      "title": "Serving the Song — the Discipline of Not Overplaying",
+      "titleKr": "곡을 섬기기 — 과하게 치지 않는 절제",
+      "order": 2,
+      "body": "The hardest skill in worship drumming isn't a fast fill — it's knowing what to leave out. Your job is to serve the song and the congregation's worship, not to show off. A busy fill in a quiet verse can pull people out of the moment; a simple, steady groove can carry a whole room. Ask yourself: \"Does this note help people sing?\" If not, don't play it. Leave space. Silence and simplicity are powerful. The best worship drummers often play less than they're able to, and the band and congregation feel held, not distracted. Save your bigger fills and crashes for the moments that truly build.",
+      "bodyKr": "찬양 드럼에서 가장 어려운 건 빠른 필인이 아니라 무엇을 빼야 하는지 아는 것이다. 우리의 역할은 곡과 회중의 예배를 섬기는 것이지 실력을 뽐내는 게 아니다. 조용한 벌스에 화려한 필인을 넣으면 사람들의 몰입이 깨지고, 단순하고 꾸준한 그루브 하나가 예배당 전체를 이끌 수 있다. \"이 음이 사람들이 찬양하는 데 도움이 될까?\"라고 스스로 물어보자. 아니라면 치지 않는다. 공간을 남겨 둔다. 여백과 단순함은 강력하다. 좋은 찬양 드러머일수록 칠 수 있는 것보다 덜 친다. 그러면 밴드와 회중이 산만해지지 않고 든든하게 받쳐지는 느낌을 받는다. 큰 필인과 크래시는 정말로 고조되는 순간을 위해 아껴 두자.",
+      "keyPoints": [
+        "Your job is to serve the song, not to show off",
+        "Ask \"does this help people sing?\" — if not, leave it out",
+        "Space and simplicity carry a room",
+        "Save big fills and crashes for real build moments"
+      ],
+      "keyPointsKr": [
+        "우리 역할은 실력 자랑이 아니라 곡을 섬기는 것이다.",
+        "\"이 음이 찬양에 도움이 될까?\" 아니면 뺀다.",
+        "여백과 단순함이 예배당을 이끈다.",
+        "큰 필인과 크래시는 진짜 고조되는 순간에 아낀다."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "worship-dynamics-verse-to-chorus",
+      "section": "worship",
+      "title": "Dynamics — Building Energy from Verse to Chorus",
+      "titleKr": "다이내믹 — 벌스에서 코러스로 에너지 키우기",
+      "order": 3,
+      "body": "A worship song is a journey, and dynamics are how you tell that story on the kit. A typical arc goes verse (soft) → pre-chorus (building) → chorus (full) → bridge (either huge or stripped-down). In the verse, play light — hi-hat closed and quiet, kick and snare gentle. In the pre-chorus, start to grow: open the hi-hat slightly, add a little more kick, lean into the backbeat. In the chorus, move to the ride or crash-ride, dig into the snare, and let the energy bloom. The key is gradual change — think of a dimmer switch, not an on/off light. Practice the same groove at three volumes so your hands learn the difference between a whisper and a shout.",
+      "bodyKr": "찬양곡은 하나의 여정이고, 다이내믹은 그 이야기를 드럼으로 들려주는 방법이다. 보통 벌스(여리게) → 프리코러스(고조) → 코러스(가득) → 브릿지(폭발하거나 확 비우거나) 흐름으로 간다. 벌스에서는 가볍게 친다. 하이햇을 닫고 조용히, 킥과 스네어도 부드럽게. 프리코러스에서는 조금씩 키운다. 하이햇을 살짝 열고 킥을 더하고 백비트에 힘을 싣는다. 코러스에서는 라이드나 크래시로 옮겨 가고 스네어를 깊게 치며 에너지를 활짝 피운다. 핵심은 점진적인 변화다. 껐다 켜는 스위치가 아니라 밝기 조절 다이얼처럼 생각하자. 같은 그루브를 세 가지 크기로 연습하면 속삭임과 외침의 차이를 손이 기억하게 된다.",
+      "keyPoints": [
+        "A song is a journey — verse soft, pre-chorus building, chorus full",
+        "Use a dimmer, not an on/off switch — grow gradually",
+        "Verse: quiet closed hi-hat; chorus: ride/crash and a strong backbeat",
+        "Practice one groove at three volumes"
+      ],
+      "keyPointsKr": [
+        "곡은 여정이다. 벌스는 여리게, 프리코러스는 고조, 코러스는 가득.",
+        "스위치가 아니라 밝기 다이얼처럼 서서히 키운다.",
+        "벌스는 닫은 하이햇으로 조용히, 코러스는 라이드·크래시와 강한 백비트로.",
+        "같은 그루브를 세 가지 크기로 연습하자."
+      ],
+      "diagram": "stroke-motion",
+      "patternRef": "worship-swelling-build"
+    },
+    {
+      "id": "worship-energy-map",
+      "section": "worship",
+      "title": "The Energy Map of a Worship Set",
+      "titleKr": "찬양 세트의 에너지 지도",
+      "order": 4,
+      "body": "A worship set is usually several songs in a row, arranged as an emotional map — fast, celebratory songs to gather and lift the room, then slower, more intimate songs to draw people into reflection and response. As the drummer, you're a big part of steering that energy. Know before the set where the peaks are (the anthem choruses, the final bridge) and where you lay back (the quiet ministry moments). Don't play every song at 100% — if everything is loud, nothing feels big. Sometimes the most powerful thing you can do is drop out entirely and let a soft song breathe, then come back with full force on the climax. Talk with your worship leader beforehand so you know the plan.",
+      "bodyKr": "찬양 세트는 보통 여러 곡을 이어서 하며, 감정의 지도처럼 배치된다. 빠르고 축제 같은 곡으로 회중을 모으고 끌어올린 뒤, 느리고 친밀한 곡으로 사람들을 묵상과 응답으로 이끈다. 드러머는 그 에너지의 흐름을 이끄는 큰 역할을 한다. 세트를 시작하기 전에 어디가 정점인지(앤섬 코러스, 마지막 브릿지) 어디서 뒤로 물러날지(조용한 사역의 순간) 미리 파악한다. 모든 곡을 100%로 치지 말자. 전부 크면 아무것도 크게 느껴지지 않는다. 때로는 완전히 빠져서 조용한 곡이 숨 쉬게 두었다가, 클라이맥스에서 온 힘으로 다시 들어오는 것이 가장 강력하다. 미리 인도자와 이야기해서 흐름을 알아 두자.",
+      "keyPoints": [
+        "A set is an emotional map — high songs to gather, low songs to reflect",
+        "Know the peaks and the lay-back moments before you start",
+        "If everything is loud, nothing feels big",
+        "Dropping out can be more powerful than playing"
+      ],
+      "keyPointsKr": [
+        "세트는 감정의 지도다. 올리는 곡과 묵상하는 곡이 번갈아 온다.",
+        "시작 전에 정점과 물러날 순간을 파악한다.",
+        "전부 크면 아무것도 크게 느껴지지 않는다.",
+        "아예 빠지는 것이 연주보다 강력할 때가 있다."
+      ],
+      "diagram": null,
+      "patternRef": "worship-four-on-floor-anthem"
+    },
+    {
+      "id": "worship-reading-cues",
+      "section": "worship",
+      "title": "Reading the Band & Leader's Cues",
+      "titleKr": "밴드와 인도자의 사인 읽기",
+      "order": 5,
+      "body": "Worship isn't a fixed recording — the leader may repeat a chorus, add a spontaneous bridge, or cut a song short as the Spirit leads. You have to watch and listen constantly. Learn the common cues: a raised hand or fist often means \"hold\" or \"stop\"; a lifted finger means \"one more time\"; a nod or a build in the leader's voice means \"grow with me.\" Keep your eyes up, not buried in the kit. Watch the worship leader and the music director, and listen for the band getting quieter or louder around you. When in doubt, follow the leader and the bass player — lock in with them. Being a great worship drummer is 50% listening and watching, 50% playing.",
+      "bodyKr": "예배는 정해진 음원이 아니다. 인도자가 코러스를 반복하거나 즉흥 브릿지를 넣거나 성령의 인도하심을 따라 곡을 짧게 끝낼 수도 있다. 그래서 계속 보고 들어야 한다. 흔한 사인을 익혀 두자. 손이나 주먹을 들면 대개 \"멈춤\"이나 \"홀드\"를 뜻하고, 손가락 하나를 들면 \"한 번 더\", 고개를 끄덕이거나 목소리가 커지면 \"같이 키우자\"는 뜻이다. 시선은 드럼에 파묻지 말고 위로 든다. 인도자와 음악 디렉터를 보고, 주변 밴드가 작아지는지 커지는지 귀로 듣는다. 헷갈릴 때는 인도자와 베이스를 따라간다. 그들과 딱 맞춘다. 좋은 찬양 드러머는 절반이 보고 듣기, 절반이 연주다.",
+      "keyPoints": [
+        "Worship is live and can change — watch and listen constantly",
+        "Cues: fist = hold/stop, one finger = one more time, nod/build = grow",
+        "Keep your eyes up, not buried in the kit",
+        "When unsure, lock in with the leader and the bass"
+      ],
+      "keyPointsKr": [
+        "예배는 라이브라 바뀔 수 있다. 계속 보고 듣는다.",
+        "주먹은 멈춤·홀드, 손가락 하나는 한 번 더, 끄덕임은 키우기.",
+        "시선은 드럼에 파묻지 말고 위로 든다.",
+        "헷갈리면 인도자와 베이스에 딱 맞춘다."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "worship-spontaneous-vamps",
+      "section": "worship",
+      "title": "Free & Spontaneous Worship — Vamps and Pads",
+      "titleKr": "자유 예배 — 뱀프와 패드",
+      "order": 6,
+      "body": "Many worship sets include a free or spontaneous section — the band vamps on one or two chords while the leader sings or prays freely. This is where less is more. Often the best choice is to sit on a soft cymbal swell or a simple heartbeat pulse on the floor tom and kick, leaving lots of space. Keep your ears wide open: follow the leader's phrasing and dynamics, swell up when they build, pull back to almost nothing when they get quiet. Don't introduce a busy groove unless the moment clearly calls for it. Learn to loop a simple two-bar vamp comfortably for a long time without rushing. This is worship, not a solo — hold the space and let the room breathe.",
+      "bodyKr": "많은 찬양 세트에는 자유 예배(스판테이니어스) 구간이 있다. 밴드가 한두 코드 위에서 반복(뱀프)하는 동안 인도자가 자유롭게 노래하거나 기도한다. 여기서는 적을수록 좋다. 대개 가장 좋은 선택은 부드러운 심벌 스웰이나 플로어탐과 킥의 단순한 심장박동 같은 펄스 위에 앉아 여백을 많이 남기는 것이다. 귀를 활짝 열어 인도자의 프레이징과 다이내믹을 따라간다. 그들이 키우면 스웰로 올리고, 조용해지면 거의 아무것도 없을 만큼 뺀다. 순간이 분명히 요구하지 않는 한 복잡한 그루브를 꺼내지 말자. 단순한 두 마디 뱀프를 서두르지 않고 오래 편안하게 반복하는 법을 익힌다. 이건 예배지 솔로가 아니다. 공간을 지키고 예배당이 숨 쉬게 하자.",
+      "keyPoints": [
+        "In free worship, less is more — hold space, don't fill it",
+        "Sit on a cymbal swell or a soft floor-tom/kick heartbeat",
+        "Follow the leader's dynamics: swell up, pull back to nothing",
+        "Loop a simple vamp for a long time without rushing"
+      ],
+      "keyPointsKr": [
+        "자유 예배에서는 적을수록 좋다. 채우지 말고 공간을 지킨다.",
+        "심벌 스웰이나 부드러운 플로어탐·킥 심장박동 위에 앉는다.",
+        "인도자의 다이내믹을 따라 스웰로 올리고 거의 없을 만큼 뺀다.",
+        "단순한 뱀프를 서두르지 않고 오래 반복한다."
+      ],
+      "diagram": null,
+      "patternRef": "worship-spontaneous-vamp"
+    },
+    {
+      "id": "worship-cymbal-swells",
+      "section": "worship",
+      "title": "Cymbal Swells & Washes",
+      "titleKr": "심벌 스웰과 워시",
+      "order": 7,
+      "body": "A cymbal swell is one of the most useful colors in worship drumming — it adds emotion and lift without a hard hit. To make one, roll softly on a crash or ride with two sticks (or mallets for a smoother sound), starting almost silent and gradually getting louder, cresting on the downbeat where the band arrives. It's like a wave building and breaking. Use swells to signal a section change, to build into a chorus, or to fill a quiet moment under a pad. Mallets give the smoothest, most cinematic wash; sticks are brighter and quicker. Practice controlling the crescendo so it peaks exactly where you want, not too early. A well-placed swell can lift an entire congregation.",
+      "bodyKr": "심벌 스웰은 찬양 드럼에서 가장 쓸모 있는 색깔 중 하나다. 세게 때리지 않고도 감정과 고조를 더해 준다. 만드는 법은 크래시나 라이드를 스틱 두 개(더 부드러운 소리는 말렛)로 여리게 굴리며 거의 안 들릴 만큼 시작해서 점점 크게, 밴드가 도착하는 다운비트에서 정점을 찍는 것이다. 파도가 밀려와 부서지는 것과 같다. 스웰은 구간 전환을 알리거나 코러스로 고조시키거나 패드 아래 조용한 순간을 채울 때 쓴다. 말렛은 가장 부드럽고 영화 같은 워시를 주고, 스틱은 더 밝고 빠르다. 크레셴도를 조절해서 너무 일찍이 아니라 원하는 지점에서 정확히 정점이 되도록 연습하자. 잘 놓인 스웰 하나가 회중 전체를 들어 올릴 수 있다.",
+      "keyPoints": [
+        "A swell adds emotion and lift without a hard hit",
+        "Roll softly on a crash/ride, growing to peak on the downbeat",
+        "Use it for section changes, chorus builds, or under a quiet pad",
+        "Mallets = smooth and cinematic; sticks = brighter and quicker"
+      ],
+      "keyPointsKr": [
+        "스웰은 세게 치지 않고 감정과 고조를 더한다.",
+        "크래시·라이드를 여리게 굴려 다운비트에서 정점을 찍는다.",
+        "구간 전환, 코러스 고조, 조용한 패드 아래에 쓴다.",
+        "말렛은 부드럽고 영화 같고, 스틱은 더 밝고 빠르다."
+      ],
+      "diagram": "kit",
+      "patternRef": null
+    },
+    {
+      "id": "worship-rods-brushes-mallets",
+      "section": "worship",
+      "title": "Rods, Brushes & Mallets for Intimate Sets",
+      "titleKr": "로드·브러시·말렛으로 친밀한 세트 연주하기",
+      "order": 8,
+      "body": "For acoustic, intimate, or early-morning sets, swapping your sticks for softer tools changes everything. Rods (bundled dowels, like Hot Rods) give a warm, controlled sound — quieter than sticks but with enough attack to still groove; perfect for intimate verses. Brushes are even softer and can be swept across the snare for a smooth, whispery texture. Mallets turn your cymbals into pads and your toms into soft, round tones — beautiful for swells and ambient moments. Keep a pair of each in your stick bag and learn to switch quickly between songs. Playing an intimate set with rods, laying back on a cross-stick instead of a full backbeat, can be far more worshipful than the same groove with sticks at full volume.",
+      "bodyKr": "어쿠스틱하고 친밀한, 혹은 이른 아침 예배에서는 스틱을 더 부드러운 도구로 바꾸는 것만으로 모든 게 달라진다. 로드(핫로드처럼 가는 막대를 묶은 것)는 따뜻하고 조절되는 소리를 준다. 스틱보다 조용하지만 그루브를 살릴 만큼의 어택이 있어서 친밀한 벌스에 딱이다. 브러시는 더 부드러워서 스네어 위를 쓸어 속삭이는 듯한 질감을 만든다. 말렛은 심벌을 패드처럼, 탐을 둥글고 부드러운 음색으로 바꿔 준다. 스웰이나 앰비언트 순간에 아름답다. 스틱백에 각각 한 벌씩 넣어 두고 곡 사이에 빠르게 바꾸는 법을 익히자. 로드로 친밀한 세트를 연주하고 풀 백비트 대신 크로스스틱(림)으로 뒤로 물러나는 것이, 같은 그루브를 스틱으로 세게 치는 것보다 훨씬 예배다울 수 있다.",
+      "keyPoints": [
+        "Softer tools = a whole new dynamic range for intimate sets",
+        "Rods: warm and controlled, great for quiet verses",
+        "Brushes: whisper-soft, sweep the snare; mallets: cymbals become pads",
+        "Keep a pair of each and switch quickly between songs"
+      ],
+      "keyPointsKr": [
+        "부드러운 도구는 친밀한 세트에 새로운 다이내믹을 준다.",
+        "로드는 따뜻하고 조절돼서 조용한 벌스에 좋다.",
+        "브러시는 속삭이듯 스네어를 쓸고, 말렛은 심벌을 패드로 만든다.",
+        "각각 한 벌씩 챙겨 곡 사이에 빠르게 바꾼다."
+      ],
+      "diagram": "kit",
+      "patternRef": "worship-intimate-verse-rods"
+    },
+    {
+      "id": "worship-transitions-turnarounds",
+      "section": "worship",
+      "title": "Transitions & Turnarounds Between Songs",
+      "titleKr": "곡과 곡 사이의 전환과 턴어라운드",
+      "order": 9,
+      "body": "The moments between songs are where worship sets live or die. A clean transition keeps the congregation in a posture of worship; a clunky one breaks the spell and everyone reaches for their coffee. As the drummer, you often glue songs together. Common tools: a cymbal swell over the last chord to carry into the next song, a simple fill or turnaround to reset the groove, or a click count-in that only the band hears through in-ears. Know the tempo and feel of the next song before the current one ends — if the next song is faster, don't let the transition drag. Sometimes you'll ride a single note or pad with no drums at all, then drop the beat in cleanly when the new song kicks off. Practice these seams; they matter as much as the songs.",
+      "bodyKr": "곡과 곡 사이의 순간이 찬양 세트를 살리기도 죽이기도 한다. 깔끔한 전환은 회중을 예배의 자세에 머물게 하고, 어설픈 전환은 그 흐름을 깨서 다들 커피잔으로 손이 간다. 드러머는 종종 곡들을 이어 붙이는 접착제 역할을 한다. 흔한 방법은 마지막 코드 위에 심벌 스웰을 얹어 다음 곡으로 넘기거나, 간단한 필인이나 턴어라운드로 그루브를 리셋하거나, 밴드만 인이어로 듣는 클릭 카운트인을 주는 것이다. 지금 곡이 끝나기 전에 다음 곡의 템포와 필을 미리 알아 둔다. 다음 곡이 더 빠르면 전환을 늘어지게 두지 말자. 때로는 드럼 없이 한 음이나 패드만 유지하다가 새 곡이 시작될 때 비트를 깔끔하게 떨어뜨린다. 이 이음새를 연습하자. 곡만큼이나 중요하다.",
+      "keyPoints": [
+        "Transitions make or break a set — keep the congregation in worship",
+        "Glue songs with a swell, a turnaround fill, or an in-ear count-in",
+        "Know the next song's tempo and feel before the current one ends",
+        "Sometimes hold with no drums, then drop the beat in cleanly"
+      ],
+      "keyPointsKr": [
+        "전환이 세트를 살리고 죽인다. 회중을 예배 안에 머물게 한다.",
+        "스웰, 턴어라운드 필인, 인이어 카운트인으로 곡을 잇는다.",
+        "지금 곡이 끝나기 전에 다음 곡의 템포와 필을 알아 둔다.",
+        "드럼 없이 유지하다 비트를 깔끔하게 떨어뜨리기도 한다."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "worship-holding-tempo",
+      "section": "worship",
+      "title": "Holding Tempo for the Whole Team",
+      "titleKr": "팀 전체를 위해 템포 붙잡기",
+      "order": 10,
+      "body": "Even with a click, the drummer is the tempo anchor the whole band feels. If you rush the fills or drag the quiet verses, everyone follows you into the ditch. The most common beginner mistake is speeding up when the energy rises — in the big chorus, excitement makes hands go faster. Train yourself to stay planted: let the energy come from volume and intensity, not from tempo. Come out of every fill landing exactly back on beat 1 with the click. If there's no click, you're the human metronome — keep your kick and hi-hat rock-steady so the bass and keys can lock to you. A band can forgive a wrong note; it struggles to survive a drummer who can't hold time. Steady is a gift you give the whole team.",
+      "bodyKr": "클릭이 있어도 드러머는 밴드 전체가 느끼는 템포의 기준점이다. 필인에서 서두르거나 조용한 벌스에서 늘어지면 모두가 여러분을 따라 도랑으로 빠진다. 초보자가 가장 많이 하는 실수는 에너지가 올라갈 때 빨라지는 것이다. 큰 코러스에서 흥분하면 손이 빨라진다. 뿌리내린 듯 버티도록 훈련하자. 에너지는 템포가 아니라 볼륨과 강도에서 나오게 한다. 모든 필인은 클릭의 1박에 정확히 돌아와 착지한다. 클릭이 없다면 여러분이 인간 메트로놈이다. 킥과 하이햇을 바위처럼 흔들리지 않게 유지해서 베이스와 건반이 여러분에게 맞출 수 있게 한다. 밴드는 틀린 음 하나는 용서해도 박을 못 잡는 드러머와는 버티기 힘들다. 흔들리지 않는 박은 팀 전체에게 주는 선물이다.",
+      "keyPoints": [
+        "The drummer is the tempo anchor — the band follows your time",
+        "The classic mistake: speeding up when energy rises",
+        "Get intensity from volume, not tempo",
+        "Land every fill back on beat 1 with the click; steady time is a gift"
+      ],
+      "keyPointsKr": [
+        "드러머는 템포의 기준점이고 밴드가 그 박을 따라온다.",
+        "대표적 실수는 에너지가 오를 때 빨라지는 것이다.",
+        "강도는 템포가 아니라 볼륨에서 낸다.",
+        "모든 필인은 클릭의 1박으로 돌아온다. 흔들리지 않는 박은 팀에게 주는 선물이다."
+      ],
+      "diagram": "counting",
+      "patternRef": "worship-driving-chorus"
+    },
+    {
+      "id": "crash-grab-the-sticks",
+      "section": "crash",
+      "title": "Grab the Sticks (60 Seconds)",
+      "titleKr": "스틱 잡기 (60초)",
+      "order": 1,
+      "body": "Both hands hold the stick exactly the same way — that's 'matched grip,' the fastest grip to start with, so don't overthink it. Pick a stick up about a third of the way from the butt (bottom) end. Let it rest across the pad where your thumb meets the side of your index finger — that spot is your fulcrum, the pivot point the stick swings around. Lay your thumb flat along the side, then curl your other three fingers loosely around the rest. Loose is the whole secret: squeeze it and the stick dies in your hand; relax and it bounces right back to you for free. Do the same with both hands, hover the tips a couple inches over the drum, and you're holding it like a drummer. Sixty seconds — done. You can now hold the sticks correctly and make a clean, ringing sound.",
+      "bodyKr": "양손 모두 스틱을 똑같은 방식으로 잡아요. 이게 바로 '매치드 그립'이고, 시작하기에 가장 빠른 방법이니까 너무 복잡하게 생각하지 마세요. 스틱 아래쪽 끝에서 3분의 1 정도 올라온 지점을 잡으세요. 엄지와 검지가 만나는 살집에 스틱을 걸치면, 그 지점이 바로 스틱이 회전하는 받침점(중심축)이 돼요. 엄지를 옆면에 평평하게 대고, 나머지 세 손가락은 느슨하게 감아주세요. 핵심은 오직 '느슨함'이에요. 꽉 쥐면 스틱이 손 안에서 죽어버리고, 힘을 빼면 스틱이 알아서 공짜로 튀어 올라와요. 양손 똑같이 하고, 스틱 끝을 드럼 위 5cm쯤에 띄우면 드러머처럼 제대로 잡은 거예요. 60초면 끝나요. 이제 스틱을 올바르게 잡고 깨끗하게 울리는 소리를 낼 수 있어요.",
+      "keyPoints": [
+        "Both hands, identical grip = matched grip.",
+        "Hold about 1/3 up from the butt end.",
+        "Fulcrum = thumb + index finger; other three fingers stay loose.",
+        "Loose grip gives free rebound; a death grip kills the bounce."
+      ],
+      "keyPointsKr": [
+        "양손을 똑같이 잡는 게 매치드 그립이에요.",
+        "스틱 끝에서 3분의 1 지점을 잡아요.",
+        "받침점은 엄지와 검지, 나머지 세 손가락은 느슨하게.",
+        "느슨하면 리바운드가 공짜로 생기고, 꽉 쥐면 튐이 죽어요."
+      ],
+      "diagram": "grip-matched",
+      "patternRef": null
+    },
+    {
+      "id": "crash-first-groove",
+      "section": "crash",
+      "title": "Your First Groove",
+      "titleKr": "첫 그루브 잡기",
+      "order": 2,
+      "body": "Hit play on the pattern below. This is the basic 8-beat — the backbone of almost every worship song you'll ever play. Here's the whole map: your right hand taps steady eighth notes on the closed hi-hat ('1 and 2 and 3 and 4 and'), your kick (bass drum) lands on beats 1 and 3, and your snare cracks on 2 and 4. The right hand never stops moving. Now drag the tempo slider way down — 60 bpm, nice and slow — and just copy what you see and hear. You'll play it wrong, laugh, and play it again. Loop it twenty times. That right there is practice, and it's exactly how the groove sinks into your hands. You can now play the one groove that carries the vast majority of worship songs.",
+      "bodyKr": "아래 패턴에서 재생 버튼을 눌러보세요. 이게 바로 기본 8비트예요. 앞으로 연주할 거의 모든 찬양의 뼈대가 되는 그루브죠. 전체 지도는 이래요. 오른손은 닫은 하이햇 위에서 8분음표를 일정하게 두드려요('1 앤 2 앤 3 앤 4 앤'). 킥(베이스 드럼)은 1박과 3박에, 스네어는 2박과 4박에 때려요. 오른손은 절대 멈추지 않아요. 이제 템포 슬라이더를 확 내리세요. 60bpm 정도로 아주 천천히요. 그리고 보이고 들리는 걸 그대로 따라 하세요. 틀리고, 웃고, 다시 하고. 딱 스무 번만 반복해보세요. 그게 바로 연습이고, 그렇게 그루브가 손에 배는 거예요. 이제 대부분의 찬양을 끌고 가는 그 하나의 그루브를 칠 수 있어요.",
+      "keyPoints": [
+        "Right hand plays steady 8th notes on the closed hi-hat and never stops.",
+        "Kick on beats 1 and 3, snare on beats 2 and 4.",
+        "Slow the tempo slider to about 60 bpm and copy it note for note.",
+        "Loop it 20 times — repetition is the whole game."
+      ],
+      "keyPointsKr": [
+        "오른손은 닫은 하이햇에 8분음표, 절대 멈추지 않아요.",
+        "킥은 1박·3박, 스네어는 2박·4박.",
+        "템포 슬라이더를 60bpm까지 내려서 하나하나 그대로 따라 해요.",
+        "스무 번 반복하세요. 반복이 전부예요."
+      ],
+      "diagram": "kit",
+      "patternRef": "groove-8beat-basic"
+    },
+    {
+      "id": "crash-count-and-click",
+      "section": "crash",
+      "title": "Count It & Lock to the Click",
+      "titleKr": "카운트하며 클릭에 딱 붙이기",
+      "order": 3,
+      "body": "Say it out loud: '1 and 2 and 3 and 4 and.' Every number and every 'and' is exactly where your hi-hat hand strikes — that's why the 8-beat feels so even. Now switch on a click (a metronome, or the click in your in-ear). Your only job is to land right on top of the click, not a hair before it. Here's the beginner trap: excitement makes you rush, and rushing is the fastest way to sound green. Fight it by relaxing and feeling like you're sitting calmly in the pocket. Count out loud the entire time you play — it literally forces your hands to stay steady. Steady beats fancy, every single Sunday. You can now keep time — the one job a drummer must never drop.",
+      "bodyKr": "소리 내서 세어보세요. '1 앤 2 앤 3 앤 4 앤.' 모든 숫자와 모든 '앤'이 바로 하이햇 손이 치는 자리예요. 그래서 8비트가 그렇게 고르게 느껴지는 거죠. 이제 클릭을 켜세요(메트로놈이나 인이어 클릭). 당신의 유일한 임무는 클릭 위에 정확히 얹는 거예요. 조금이라도 앞서면 안 돼요. 초보의 함정이 바로 여기 있어요. 신나면 빨라지고, 빨라지는 게 초보 티를 내는 가장 빠른 길이에요. 힘 빼고 편하게 포켓 안에 앉아 있다는 느낌으로 맞서세요. 연주하는 내내 소리 내서 카운트하세요. 그게 손을 일정하게 붙잡아줘요. 화려한 것보다 안정된 박자가 매주 이겨요. 이제 박자를 지킬 수 있어요. 드러머가 절대 놓치면 안 되는 단 하나의 임무예요.",
+      "keyPoints": [
+        "Count out loud: '1 & 2 & 3 & 4 &' — every syllable is a hi-hat hit.",
+        "Land on top of the click, never ahead of it.",
+        "Excitement makes beginners rush — stay relaxed and in the pocket.",
+        "Steady time is the drummer's number-one job."
+      ],
+      "keyPointsKr": [
+        "소리 내서 '1 앤 2 앤 3 앤 4 앤' 세요. 모든 음절이 하이햇 타점이에요.",
+        "클릭 위에 얹으세요. 절대 앞서가지 마세요.",
+        "신나면 빨라져요. 힘 빼고 포켓 안에서 안정되게.",
+        "안정된 박자가 드러머의 1순위 임무예요."
+      ],
+      "diagram": "counting",
+      "patternRef": "groove-8beat-basic"
+    },
+    {
+      "id": "crash-one-fill",
+      "section": "crash",
+      "title": "One Fill to Change Sections",
+      "titleKr": "구간을 바꾸는 필인 하나",
+      "order": 4,
+      "body": "A fill is a short break where you step out of the groove for a moment to announce 'something's about to change' — verse rolling into chorus, or into a new section. Here's the simplest one alive: when you reach beat 4, play four fast snare hits — count '4-e-and-a' — alternating right-left-right-left, then slam back onto beat 1 with your kick (add a crash cymbal if you can reach it). That's the entire fill. It tells the band and the congregation 'here we go.' Drill it like this: play three bars of your groove, then on the fourth bar drop the fill on beat 4, and loop that four-bar phrase over and over. Keep the fill in time — a rushed fill is worse than no fill. You can now move between sections instead of playing one endless loop.",
+      "bodyKr": "필인은 그루브에서 잠깐 빠져나와 '이제 뭔가 바뀐다'를 알리는 짧은 브레이크예요. 벌스에서 코러스로 넘어가거나 새로운 구간으로 들어갈 때 쓰죠. 세상에서 제일 쉬운 필인은 이거예요. 4박에 도달하면 스네어를 빠르게 네 번 쳐요('4 이 앤 아'). 오른손-왼손-오른손-왼손으로 번갈아 치고, 다시 1박에 킥으로 쾅 내려앉아요(팔이 닿으면 크래시도 같이). 이게 필인의 전부예요. 밴드와 회중에게 '자, 갑니다'라고 알려주는 거죠. 이렇게 연습하세요. 그루브를 세 마디 치고, 네 번째 마디 4박에 필인을 넣고, 그 네 마디를 계속 반복해요. 필인도 박자 안에서 치세요. 서두른 필인은 안 하느니만 못해요. 이제 끝없이 같은 걸 반복하는 대신 구간과 구간 사이를 넘나들 수 있어요.",
+      "keyPoints": [
+        "A fill signals a section change (verse → chorus).",
+        "Simplest fill: four snare hits on beat 4 ('4 e & a'), right-left-right-left.",
+        "Land back on beat 1 with your kick (add a crash if you can).",
+        "Practice: 3 bars of groove + 1 bar with the fill, looped.",
+        "Keep the fill in time — never rush it."
+      ],
+      "keyPointsKr": [
+        "필인은 구간이 바뀐다는 신호예요(벌스 → 코러스).",
+        "가장 쉬운 필인은 4박에 스네어 네 번('4 이 앤 아'), 오-왼-오-왼.",
+        "다시 1박에 킥으로 내려앉아요(가능하면 크래시도).",
+        "연습은 그루브 3마디 + 필인 1마디를 반복.",
+        "필인도 박자 안에서, 절대 서두르지 마세요."
+      ],
+      "diagram": null,
+      "patternRef": "simple-snare-fill"
+    },
+    {
+      "id": "crash-dynamics-loud-soft",
+      "section": "crash",
+      "title": "Loud = Chorus, Soft = Verse",
+      "titleKr": "크게는 코러스, 작게는 벌스",
+      "order": 5,
+      "body": "Dynamics just means how loud or soft you play, and it's the thing that makes worship breathe. The rule is dead simple: verse = quiet, chorus = big. In the verse, keep the hi-hats closed, tight and soft, and play your kick and snare gently — you're leaving room for the singer and the lyrics to land. Then the chorus arrives and you open up: crack the snare harder, lean into the kick, and either crack the hi-hats open a little or move over to the ride cymbal — and drop a crash on beat 1 to launch it. Same groove, totally different size. That contrast is the emotional lift every congregation feels but can't quite name, and you're the one creating it. Load the pattern below to hear a driving chorus in action. You can now play the song's dynamics, not just its notes — that's serving the worship.",
+      "bodyKr": "다이내믹은 그냥 얼마나 크게 또는 작게 치느냐예요. 그리고 이게 찬양을 숨 쉬게 만드는 핵심이에요. 규칙은 아주 단순해요. 벌스는 작게, 코러스는 크게. 벌스에서는 하이햇을 닫고 타이트하고 부드럽게, 킥과 스네어도 살살 쳐요. 싱어와 가사가 들릴 공간을 남겨주는 거예요. 그러다 코러스가 오면 확 열어요. 스네어를 더 세게 때리고, 킥을 더 밟고, 하이햇을 살짝 열거나 라이드 심벌로 옮겨가요. 그리고 1박에 크래시를 꽂아서 터뜨려요. 같은 그루브인데 크기만 완전히 달라지죠. 그 대비가 바로 온 회중이 느끼지만 뭐라 말 못 하는 감정의 고조예요. 그걸 만드는 사람이 바로 당신이고요. 아래 패턴을 불러와서 몰아치는 코러스를 직접 들어보세요. 이제 음표만이 아니라 곡의 다이내믹을 연주할 수 있어요. 그게 바로 찬양을 섬기는 거예요.",
+      "keyPoints": [
+        "Dynamics = how loud or soft; it makes the song breathe.",
+        "Verse = closed hi-hats, soft kick and snare, leave space.",
+        "Chorus = harder snare, open hats or ride, crash on beat 1.",
+        "Same groove, different size = the emotional lift everyone feels."
+      ],
+      "keyPointsKr": [
+        "다이내믹은 크기예요. 곡을 숨 쉬게 해요.",
+        "벌스는 닫은 하이햇, 부드러운 킥·스네어, 공간을 남겨요.",
+        "코러스는 센 스네어, 열린 하이햇이나 라이드, 1박에 크래시.",
+        "같은 그루브, 다른 크기가 감정의 고조예요."
+      ],
+      "diagram": null,
+      "patternRef": "worship-driving-chorus"
+    },
+    {
+      "id": "crash-ready-for-sunday",
+      "section": "crash",
+      "title": "You're Ready for Sunday",
+      "titleKr": "이제 주일 준비 끝",
+      "order": 6,
+      "body": "Here's your survival kit for Sunday. Above everything, keep steady time — a drummer who holds the beat is already doing the job. Serve the song, not your ego; the best worship drummer is often the one nobody notices. Watch the worship leader — their hand, their body, even their breath will tell you when to build and when to pull back, so keep your eyes up, not glued to your kit. And the golden rule for the moment you get lost (you will, everyone does): don't freeze, and don't cover it with a wild fill. Just plant your kick on 1 and 3, snare on 2 and 4, close the hi-hats, and hold that plain beat until you find your place again. Nobody notices a simple groove — everybody notices a train wreck. You've got everything you need to survive a service today. Now go earn it: head into 'Back to Basics' and turn the level you just borrowed into one you actually own.",
+      "bodyKr": "주일을 위한 생존 키트예요. 무엇보다 박자를 안정되게 유지하세요. 비트를 붙잡고 있는 드러머는 이미 제 몫을 하고 있는 거예요. 자기 자랑이 아니라 곡을 섬기세요. 최고의 찬양 드러머는 대개 아무도 눈치채지 못하는 사람이에요. 인도자를 보세요. 손, 몸, 심지어 숨결까지 언제 쌓아 올리고 언제 내려놓을지 알려줘요. 그러니 시선은 드럼이 아니라 위로 두세요. 그리고 길을 잃었을 때의 황금률이에요(반드시 잃어요, 다들 그래요). 얼어붙지 말고, 화려한 필인으로 덮으려 하지도 마세요. 그냥 킥을 1박·3박에, 스네어를 2박·4박에, 하이햇을 닫고, 자리를 다시 찾을 때까지 그 단순한 비트를 붙잡으세요. 단순한 그루브는 아무도 신경 안 써요. 하지만 엉망이 된 건 모두가 알아채요. 오늘 예배를 버텨낼 모든 게 이미 당신 손에 있어요. 이제 진짜로 만들 차례예요. '기본으로 돌아가기'로 가서, 방금 빌린 실력을 진짜 내 것으로 만드세요.",
+      "keyPoints": [
+        "Keep steady time above all else.",
+        "Serve the song, not your ego — invisible is good.",
+        "Watch the leader; eyes up, not down on your kit.",
+        "Lost? Kick on 1 & 3, snare on 2 & 4, closed hats — hold the beat.",
+        "Now go earn it in 'Back to Basics.'"
+      ],
+      "keyPointsKr": [
+        "무엇보다 박자를 안정되게 유지하세요.",
+        "자랑이 아니라 곡을 섬기세요. 안 보이는 게 좋은 거예요.",
+        "인도자를 보세요. 시선은 드럼이 아니라 위로.",
+        "길을 잃으면 킥 1·3박, 스네어 2·4박, 닫은 하이햇으로 비트를 붙잡아요.",
+        "이제 '기본으로 돌아가기'에서 진짜 실력을 만드세요."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "now-earn-it",
+      "section": "basics",
+      "title": "Now Earn It: Fake vs. Real",
+      "titleKr": "이제 실력을 벌어들일 시간: 가짜 vs. 진짜",
+      "order": 0,
+      "body": "Here's the honest truth: the crash course handed you a groove, and that's real progress — you can sit down and play a song right now. But there's a difference between playing a groove and OWNING it. Playing it means the notes land. Owning it means you could speed it up, drop it to a whisper behind a prayer, and never lose the pulse.\n\nFaking looks like this: hands gripping the sticks in a death-clutch, time that drifts a little faster every bar, and a groove that falls apart the second the tempo climbs — or the room goes quiet and every tiny mistake is suddenly exposed. We've all been there. It's not a character flaw, it's just an untrained hand.\n\nReal looks like this: the stick rebounds off the head and you let it, your strokes stay even whether they're loud or soft, your time sits like a rock even when nobody is playing but you, and you can turn the volume up or down on command. That's the level you actually want — not the appearance of it.\n\nThe technique lessons that follow are exactly how you close that gap. Don't rush past them. This is where you earn it.",
+      "bodyKr": "솔직하게 말할게요. 속성 과정이 그루브 하나를 손에 쥐여줬고, 그건 진짜 실력입니다. 지금 당장 앉아서 한 곡을 칠 수 있으니까요. 하지만 그루브를 '치는 것'과 '내 것으로 만드는 것'은 다릅니다. 친다는 건 음이 제자리에 떨어진다는 뜻이에요. 내 것이라는 건 템포를 올려도, 기도 뒤에서 속삭이듯 줄여도 박이 흔들리지 않는다는 뜻입니다.\n\n가짜는 이렇게 보입니다. 스틱을 꽉 움켜쥔 손, 마디마다 조금씩 빨라지는 박, 그리고 템포가 올라가거나 방이 조용해져서 작은 실수까지 다 드러나는 순간 무너지는 그루브. 다들 겪는 일이에요. 성격 문제가 아니라 아직 훈련되지 않은 손일 뿐입니다.\n\n진짜는 이렇게 보입니다. 스틱이 헤드에서 튀어 오르는 리바운드를 손이 그대로 놓아주고, 세게 치든 여리게 치든 스트로크가 고르고, 나 혼자 연주할 때도 박이 바위처럼 앉아 있고, 볼륨을 마음대로 올렸다 내렸다 할 수 있는 것. 그게 여러분이 정말 원하는 레벨입니다. 그런 척이 아니라요.\n\n이 뒤에 이어지는 테크닉 레슨들이 바로 그 간격을 메우는 방법입니다. 서둘러 건너뛰지 마세요. 여기서 실력을 진짜로 벌어들이는 겁니다.",
+      "keyPoints": [
+        "You can already play — now the goal is to OWN it, not just get through it.",
+        "Faking = tense death-grip, drifting time, and a groove that collapses when it speeds up or the room goes quiet.",
+        "Real = relaxed rebound, even strokes, rock-solid time, and dynamic control on command.",
+        "The drills ahead are how you close the gap. This is where you earn the level — don't skip them."
+      ],
+      "keyPointsKr": [
+        "이미 칠 수 있어요. 이제 목표는 그냥 넘기는 게 아니라 '내 것으로 만드는' 겁니다.",
+        "가짜는 꽉 쥔 손, 밀리는 박, 빨라지거나 조용해지면 무너지는 그루브예요.",
+        "진짜는 편안한 리바운드, 고른 스트로크, 바위처럼 단단한 박, 마음대로 되는 다이내믹 컨트롤입니다.",
+        "다음 드릴들이 그 간격을 메웁니다. 여기서 레벨을 진짜로 벌어들이는 거예요. 건너뛰지 마세요."
+      ],
+      "diagram": null,
+      "patternRef": null
+    },
+    {
+      "id": "how-to-practice-loop",
+      "section": "basics",
+      "title": "How to Practice: The Loop Method",
+      "titleKr": "연습하는 법: 루프 메서드",
+      "order": 12,
+      "body": "Practice isn't playing the thing over and over and hoping it gets better. Practice is a method. Here it is — and it works for every groove, fill, and rudiment in this app.\n\n1. Slow it down until it's clean. Pull the tempo back until you can play it with zero mistakes and a relaxed hand. If it's messy, you're too fast — no shame, just drag the slider down. Sloppy reps teach your hands to be sloppy.\n\n2. Loop it. Play it around and around without stopping. The magic isn't in the tenth rep, it's in the hundredth — where your hands stop needing your brain and the groove goes automatic.\n\n3. Add speed only when it stays relaxed. Nudge the tempo up a few clicks at a time. The rule: if your hands tense up or the time gets shaky, you went too far — step back down. Speed is a reward you earn, not a switch you flip.\n\n4. Count out loud. '1 e and a, 2 e and a' — with your actual voice. It feels silly, and it's the single fastest way to lock your time and stop rushing. If you can't count it, you don't own it yet.\n\n5. Short and daily beats long and rare. Fifteen focused minutes every day will crush an hour once a week. Your hands keep learning while you sleep. Show up small, show up often.\n\nLoop the 8-beat groove below with this exact method and you'll feel the difference within a week.",
+      "bodyKr": "연습은 될 때까지 무작정 반복하면서 나아지길 바라는 게 아니에요. 연습은 방법입니다. 여기 그 방법이 있고, 이 앱의 모든 그루브와 필인, 루디먼트에 다 통합니다.\n\n1. 깨끗해질 때까지 느리게. 실수 없이, 손에 힘 빼고 칠 수 있을 때까지 템포를 내리세요. 지저분하면 너무 빠른 겁니다. 부끄러워 말고 슬라이더를 뒤로 당기세요. 대충 친 반복은 손에게 대충 치는 법을 가르칩니다.\n\n2. 루프로 돌리세요. 멈추지 않고 계속 돌려서 치세요. 마법은 열 번째 반복이 아니라 백 번째에 있어요. 손이 더 이상 머리를 필요로 하지 않고 그루브가 자동으로 나오는 지점이요.\n\n3. 편안할 때만 속도를 올리세요. 템포를 몇 클릭씩만 조금씩 올리세요. 규칙은 이겁니다. 손에 힘이 들어가거나 박이 흔들리면 너무 나간 거예요. 다시 내리세요. 속도는 켜는 스위치가 아니라 벌어서 얻는 보상입니다.\n\n4. 소리 내서 세세요. '1 e and a, 2 e and a', 입으로 진짜 소리 내서요. 유치해 보이지만 박을 고정하고 서두르는 버릇을 잡는 가장 빠른 방법입니다. 세지 못하면 아직 내 것이 아니에요.\n\n5. 짧고 매일이 길고 가끔을 이깁니다. 매일 집중한 15분이 일주일에 한 번 한 시간을 압도해요. 손은 여러분이 자는 동안에도 계속 배웁니다. 작게, 자주 나오세요.\n\n아래 8비트 그루브를 바로 이 방법으로 루프해보세요. 일주일 안에 차이가 느껴질 겁니다.",
+      "keyPoints": [
+        "Slow it down until you can play it clean and relaxed — sloppy reps teach sloppy hands.",
+        "Loop it without stopping until the groove goes automatic (the 100th rep, not the 10th).",
+        "Add speed only when it stays relaxed; back off the moment your hands tense or the time shakes.",
+        "Count out loud — if you can't count it, you don't own it yet.",
+        "Short and daily beats long and rare. 15 focused minutes a day wins."
+      ],
+      "keyPointsKr": [
+        "깨끗하고 편안하게 칠 수 있을 때까지 느리게. 대충 친 반복은 손에게 대충 치는 법을 가르쳐요.",
+        "그루브가 자동으로 나올 때까지 멈추지 말고 루프로 돌리세요. 열 번째가 아니라 백 번째예요.",
+        "편안할 때만 속도를 올리고, 손에 힘 들어가거나 박이 흔들리는 순간 바로 내리세요.",
+        "소리 내서 카운트하세요. 세지 못하면 아직 내 것이 아닙니다.",
+        "짧고 매일이 길고 가끔을 이깁니다. 집중한 하루 15분이 이겨요."
+      ],
+      "diagram": "counting",
+      "patternRef": "groove-8beat-basic"
+    },
+    {
+      "id": "daily-routine",
+      "section": "basics",
+      "title": "Your 20-Minute Daily Routine",
+      "titleKr": "하루 20분 데일리 루틴",
+      "order": 13,
+      "body": "You don't need a drum room and two free hours. You need twenty focused minutes and the willingness to show up. Here's a routine that hits everything that matters — hands, time, groove, vocabulary, and musicality — in the time it takes to drink a coffee. Set a timer for each block so you actually move on instead of camping on your favorite part.\n\nStart loose so your hands warm up relaxed, not cold and stiff. Build your hands with a single-stroke tempo ladder. Anchor your time by looping a groove to a click — slow first, then faster. Grow your vocabulary with one rudiment on the kit. Then finish by playing to a real worship feel, so all of it connects to the music you're actually here for.\n\nDo this five or six days a week and in a month you won't recognize your own hands. The magic is the daily part — not any single heroic session. Now start the timer.",
+      "bodyKr": "드럼 룸도 두 시간도 필요 없어요. 집중한 20분과 나올 마음만 있으면 됩니다. 커피 한 잔 마실 시간에 중요한 걸 다 건드리는 루틴이에요. 손, 박, 그루브, 어휘, 음악성까지요. 블록마다 타이머를 맞춰서, 좋아하는 부분에만 머무르지 말고 진짜로 다음으로 넘어가세요.\n\n손이 차갑고 뻣뻣한 상태가 아니라 편안하게 데워지도록 느슨하게 시작하세요. 싱글 스트로크 템포 사다리로 손을 만들고, 클릭에 맞춰 그루브를 느리게에서 빠르게 루프하며 박을 고정하세요. 킷에서 루디먼트 하나로 어휘를 늘리고, 마지막엔 실제 워십 필로 연주하며 이 모든 걸 여러분이 여기 온 이유인 음악에 연결하세요.\n\n이걸 일주일에 대엿새 하면 한 달 뒤엔 여러분 손이 낯설 거예요. 마법은 매일 한다는 그 부분에 있습니다. 어느 한 번의 대단한 연습이 아니라요. 자, 이제 타이머를 켜세요.",
+      "keyPoints": [
+        "2 min — loose rebound warm-up (let the stick bounce, hands relaxed, no muscling)",
+        "5 min — single-stroke tempo ladder (slow and clean, climb one notch at a time)",
+        "5 min — groove to a click, slow then faster (only speed up if it stays relaxed)",
+        "5 min — one rudiment on the kit (move it around the toms, keep the strokes even)",
+        "3 min — play a worship song feel (put it to music, connect it, have fun with it)"
+      ],
+      "keyPointsKr": [
+        "2분 — 느슨한 리바운드 워밍업 (스틱이 튀게 두고, 손에 힘 빼고, 억지로 치지 않기)",
+        "5분 — 싱글 스트로크 템포 사다리 (느리고 깨끗하게, 한 칸씩 올리기)",
+        "5분 — 클릭에 맞춰 그루브, 느리게 그다음 빠르게 (편안할 때만 속도 올리기)",
+        "5분 — 킷에서 루디먼트 하나 (톰으로 옮겨가며 스트로크 고르게)",
+        "3분 — 워십 곡 필로 연주 (음악에 붙이고, 연결하고, 즐기기)"
+      ],
+      "diagram": null,
+      "patternRef": null
+    }
+  ],
+  "patterns": [
+    {
+      "id": "groove-8beat-basic",
+      "section": "grooves",
+      "name": "Basic 8-Beat",
+      "nameKr": "기본 8비트",
+      "tier": "Basic",
+      "bpm": 80,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The foundation of nearly every worship song. Steady eighth notes on the closed hi-hat, snare backbeat on 2 and 4, kick on 1 and 3. Master this before anything else.",
+      "descriptionKr": "거의 모든 찬양곡의 기초가 되는 그루브입니다. 하이햇으로 8분음표를 꾸준히 치고, 스네어 백비트는 2박과 4박에, 킥은 1박과 3박에 넣습니다. 다른 걸 배우기 전에 이걸 먼저 완성하세요.",
+      "howTo": "Count '1 & 2 & 3 & 4 &' out loud and keep the hi-hat perfectly even; start slow with a click.",
+      "sticking": null,
+      "howToKr": "소리 내어 '1 & 2 & 3 & 4 &'를 세면서 하이햇을 고르게 치고, 클릭에 맞춰 천천히 시작하세요."
+    },
+    {
+      "id": "groove-8beat-kick-var",
+      "section": "grooves",
+      "name": "8-Beat with Kick Variations",
+      "nameKr": "킥 변형 8비트",
+      "tier": "Basic",
+      "bpm": 85,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The same 8-beat, but the kick adds a syncopated note on the '&' of 2. This little push is what makes a groove feel alive and shows up in countless worship songs.",
+      "descriptionKr": "기본 8비트와 같지만 킥이 2박 뒤 '앤'에 하나 더 들어갑니다. 이 작은 밀어주기가 그루브를 살아있게 만들고, 수많은 찬양곡에서 쓰입니다.",
+      "howTo": "Keep the hi-hat and snare rock-steady while only the kick foot changes; loop it until the extra kick feels automatic.",
+      "sticking": null,
+      "howToKr": "하이햇과 스네어는 그대로 두고 킥 발만 바꾸세요. 추가된 킥이 자동으로 나올 때까지 반복하세요."
+    },
+    {
+      "id": "groove-straight8-driving",
+      "section": "grooves",
+      "name": "Driving Straight 8ths",
+      "nameKr": "드라이빙 8비트",
+      "tier": "Basic",
+      "bpm": 120,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          2,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "An energetic groove for up-tempo praise. Accent every downbeat on the hi-hat and add a kick push on the '&' of 3 to drive the band forward.",
+      "descriptionKr": "빠른 찬양에 어울리는 에너지 넘치는 그루브입니다. 하이햇의 정박마다 악센트를 주고, 3박 뒤 '앤'에 킥을 넣어 밴드를 앞으로 밀어줍니다.",
+      "howTo": "Dig in on the accented hi-hats with the shoulder of the stick for a brighter sound.",
+      "sticking": null,
+      "howToKr": "악센트 하이햇은 스틱 어깨 부분으로 세게 쳐서 더 밝은 소리를 내세요."
+    },
+    {
+      "id": "groove-soft-verse",
+      "section": "grooves",
+      "name": "Soft Verse Groove",
+      "nameKr": "잔잔한 벌스 그루브",
+      "tier": "Basic",
+      "bpm": 72,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "For quiet verses and intimate moments. The closed hi-hat plays only quarter notes, keeping everything light and spacious so the vocals lead.",
+      "descriptionKr": "조용한 벌스나 은혜로운 순간을 위한 그루브입니다. 하이햇을 4분음표로만 가볍게 쳐서 공간을 넉넉히 남기고, 보컬이 이끌도록 받쳐줍니다.",
+      "howTo": "Play softly and keep the hi-hat closed tight; imagine you're the quietest person in the room.",
+      "sticking": null,
+      "howToKr": "여리게 치고 하이햇은 꽉 닫아 두세요. 방에서 가장 조용한 사람이 된다고 상상하세요."
+    },
+    {
+      "id": "groove-four-on-floor",
+      "section": "grooves",
+      "name": "Four-on-the-Floor Anthem",
+      "nameKr": "포 온 더 플로어 앤썸",
+      "tier": "Basic",
+      "bpm": 128,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The big-chorus worship anthem beat. The kick lands on every single beat, a crash marks the '1' for impact, and the snare keeps the backbeat. Huge and driving.",
+      "descriptionKr": "웅장한 후렴 찬양에 쓰는 앤썸 비트입니다. 킥이 모든 박에 들어가고, 1박에 크래시로 임팩트를 주며, 스네어가 백비트를 지킵니다. 크고 힘차게 몰아갑니다.",
+      "howTo": "The steady kick can tire your leg, so stay relaxed and let the beater bounce back.",
+      "sticking": null,
+      "howToKr": "계속되는 킥에 다리가 지칠 수 있으니 힘을 빼고 비터가 튕겨 나오게 하세요."
+    },
+    {
+      "id": "groove-half-time",
+      "section": "grooves",
+      "name": "Half-Time Groove",
+      "nameKr": "하프타임 그루브",
+      "tier": "Basic",
+      "bpm": 84,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "Moves the snare to beat 3 instead of 2 and 4, making the groove feel half as fast and twice as heavy. Perfect for big, spacious bridges.",
+      "descriptionKr": "스네어를 2·4박 대신 3박으로 옮겨서, 그루브가 절반 속도처럼 느리고 두 배로 묵직하게 느껴집니다. 넓고 웅장한 브릿지에 딱 맞습니다.",
+      "howTo": "Feel the snare on 3 land like a heavy anchor and don't rush back to a normal backbeat. 3",
+      "sticking": null,
+      "howToKr": "박의 스네어가 무거운 닻처럼 떨어지는 느낌을 가지세요. 서둘러 일반 백비트로 돌아가지 마세요."
+    },
+    {
+      "id": "groove-16beat",
+      "section": "grooves",
+      "name": "16-Beat Hi-Hat Groove",
+      "nameKr": "16비트 하이햇 그루브",
+      "tier": "Advanced",
+      "bpm": 92,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "The hi-hat plays sixteenth notes for a busier, flowing feel used in mid-tempo pop worship. Accent each downbeat so the pulse stays clear underneath all those notes.",
+      "descriptionKr": "하이햇으로 16분음표를 쳐서 더 촘촘하고 흐르는 느낌을 만드는, 중간 템포 팝 찬양에 자주 쓰는 그루브입니다. 정박마다 악센트를 줘서 많은 음표 속에서도 박이 분명하게 들리도록 하세요.",
+      "howTo": "Play the sixteenths with alternating hands (R L R L) if one hand can't keep up.",
+      "sticking": [
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "howToKr": "한 손으로 벅차면 양손을 번갈아(오 왼 오 왼) 16분음표를 치세요."
+    },
+    {
+      "id": "groove-16th-ghost",
+      "section": "grooves",
+      "name": "16th Groove with Ghost Notes",
+      "nameKr": "고스트노트 16비트 그루브",
+      "tier": "Advanced",
+      "bpm": 96,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          3,
+          2,
+          0,
+          0,
+          3,
+          0,
+          0,
+          3,
+          0,
+          2,
+          0,
+          0,
+          3
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "Adds soft ghost notes between the backbeats for a funky, professional feel. The quiet snare strokes fill the space and make the main backbeat pop even harder.",
+      "descriptionKr": "백비트 사이에 여린 고스트노트를 넣어 펑키하고 프로다운 느낌을 줍니다. 작은 스네어 타격이 빈 공간을 채워서 메인 백비트가 더 강하게 튀어 보입니다.",
+      "howTo": "Keep ghost notes barely audible, about an inch off the head, and hit the backbeat firmly.",
+      "sticking": null,
+      "howToKr": "고스트노트는 헤드에서 손가락 한 마디 정도 높이에서 거의 안 들리게, 백비트는 확실하게 치세요."
+    },
+    {
+      "id": "groove-6-8-ballad",
+      "section": "grooves",
+      "name": "6/8 Worship Ballad",
+      "nameKr": "6/8 찬양 발라드",
+      "tier": "Advanced",
+      "bpm": 56,
+      "beats": 2,
+      "subdivision": 3,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 2 3 4 5 6",
+      "description": "A flowing compound-time ballad felt in two big pulses per bar. The hi-hat rides the six eighth notes, the snare answers on beat 4, and the kick grounds beat 1. The classic slow-worship feel.",
+      "descriptionKr": "한 마디를 두 개의 큰 박으로 느끼는, 흐르는 듯한 겹박자 발라드입니다. 하이햇이 여섯 개의 8분음표를 타고, 스네어가 네 번째 박에서 응답하며, 킥이 1박을 받쳐줍니다. 전형적인 느린 찬양의 느낌입니다.",
+      "howTo": "Count '1 2 3 4 5 6' evenly and lean on beats 1 and 4, the two real pulses. '1 2 3 4 5 6'",
+      "sticking": null,
+      "howToKr": "을 고르게 세면서 1박과 4박에 무게를 실으세요. 그 둘이 진짜 박입니다."
+    },
+    {
+      "id": "groove-ride-chorus",
+      "section": "grooves",
+      "name": "Ride Cymbal Chorus Groove",
+      "nameKr": "라이드 후렴 그루브",
+      "tier": "Advanced",
+      "bpm": 78,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "RD",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "RD": [
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "Open up the sound for the big chorus by moving from hi-hat to the ride cymbal. Crash the downbeat, ride steady eighths with bell accents, and let the kick push into beat 4.",
+      "descriptionKr": "큰 후렴에서 하이햇에서 라이드로 옮겨 사운드를 활짝 엽니다. 1박에 크래시를 치고, 라이드로 8분음표를 꾸준히 타며 벨 악센트를 주고, 킥으로 4박을 향해 밀어줍니다.",
+      "howTo": "Hit the ride toward its edge for wash, or the bell for accents, and move up when the chorus lifts.",
+      "sticking": null,
+      "howToKr": "라이드는 가장자리를 치면 넓게 퍼지고, 벨을 치면 악센트가 됩니다. 후렴이 고조될 때 옮기세요."
+    },
+    {
+      "id": "groove-tom-build",
+      "section": "grooves",
+      "name": "Tom Build Groove",
+      "nameKr": "톰 빌드 그루브",
+      "tier": "Advanced",
+      "bpm": 90,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "FT": [
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "Move the pulse from the hi-hat to the floor tom for a huge, tribal build, perfect for bridges that grow. The floor tom drives underneath while the snare cracks the backbeat.",
+      "descriptionKr": "박을 하이햇에서 플로어 탐으로 옮겨 웅장하고 원초적인 빌드를 만듭니다. 점점 커지는 브릿지에 잘 어울립니다. 플로어 탐이 아래에서 밀고, 스네어가 백비트를 강하게 때립니다.",
+      "howTo": "Play the floor tom with power and full arm motion to fill the room as the song grows.",
+      "sticking": null,
+      "howToKr": "곡이 커질 때 방을 채우도록 플로어 탐을 팔 전체로 힘 있게 치세요."
+    },
+    {
+      "id": "groove-shuffle",
+      "section": "grooves",
+      "name": "Shuffle / Swing Groove",
+      "nameKr": "셔플 / 스윙 그루브",
+      "tier": "Advanced",
+      "bpm": 100,
+      "beats": 4,
+      "subdivision": 3,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 trip let 2 trip let 3 trip let 4 trip let",
+      "description": "A bouncy triplet feel where the hi-hat skips the middle of each triplet. The snare keeps the backbeat and the kick anchors 1 and 3. Great for bluesy or gospel-flavored worship.",
+      "descriptionKr": "각 셋잇단음표의 가운데를 건너뛰는, 통통 튀는 셋잇단 느낌의 그루브입니다. 스네어가 백비트를 지키고 킥이 1·3박을 잡아줍니다. 블루스나 가스펠풍 찬양에 잘 어울립니다.",
+      "howTo": "Say 'trip-let' for each beat and play only the '1' and 'let' on the hi-hat; keep it loose and bouncy.",
+      "sticking": null,
+      "howToKr": "각 박을 '트립-렛'으로 말하며 하이햇은 '1'과 '렛'만 치세요. 힘을 빼고 통통 튀게 하세요."
+    },
+    {
+      "id": "groove-worship-rock",
+      "section": "grooves",
+      "name": "Modern Worship Rock",
+      "nameKr": "모던 워십 록",
+      "tier": "Advanced",
+      "bpm": 112,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The go-to mid-tempo groove for contemporary worship. A pushed kick pattern (1, the '&' of 2, 3, the '&' of 4) gives it forward momentum under steady eighth-note hi-hats.",
+      "descriptionKr": "요즘 찬양에서 가장 많이 쓰는 중간 템포 그루브입니다. 밀어주는 킥 패턴(1박, 2박 '앤', 3박, 4박 '앤')이 꾸준한 8분음표 하이햇 아래에서 앞으로 나아가는 추진력을 줍니다.",
+      "howTo": "Lock the syncopated kicks tightly with the bass guitar player.",
+      "sticking": null,
+      "howToKr": "당김음 킥을 베이스 기타 연주자와 딱 맞춰 잠그세요."
+    },
+    {
+      "id": "simple-snare-fill",
+      "section": "fills",
+      "name": "First Snare Fill (1 Beat)",
+      "nameKr": "첫 스네어 필인 (1박)",
+      "tier": "Basic",
+      "bpm": 92,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "CR",
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "The very first fill to learn: hold the groove for three beats, then play four even snare notes on beat 4 and crash on 1. If you can count to four, you can play this.",
+      "descriptionKr": "가장 먼저 배우는 필인이에요. 3박까지 그루브를 유지하다가 4박에 스네어를 고르게 네 번 치고 1박에 크래시로 마무리해요. 넷까지 셀 수 있으면 칠 수 있어요.",
+      "howTo": "On beat 4 say '4 e & a' and play R L R L on the snare, then crash on 1 with the kick. Start slow and only speed up once it is even.",
+      "sticking": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "howToKr": "4박에서 '4 e & a'를 세며 스네어를 오왼오왼으로 치고, 1박에 킥과 함께 크래시를 쳐요. 천천히 시작하고 고르게 되면 그때 빠르게 해요."
+    },
+    {
+      "id": "two-beat-fill",
+      "section": "fills",
+      "name": "Simple 2-Beat Fill",
+      "nameKr": "간단한 2박 필인",
+      "tier": "Basic",
+      "bpm": 80,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "HH",
+        "T1",
+        "T2",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T1": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "T2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A gentle two-beat fill that simply walks down the kit in eighth notes — snare, high tom, mid tom, floor tom, one hit each — then crashes on 1. A perfect first melodic fill.",
+      "descriptionKr": "8분음표로 스네어, 하이탐, 미드탐, 플로어탐을 한 번씩 내려가는 부드러운 2박 필인이에요. 그리고 1박에 크래시로 마무리해요. 첫 멜로디 필인으로 딱이에요.",
+      "howTo": "Only four fill notes — say '3 & 4 &' and play snare, tom, tom, floor tom. Alternate R L R L and let it breathe.",
+      "sticking": [
+        "",
+        "",
+        "",
+        "",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "howToKr": "필인 음은 딱 네 개예요. '3 & 4 &'를 세면서 스네어, 탐, 탐, 플로어탐을 쳐요. 오왼오왼으로 번갈아 치고 여유있게 연주해요."
+    },
+    {
+      "id": "snare-to-floor-tom",
+      "section": "fills",
+      "name": "Snare-to-Floor-Tom Fill",
+      "nameKr": "스네어에서 플로어탐 필인",
+      "tier": "Basic",
+      "bpm": 84,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "HH",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The simplest way to leave the snare: hit two notes on the snare, then two on the floor tom over beats 3-4, and crash on 1. Big, easy, and always in time.",
+      "descriptionKr": "스네어를 처음 벗어나는 가장 쉬운 방법이에요. 3-4박에 스네어를 두 번, 플로어탐을 두 번 치고 1박에 크래시로 마무리해요. 크고 쉽고 박자도 안 흔들려요.",
+      "howTo": "Play it slowly with R L R L. The floor tom is the biggest, lowest drum, so the move down feels natural. Do not rush beat 4 into the crash.",
+      "sticking": [
+        "",
+        "",
+        "",
+        "",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "howToKr": "오왼오왼으로 천천히 쳐요. 플로어탐은 가장 크고 낮은 드럼이라 내려가는 느낌이 자연스러워요. 4박에서 크래시로 서두르지 마세요."
+    },
+    {
+      "id": "single-stroke-down-toms",
+      "section": "fills",
+      "name": "Single-Stroke Down-the-Toms",
+      "nameKr": "탐 내려가는 싱글스트로크 필인",
+      "tier": "Basic",
+      "bpm": 90,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "CR",
+        "HH",
+        "T1",
+        "T2",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T1": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "A classic tom fill: play single strokes (R L R L) starting on the snare and walking down through the toms to the floor tom over beats 3-4, then land a crash on beat 1.",
+      "descriptionKr": "가장 기본이 되는 탐 필인이에요. 3-4박에서 스네어부터 시작해 싱글스트로크(오 왼 오 왼)로 탐을 하나씩 내려가 플로어탐까지 친 뒤 1박에 크래시로 착지해요.",
+      "howTo": "Keep the sticking strictly alternating R L R L R L R L, and let each pair of notes move to the next drum. Count '3 e & a 4 e & a' out loud.",
+      "sticking": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "howToKr": "스티킹은 오왼오왼으로 정확히 번갈아 치고, 두 번씩 다음 드럼으로 옮겨가요. '3 e & a 4 e & a'를 소리내어 세면서 연습해요."
+    },
+    {
+      "id": "eighth-note-fill",
+      "section": "fills",
+      "name": "Eighth-Note Fill",
+      "nameKr": "8비트 필인",
+      "tier": "Basic",
+      "bpm": 100,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "T1",
+        "T2",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T1": [
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "T2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "SN": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A full bar of steady eighth notes traveling around the kit — snare, high tom, mid tom, floor tom — that lands on a crash as the bar repeats. Great for slower worship songs.",
+      "descriptionKr": "8분음표로 한 마디를 채우며 스네어, 하이탐, 미드탐, 플로어탐을 차례로 도는 필인이에요. 마디가 반복될 때 1박 크래시로 착지해요. 느린 찬양곡에 잘 어울려요.",
+      "howTo": "Every note is an even eighth — say '1 & 2 & 3 & 4 &' and put one hit on each. Alternate hands and keep the volume even until the crash.",
+      "sticking": [
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R"
+      ],
+      "howToKr": "모든 음이 고른 8분음표예요. '1 & 2 & 3 & 4 &'를 세면서 한 음씩 쳐요. 양손을 번갈아 치고 크래시 전까지 볼륨을 고르게 유지해요."
+    },
+    {
+      "id": "sixteenth-note-fill",
+      "section": "fills",
+      "name": "Sixteenth-Note Fill",
+      "nameKr": "16비트 필인",
+      "tier": "Basic",
+      "bpm": 92,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "CR",
+        "HH",
+        "T1",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T1": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "Your first sixteenth-note fill: keep the groove for beats 1-2, then play four fast snare notes on beat 3 and roll down to the toms on beat 4 before the crash.",
+      "descriptionKr": "처음 도전하는 16비트 필인이에요. 1-2박은 그루브를 유지하다가 3박에 스네어를 빠르게 네 번 치고 4박에 탐으로 내려간 뒤 크래시로 마무리해요.",
+      "howTo": "Count '3 e & a 4 e & a'. The snare notes on beat 3 are single strokes R L R L; keep them even, not rushed. Start around 90 BPM.",
+      "sticking": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "howToKr": "'3 e & a 4 e & a'를 세요. 3박 스네어는 오왼오왼 싱글스트로크로, 서두르지 말고 고르게 쳐요. 90 BPM 정도로 시작해요."
+    },
+    {
+      "id": "crash-on-the-one",
+      "section": "fills",
+      "name": "Crash on the One",
+      "nameKr": "1박 크래시 마무리",
+      "tier": "Basic",
+      "bpm": 100,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "HH": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "Not a fill but the resolution every fill needs: a basic groove that adds a snare pickup on the '& of 4' and slams a crash (with kick) on beat 1. Learn how a fill should land.",
+      "descriptionKr": "필인이라기보다 모든 필인이 필요로 하는 마무리예요. 기본 그루브에 '4의 &'에서 스네어 하나를 더하고 1박에 킥과 함께 크래시를 꽂아요. 필인이 어떻게 착지해야 하는지 배워요.",
+      "howTo": "Play the basic beat, add the extra snare right before the downbeat, then hit crash + kick together on 1. That crash-on-1 is where every fill should point.",
+      "sticking": null,
+      "howToKr": "기본 비트를 치다가 다운비트 직전에 스네어를 하나 더하고, 1박에 크래시와 킥을 함께 쳐요. 이 1박 크래시가 모든 필인이 향하는 지점이에요."
+    },
+    {
+      "id": "floor-tom-kick-groove-fill",
+      "section": "fills",
+      "name": "Floor-Tom + Kick Groove-Fill",
+      "nameKr": "플로어탐＋킥 그루브 필인",
+      "tier": "Basic",
+      "bpm": 72,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "FT",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "FT": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "KK": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A driving groove-fill for builds: pound steady eighth notes on the floor tom with a kick on every beat underneath, and crash on 1. Huge under a bridge or a spontaneous moment.",
+      "descriptionKr": "빌드업용으로 밀어붙이는 그루브 필인이에요. 플로어탐을 8분음표로 꾸준히 두드리고 아래에 킥을 모든 박에 깔아요. 그리고 1박에 크래시로 마무리해요. 브릿지나 즉흥 찬양에서 아주 크게 느껴져요.",
+      "howTo": "Alternate hands on the floor tom (R L R L) and keep the kick on every beat. Play it loud and steady — this is about power, not fancy notes.",
+      "sticking": [
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R"
+      ],
+      "howToKr": "플로어탐을 오왼오왼으로 번갈아 치고 킥을 모든 박에 밟아요. 크고 일정하게, 화려함보다 힘으로 밀어붙여요."
+    },
+    {
+      "id": "four-beat-fill",
+      "section": "fills",
+      "name": "Full-Bar (4-Beat) Fill",
+      "nameKr": "한 마디(4박) 필인",
+      "tier": "Advanced",
+      "bpm": 96,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "CR",
+        "T1",
+        "T2",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T1": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "A full-bar sixteenth-note fill that cascades from snare through the toms to the floor tom, then lands a crash on beat 1 as it loops. Save it for the end of a chorus or a big build.",
+      "descriptionKr": "16분음표로 한 마디를 가득 채우며 스네어에서 탐을 지나 플로어탐까지 폭포처럼 내려가는 필인이에요. 반복될 때 1박에 크래시로 착지해요. 후렴 끝이나 큰 빌드업에 아껴 쓰세요.",
+      "howTo": "This is fast — practice at 70 BPM first with a click. Alternate hands the whole way (R L R L). Play four notes each on the snare, high tom, and mid tom, then three on the floor tom into the crash on 1.",
+      "sticking": [
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R"
+      ],
+      "howToKr": "빠른 필인이라 클릭에 맞춰 70 BPM부터 연습해요. 처음부터 끝까지 오왼오왼으로 번갈아 치고, 스네어·하이탐·미드탐을 네 음씩 친 뒤 플로어탐을 세 음 쳐서 크래시로 마무리해요."
+    },
+    {
+      "id": "build-up-crescendo",
+      "section": "fills",
+      "name": "Build-Up Crescendo Roll",
+      "nameKr": "점점 세지는 크레센도 롤",
+      "tier": "Advanced",
+      "bpm": 88,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "CR",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "SN": [
+          0,
+          3,
+          3,
+          3,
+          3,
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "A one-bar snare crescendo roll: start with soft ghost notes, grow to normal strokes, then loud accents into the crash on 1. The classic 'here comes the chorus' build.",
+      "descriptionKr": "한 마디짜리 스네어 크레센도 롤이에요. 여린 고스트노트로 시작해 보통 세기로, 그리고 센 악센트로 커지다가 1박 크래시로 터져요. '이제 후렴 나온다' 하는 클래식한 빌드업이에요.",
+      "howTo": "Single strokes R L the whole bar. Let the volume grow smoothly from a whisper to a shout — the notes stay the same speed, only the loudness changes.",
+      "sticking": [
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R"
+      ],
+      "howToKr": "한 마디 내내 오왼 싱글스트로크예요. 속삭이듯 시작해 외치듯 커지게 볼륨을 매끄럽게 올려요. 음의 빠르기는 그대로, 세기만 변해요."
+    },
+    {
+      "id": "six-eight-ballad-fill",
+      "section": "fills",
+      "name": "6/8 Ballad Tom Fill",
+      "nameKr": "6/8 발라드 탐 필인",
+      "tier": "Advanced",
+      "bpm": 60,
+      "beats": 2,
+      "subdivision": 3,
+      "lanes": [
+        "CR",
+        "T1",
+        "T2",
+        "FT",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "T1": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "T2": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "FT": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "SN": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 2 3 4 5 6",
+      "description": "A 6/8 ballad fill felt in a slow triplet pulse: kick and crash on beat 1, two snare notes, then down the toms across the bar. Warm and gentle for worship ballads.",
+      "descriptionKr": "느린 3연음 느낌의 6/8 발라드 필인이에요. 1박에 킥과 크래시, 이어서 스네어 두 번, 그리고 한 마디에 걸쳐 탐을 내려가요. 발라드 찬양에 따뜻하고 부드럽게 어울려요.",
+      "howTo": "Count '1 2 3 4 5 6' evenly and keep it soft. Sticking is R L R L R across the toms; let it flow like the song breathes.",
+      "sticking": [
+        "",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R"
+      ],
+      "howToKr": "'1 2 3 4 5 6'을 고르게 세면서 부드럽게 쳐요. 탐을 지나는 스티킹은 오왼오왼오이고, 곡이 숨쉬듯 흐르게 연주해요."
+    },
+    {
+      "id": "worship-intimate-verse-rods",
+      "section": "worship",
+      "name": "Intimate Verse (Rods)",
+      "nameKr": "인티메이트 벌스 (로드)",
+      "tier": "Basic",
+      "bpm": 72,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A soft, intimate 8-beat for quiet verses, played with rods. Closed hi-hat whispers eighths, the backbeat is a gentle cross-stick, and the kick sits lightly on 1 and 3.",
+      "descriptionKr": "조용한 벌스를 위한 부드럽고 친밀한 8비트로, 로드로 친다. 닫은 하이햇이 8분음표를 속삭이고, 백비트는 부드러운 크로스스틱, 킥은 1박과 3박에 가볍게 앉는다.",
+      "howTo": "Grab your rods. Keep the hi-hat closed and very quiet, playing steady eighths. Instead of a full backbeat, lay a stick across the snare rim for a soft cross-stick 'click' on beats 2 and 4. Keep the kick light on 1 and 3. Play the whole thing at a whisper — it should feel like a heartbeat under the singing.",
+      "sticking": null,
+      "howToKr": "로드를 잡으세요. 하이햇은 닫은 채로 아주 조용하게, 8분음표를 꾸준히 치세요. 풀 백비트 대신 스틱을 스네어 림에 걸쳐서 2박과 4박에 부드러운 크로스스틱/림클릭 '클릭'을 내세요. 킥은 1박과 3박에 가볍게 밟으세요. 전체를 속삭이듯 연주하세요. 노래 아래에서 심장 박동처럼 느껴져야 해요."
+    },
+    {
+      "id": "worship-swelling-build",
+      "section": "worship",
+      "name": "Swelling Build",
+      "nameKr": "고조되는 빌드",
+      "tier": "Basic",
+      "bpm": 76,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "OH",
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "OH": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A pre-chorus groove that grows energy toward the chorus. A driving kick on every beat pushes the pulse, the backbeat stays strong, and an open hi-hat on the final '&' lifts you into the next section.",
+      "descriptionKr": "코러스를 향해 에너지를 키우는 프리코러스 그루브다. 매 박마다 밀어붙이는 킥이 펄스를 밀고, 백비트는 강하게 유지되며, 마지막 '&'의 오픈 하이햇이 다음 구간으로 끌어올린다.",
+      "howTo": "Start from your verse groove and add energy. Push the kick to beats 1, 2, 3, and 4 for forward motion, keep a firm snare backbeat on 2 and 4, and open the hi-hat on the last '&' of the bar (the 8th step) to signal the lift. Grow the volume slightly each bar so the band feels the build.",
+      "sticking": null,
+      "howToKr": "벌스 그루브에서 시작해서 에너지를 더하세요. 킥을 1, 2, 3, 4박 모두에 밟아서 앞으로 미는 느낌을 만들고, 스네어 백비트는 2박과 4박에 단단하게 유지하고, 마디의 마지막 '&'(8번째 스텝)에서 하이햇을 열어서 고조되는 신호를 주세요. 마디마다 볼륨을 조금씩 키워서 밴드가 빌드업을 느끼게 하세요."
+    },
+    {
+      "id": "worship-driving-chorus",
+      "section": "worship",
+      "name": "Driving Chorus",
+      "nameKr": "드라이빙 코러스",
+      "tier": "Basic",
+      "bpm": 80,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "RD",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "RD": [
+          0,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A full, driving chorus groove. Crash the downbeat of the section, then ride steady eighths with accents on the beats, dig into an accented backbeat, and drive with a syncopated kick.",
+      "descriptionKr": "가득 차고 밀어붙이는 코러스 그루브다. 구간 첫 박에 크래시를 치고, 라이드로 8분음표를 꾸준히 밀며 정박에 악센트를 준다. 백비트를 강하게 눌러 치고, 당김음 킥으로 밀어붙인다.",
+      "howTo": "Hit a crash on beat 1 to launch the chorus, then move to the ride cymbal for steady eighths, accenting the quarter-note beats. Dig into a strong backbeat on 2 and 4. The kick plays 1, the '& of 2', and 3 for a driving worship feel. Play it big and confident.",
+      "sticking": null,
+      "howToKr": "1박에 크래시를 쳐서 코러스를 시작하고, 라이드로 옮겨서 8분음표를 꾸준히 치되 4분음표 박에 악센트를 주세요. 2박과 4박에 강한 백비트를 힘껏 박으세요. 킥은 1박, '& of 2', 3박을 연주해서 몰아가는 워십 느낌을 만드세요. 크고 자신감 있게 연주하세요."
+    },
+    {
+      "id": "worship-6-8-ballad",
+      "section": "worship",
+      "name": "6/8 Worship Ballad",
+      "nameKr": "6/8 찬양 발라드",
+      "tier": "Basic",
+      "bpm": 58,
+      "beats": 2,
+      "subdivision": 3,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 2 3 4 5 6",
+      "description": "A flowing 6/8 feel for worship ballads. The hi-hat rolls through all six eighth-notes, the kick anchors count 1, and the snare answers on count 4 — a gentle, rocking pulse.",
+      "descriptionKr": "찬양 발라드를 위한 흐르는 6/8 필이다. 하이햇이 여섯 개의 8분음표를 모두 굴리고, 킥이 1박을 잡아 주며, 스네어가 4박에서 답한다. 부드럽게 흔들리는 펄스다.",
+      "howTo": "Count '1 2 3 4 5 6' evenly. Play the hi-hat softly on all six eighth-notes, giving a little more weight to counts 1 and 4 (the two main pulses). Put the kick on count 1 and the snare on count 4. Keep it spacious and unhurried — this feel breathes.",
+      "sticking": null,
+      "howToKr": "'1 2 3 4 5 6'을 고르게 세세요. 하이햇을 여섯 개의 8분음표 모두에 부드럽게 치되, 1과 4(두 개의 주요 펄스)에 조금 더 무게를 주세요. 킥은 1에, 스네어는 4에 놓으세요. 여유롭고 서두르지 않게 유지하세요. 이 필은 숨을 쉬어요."
+    },
+    {
+      "id": "worship-halftime-bridge",
+      "section": "worship",
+      "name": "Half-Time Bridge",
+      "nameKr": "하프타임 브릿지",
+      "tier": "Advanced",
+      "bpm": 84,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "A spacious half-time feel for bridges. The backbeat moves to beat 3, cutting the perceived tempo in half and opening up huge space for the vocal or a building moment.",
+      "descriptionKr": "브릿지를 위한 여유로운 하프타임 필이다. 백비트가 3박으로 옮겨 가 체감 템포를 절반으로 낮추고, 보컬이나 고조되는 순간을 위해 넓은 공간을 열어 준다.",
+      "howTo": "Play the hi-hat in steady eighth-notes across the sixteenth grid. Put a single strong snare backbeat on beat 3 (not on 2 and 4) — this is what makes it feel 'half-time' and twice as wide. Kick on beat 1 and the '& of 3'. Leave all the space in between; the openness is the point.",
+      "sticking": null,
+      "howToKr": "16분음표 그리드 위에서 하이햇을 8분음표로 꾸준히 치세요. 스네어 백비트는 3박에만 강하게 하나 넣으세요(2박, 4박이 아니라). 이게 '하프타임' 느낌을 만들고 두 배로 넓게 만들어요. 킥은 1박과 '& of 3'에 밟으세요. 그 사이 공간은 다 비워두세요. 그 여백이 핵심이에요."
+    },
+    {
+      "id": "worship-four-on-floor-anthem",
+      "section": "worship",
+      "name": "Four-on-the-Floor Anthem",
+      "nameKr": "포 온 더 플로어 앤섬",
+      "tier": "Basic",
+      "bpm": 128,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "CR",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "CR": [
+          2,
+          0,
+          2,
+          0,
+          2,
+          0,
+          2,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "A big, celebratory anthem climax. The kick pounds four-on-the-floor on every beat, crashes ring on the quarter-notes, and the backbeat drives hard — full energy for the peak of a set.",
+      "descriptionKr": "크고 축제 같은 앤섬 클라이맥스다. 킥이 매 박마다 포 온 더 플로어로 쿵쿵 울리고, 크래시가 정박에서 울리며, 백비트가 강하게 밀어붙인다. 세트의 정점을 위한 최대 에너지다.",
+      "howTo": "For the climax of an up-tempo song, put the kick on all four beats (four-on-the-floor). Ride a crash or big cymbal on the quarter-notes for a wash of energy, and hammer the backbeat on 2 and 4. This is your loudest, biggest groove — save it for the true peak so it lands with full impact.",
+      "sticking": null,
+      "howToKr": "업템포 곡의 클라이맥스에서는 킥을 네 박 모두에 밟으세요(포 온 더 플로어). 크래시나 큰 심벌을 4분음표로 라이드해서 에너지를 쏟아붓고, 2박과 4박의 백비트를 세게 때리세요. 이건 가장 크고 가장 웅장한 그루브예요. 진짜 절정을 위해 아껴뒀다가 온전한 임팩트로 터뜨리세요."
+    },
+    {
+      "id": "worship-spontaneous-vamp",
+      "section": "worship",
+      "name": "Spontaneous Vamp (Ride & Toms)",
+      "nameKr": "스판테이니어스 뱀프 (라이드·탐)",
+      "tier": "Advanced",
+      "bpm": 72,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "RD",
+        "FT",
+        "KK"
+      ],
+      "grid": {
+        "RD": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "FT": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "An open, atmospheric vamp for free/spontaneous worship. A soft ride wash floats over a floor-tom-and-kick heartbeat on 1 and 3 — no snare, lots of space to follow the leader.",
+      "descriptionKr": "자유 예배를 위한 열려 있고 분위기 있는 뱀프다. 부드러운 라이드 워시가 1박과 3박의 플로어탐·킥 심장박동 위에 떠 있다. 스네어 없이 여백이 많아 인도자를 따라가기 좋다.",
+      "howTo": "Use this under a spontaneous moment. Play a soft, washy ride (or a cymbal swell) on the eighth-notes, and lay a gentle heartbeat with the floor tom and kick together on beats 1 and 3. Leave the snare out entirely to keep it open and prayerful. Follow the leader — swell up when they build, pull almost to silence when they soften.",
+      "sticking": null,
+      "howToKr": "즉흥적인 순간에 이걸 쓰세요. 부드럽고 넓게 퍼지는 라이드(또는 심벌 스웰)를 8분음표로 치고, 플로어 탐과 킥을 1박과 3박에 함께 밟아서 잔잔한 심장 박동을 깔아주세요. 스네어는 완전히 빼서 열려 있고 기도하는 듯한 느낌을 유지하세요. 인도자를 따라가세요. 그들이 고조시키면 함께 커지고, 그들이 잦아들면 거의 침묵에 가깝게 줄이세요."
+    },
+    {
+      "id": "mid-tempo-worship-anthem",
+      "section": "songs",
+      "name": "Mid-Tempo Worship Anthem",
+      "nameKr": "미드템포 찬양 앤썸",
+      "tier": "Basic",
+      "bpm": 76,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          2,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The bread-and-butter worship groove. A steady, unhurried 4/4 with hi-hat eighth notes, a firm backbeat on 2 and 4, and a simple kick. Sits under most verses and gentle choruses at a comfortable, singable tempo.",
+      "descriptionKr": "찬양팀에서 가장 많이 쓰는 기본 그루브. 하이햇 8비트에 2와 4박 백비트, 단순한 킥으로 이루어진 편안한 4/4 그루브다. 대부분의 벌스와 잔잔한 코러스를 부담 없이 받쳐 준다.",
+      "howTo": "Keep the hi-hat even and relaxed, accenting the quarter notes lightly so the pulse breathes. Let the snare backbeat on 2 and 4 be the loudest voice; it locks the congregation in. Kick on 1, on 3, and the '&' of 3. Play to the click/in-ear, leave space, and let this groove feel patient rather than busy.",
+      "howToKr": "하이햇을 고르고 편안하게 유지하면서 4분음표를 가볍게 악센트로 짚어 박이 숨 쉬게 하세요. 2박과 4박의 스네어 백비트가 가장 큰 소리가 되게 하세요. 그게 회중을 하나로 붙잡아 줍니다. 킥은 1박, 3박, 그리고 3박의 '&'에 놓으세요. 클릭/인이어에 맞춰 연주하고 공간을 남기며, 이 그루브가 바쁘기보다 느긋하게 느껴지도록 하세요.",
+      "arrangement": [
+        {
+          "label": "Intro",
+          "labelKr": "인트로",
+          "intensity": 2,
+          "note": "Ease in with soft cross-stick on the snare and quiet closed hi-hat eighths, kick only on beat 1, and hold off on any crashes.",
+          "noteKr": "부드러운 크로스스틱과 조용한 클로즈 하이햇 8비트로 들어가고 킥은 1박에만 넣으며 크래시는 아끼세요."
+        },
+        {
+          "label": "Verse",
+          "labelKr": "벌스",
+          "intensity": 2,
+          "note": "Keep the cross-stick backbeat with closed hats, add a simple kick on 1 and the 'and' of 2, and leave plenty of space so the vocal leads.",
+          "noteKr": "크로스스틱 백비트와 클로즈 하이햇을 유지하고 킥은 1박과 2박 뒤에만 넣어 보컬이 이끌 공간을 넉넉히 남기세요."
+        },
+        {
+          "label": "Pre-Chorus",
+          "labelKr": "프리코러스",
+          "intensity": 3,
+          "note": "Move to a full snare backbeat, crack the hi-hats open a little, and drop a short snare fill on the last bar to lift into the chorus.",
+          "noteKr": "스네어 백비트로 바꾸고 하이햇을 살짝 열어주며 마지막 마디에 짧은 스네어 필로 코러스로 밀어 올리세요."
+        },
+        {
+          "label": "Chorus",
+          "labelKr": "코러스",
+          "intensity": 4,
+          "note": "Crash on beat 1, hit a solid snare on 2 and 4, ride the open hats or ride cymbal, and let the kick fill out the groove.",
+          "noteKr": "1박에 크래시, 2박과 4박에 단단한 스네어를 치고 오픈 하이햇이나 라이드로 그루브를 끌며 킥으로 바닥을 채우세요."
+        },
+        {
+          "label": "Bridge",
+          "labelKr": "브릿지",
+          "intensity": 5,
+          "note": "Biggest section — move to the ride bell or crashes, add a four-on-the-floor kick, build with a tom groove and land a big crash fill at the top.",
+          "noteKr": "가장 큰 구간으로 라이드 벨이나 크래시로 옮기고 포온더플로어 킥을 더하며 톰 그루브로 쌓다가 정점에서 큰 크래시 필을 꽂으세요."
+        },
+        {
+          "label": "Final Chorus",
+          "labelKr": "마지막 코러스",
+          "intensity": 4,
+          "note": "Stay full and confident like the first chorus but a touch more open, crash more often, and keep the energy without rushing the tempo.",
+          "noteKr": "첫 코러스처럼 꽉 차게 치되 조금 더 열어주고 크래시를 더 자주 넣으며 템포를 서두르지 말고 에너지를 유지하세요."
+        },
+        {
+          "label": "Outro",
+          "labelKr": "아웃트로",
+          "intensity": 2,
+          "note": "Pull way back to cross-stick and soft hats or a single cymbal swell, thin out the kick, and let the song settle to rest.",
+          "noteKr": "크로스스틱과 부드러운 하이햇이나 심벌 스웰로 크게 줄이고 킥을 비우며 곡이 잦아들게 두세요."
+        }
+      ]
+    },
+    {
+      "id": "driving-eighth-anthem",
+      "section": "songs",
+      "name": "Driving Eighth-Note Anthem",
+      "nameKr": "드라이빙 8비트 앤썸",
+      "tier": "Basic",
+      "bpm": 128,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "High-energy but not frantic, this is the engine behind up-tempo praise choruses. Relentless hi-hat eighths, a punchy backbeat, and a syncopated kick that pushes the band forward into every downbeat.",
+      "descriptionKr": "격렬하지는 않지만 에너지가 넘치는, 빠른 찬양 코러스의 엔진이다. 쉬지 않는 하이햇 8비트, 힘 있는 백비트, 그리고 매 정박으로 밀어 주는 싱코페이션 킥이 밴드를 앞으로 끌고 간다.",
+      "howTo": "Drive the hi-hat from the wrist and stay even at tempo, never rushing. The kick lands on 1, the '&' of 2, on 3, and the '&' of 4; that last '&' pushes into the next bar and gives the groove its forward lean. Keep the backbeat strong and consistent. Move to the ride or ride-bell when the chorus opens up.",
+      "howToKr": "하이햇을 손목으로 몰아가되 템포를 고르게 유지하고 절대 서두르지 마세요. 킥은 1박, 2박의 '&', 3박, 그리고 4박의 '&'에 떨어집니다. 이 마지막 '&'가 다음 마디로 밀어 주면서 그루브에 앞으로 나아가는 힘을 줍니다. 백비트는 강하고 일정하게 유지하세요. 코러스가 열리면 라이드나 라이드 벨로 옮겨 가세요.",
+      "arrangement": [
+        {
+          "label": "Intro",
+          "labelKr": "인트로",
+          "intensity": 2,
+          "note": "Set the driving pulse quietly with steady eighth notes on closed hats and cross-stick, kick on 1, holding energy in reserve.",
+          "noteKr": "클로즈 하이햇 8비트와 크로스스틱으로 조용히 추진력을 만들고 킥은 1박에 두며 에너지를 아껴두세요."
+        },
+        {
+          "label": "Verse",
+          "labelKr": "벌스",
+          "intensity": 3,
+          "note": "Keep relentless eighth notes going on closed hats with a snare backbeat and a steady straight-eighth kick, no crashes yet.",
+          "noteKr": "쉼 없는 8비트를 클로즈 하이햇으로 유지하며 스네어 백비트와 꾸준한 8비트 킥을 깔고 아직 크래시는 넣지 마세요."
+        },
+        {
+          "label": "Chorus",
+          "labelKr": "코러스",
+          "intensity": 4,
+          "note": "Open the hi-hats a bit or move to the ride, crash on 1, drive a busy eighth-note kick, and keep the backbeat punching hard.",
+          "noteKr": "하이햇을 살짝 열거나 라이드로 옮기고 1박에 크래시, 바쁜 8비트 킥으로 밀어붙이며 백비트를 강하게 유지하세요."
+        },
+        {
+          "label": "Instrumental",
+          "labelKr": "인스트루멘탈",
+          "intensity": 4,
+          "note": "Hold the driving groove on the ride, add tom accents or a repeated fill figure to push the guitars, but leave room to climb again.",
+          "noteKr": "라이드로 추진 그루브를 이어가고 톰 악센트나 반복 필로 기타를 밀어주되 다시 오를 여지를 남기세요."
+        },
+        {
+          "label": "Bridge",
+          "labelKr": "브릿지",
+          "intensity": 5,
+          "note": "Go to four-on-the-floor with open hats or ride bell, layer crashes on the downbeats, and build tension toward the final chorus.",
+          "noteKr": "포온더플로어에 오픈 하이햇이나 라이드 벨을 얹고 다운비트마다 크래시를 쌓으며 마지막 코러스로 긴장을 끌어올리세요."
+        },
+        {
+          "label": "Final Chorus",
+          "labelKr": "마지막 코러스",
+          "intensity": 5,
+          "note": "Everything wide open — crashes, driving kick, and big fills between phrases, holding the peak all the way through.",
+          "noteKr": "모든 걸 활짝 열어 크래시와 추진 킥, 프레이즈 사이의 큰 필로 끝까지 정점을 유지하세요."
+        },
+        {
+          "label": "Outro",
+          "labelKr": "아웃트로",
+          "intensity": 2,
+          "note": "Cut the energy back to closed hats and a simple pulse or a final ring-out crash, then let it breathe to a stop.",
+          "noteKr": "에너지를 클로즈 하이햇과 단순한 펄스로 줄이거나 마지막 울리는 크래시로 마무리하고 숨을 고르며 멈추게 두세요."
+        }
+      ]
+    },
+    {
+      "id": "six-eight-worship-ballad",
+      "section": "songs",
+      "name": "6/8 Worship Ballad",
+      "nameKr": "6/8 찬양 발라드",
+      "tier": "Basic",
+      "bpm": 63,
+      "beats": 2,
+      "subdivision": 3,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          2,
+          1,
+          1,
+          2,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 2 3 4 5 6",
+      "description": "The classic slow worship feel in a rolling compound meter. Counted in six with two big pulses on 1 and 4, it sways gently under tender ballads and reflective, prayerful moments.",
+      "descriptionKr": "잔잔한 찬양에서 흔히 쓰는 6/8 컴파운드 박자의 발라드 필이다. 여섯으로 세되 1과 4에 큰 펄스 두 개가 있고, 부드럽게 흔들리며 묵상적인 순간을 받쳐 준다.",
+      "howTo": "Feel two dotted-quarter pulses per bar, not six equal notes. The hi-hat rides all six eighths but leans on 1 and 4. The snare backbeat lands on 4, the second pulse, and the kick anchors beat 1. Keep everything soft and rounded, like rocking a cradle. Once comfortable, a quiet kick pickup on the '6' leading into the next '1' is a lovely touch.",
+      "howToKr": "한 마디를 여섯 개의 균등한 음이 아니라 점4분음표 두 개의 펄스로 느끼세요. 하이햇은 8분음표 여섯 개를 모두 타지만 1박과 4박에 기대세요. 스네어 백비트는 두 번째 펄스인 4박에 떨어지고, 킥은 1박을 붙잡아 줍니다. 요람을 흔들듯 모든 것을 부드럽고 둥글게 연주하세요. 익숙해지면 '6'에서 다음 '1'로 이어지는 조용한 킥 픽업 하나가 아주 멋진 포인트가 됩니다.",
+      "arrangement": [
+        {
+          "label": "Intro",
+          "labelKr": "인트로",
+          "intensity": 1,
+          "note": "Barely play — a cymbal swell or soft mallets, maybe a gentle cross-stick on beat 4, letting the 6/8 rock gently.",
+          "noteKr": "거의 치지 말고 심벌 스웰이나 부드러운 말렛, 4박의 은은한 크로스스틱으로 6/8을 살랑이게 두세요."
+        },
+        {
+          "label": "Verse",
+          "labelKr": "벌스",
+          "intensity": 2,
+          "note": "Play a light cross-stick pattern with soft hi-hat or ride on the eighths, feeling the 1-2-3-4-5-6 pulse, kick sparse.",
+          "noteKr": "가벼운 크로스스틱에 부드러운 하이햇이나 라이드로 8비트를 깔고 1-2-3-4-5-6 흐름을 느끼며 킥은 드물게 넣으세요."
+        },
+        {
+          "label": "Chorus",
+          "labelKr": "코러스",
+          "intensity": 3,
+          "note": "Move to a snare backbeat on beat 4, ride the hats or ride cymbal steadily, and add a rolling 6/8 fill into each phrase.",
+          "noteKr": "4박 자리에 스네어 백비트를 놓고 하이햇이나 라이드를 꾸준히 굴리며 각 프레이즈로 6/8 필을 넣으세요."
+        },
+        {
+          "label": "Instrumental",
+          "labelKr": "인스트루멘탈",
+          "intensity": 3,
+          "note": "Keep the flowing 6/8 groove on the ride bell, let the fills breathe, and support the melody without getting louder.",
+          "noteKr": "라이드 벨로 흐르는 6/8 그루브를 이어가고 필이 숨 쉬게 하며 볼륨을 키우지 않고 멜로디를 받쳐주세요."
+        },
+        {
+          "label": "Bridge",
+          "labelKr": "브릿지",
+          "intensity": 4,
+          "note": "Build with a tom-driven 6/8 pattern and swelling crashes, pushing the triplet feel toward the emotional high point.",
+          "noteKr": "톰 중심의 6/8 패턴과 부풀어 오르는 크래시로 쌓으며 셋잇단 느낌을 정서적 정점으로 밀어 올리세요."
+        },
+        {
+          "label": "Final Chorus",
+          "labelKr": "마지막 코러스",
+          "intensity": 5,
+          "note": "Open up fully — crashes on the downbeats, big rolling 6/8 fills, and a strong backbeat carrying the swell of the song.",
+          "noteKr": "완전히 열어 다운비트 크래시와 큰 6/8 필, 강한 백비트로 곡의 물결을 이끄세요."
+        },
+        {
+          "label": "Outro",
+          "labelKr": "아웃트로",
+          "intensity": 1,
+          "note": "Fall back to a single cymbal swell or soft mallets, drop the backbeat, and let the 6/8 dissolve quietly.",
+          "noteKr": "잔잔한 심벌 스웰이나 부드러운 말렛으로 돌아가 백비트를 빼고 6/8이 조용히 사라지게 두세요."
+        }
+      ]
+    },
+    {
+      "id": "half-time-power-chorus",
+      "section": "songs",
+      "name": "Half-Time Power Chorus",
+      "nameKr": "하프타임 파워 코러스",
+      "tier": "Advanced",
+      "bpm": 72,
+      "beats": 4,
+      "subdivision": 4,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "KK": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 e & a 2 e & a 3 e & a 4 e & a",
+      "description": "Big, wide, and anthemic. The backbeat moves to beat 3 only, cutting the feel in half so the chorus sounds huge and spacious even with busy sixteenth-note hi-hat underneath. The go-to for a soaring, dynamic chorus.",
+      "descriptionKr": "크고 넓고 웅장한 느낌이다. 백비트가 3박 하나로 옮겨 가면서 박자감이 절반으로 줄어, 밑에서 16비트 하이햇이 바쁘게 움직여도 코러스가 거대하고 광활하게 들린다. 벅차오르는 다이내믹한 코러스의 정석이다.",
+      "howTo": "The whole trick is the snare: play it only on beat 3, not on 2 and 4. That single move halves the feel and opens up the 'power' space. Run steady sixteenths on the hi-hat, accenting each quarter, to keep energy churning underneath. Kick on 1, the '&' of 2, and the '&' of 3. Crash the downbeats when the section explodes.",
+      "howToKr": "핵심은 전부 스네어예요. 2박과 4박이 아니라 오직 3박에만 치세요. 이 한 가지 변화가 필을 절반으로 만들고 '파워'의 공간을 열어 줍니다. 하이햇은 꾸준한 16분음표로 굴리며 각 4분음표를 악센트로 짚어 아래에서 에너지가 계속 몰아치게 하세요. 킥은 1박, 2박의 '&', 그리고 3박의 '&'에 놓으세요. 이 구간이 폭발할 때 다운비트에 크래시를 치세요.",
+      "arrangement": [
+        {
+          "label": "Intro",
+          "labelKr": "인트로",
+          "intensity": 2,
+          "note": "Set up quietly with cross-stick or soft hats, keeping a straight feel so the half-time drop later hits hard.",
+          "noteKr": "크로스스틱이나 부드러운 하이햇으로 조용히 잡고 스트레이트한 느낌을 유지해 나중의 하프타임 전환이 세게 꽂히게 하세요."
+        },
+        {
+          "label": "Verse",
+          "labelKr": "벌스",
+          "intensity": 3,
+          "note": "Play a straight-eighth groove with closed hats and a normal backbeat on 2 and 4, driving lightly but staying contained.",
+          "noteKr": "클로즈 하이햇의 스트레이트 8비트에 2박과 4박 백비트로 가볍게 몰되 아직 눌러두세요."
+        },
+        {
+          "label": "Build",
+          "labelKr": "빌드",
+          "intensity": 4,
+          "note": "Tighten into the pre-chorus with opening hats, a snare or tom build, and a big fill that sets up the half-time feel.",
+          "noteKr": "하이햇을 열며 프리코러스로 조여가고 스네어나 톰 빌드와 큰 필로 하프타임 느낌을 준비하세요."
+        },
+        {
+          "label": "Half-Time Chorus",
+          "labelKr": "하프타임 코러스",
+          "intensity": 5,
+          "note": "Drop into half-time — one huge backbeat on beat 3, crashes on the downbeats, and a wide-open kick that feels twice as big.",
+          "noteKr": "하프타임으로 떨어져 3박에 거대한 백비트 하나, 다운비트 크래시, 활짝 열린 킥으로 두 배로 커진 느낌을 내세요."
+        },
+        {
+          "label": "Breakdown",
+          "labelKr": "브레이크다운",
+          "intensity": 2,
+          "note": "Pull almost all the way out — cross-stick and a pad-like cymbal, maybe just kick and a whisper of hat, giving the ear a rest.",
+          "noteKr": "거의 다 빼고 크로스스틱과 은은한 심벌, 킥과 속삭이는 하이햇 정도로 줄여 귀에 쉼을 주세요."
+        },
+        {
+          "label": "Bridge",
+          "labelKr": "브릿지",
+          "intensity": 4,
+          "note": "Rebuild from the breakdown with a growing tom groove and added crashes, climbing back toward the final half-time hit.",
+          "noteKr": "브레이크다운에서 톰 그루브를 키우고 크래시를 더하며 마지막 하프타임으로 다시 올라가세요."
+        },
+        {
+          "label": "Final Half-Time Chorus",
+          "labelKr": "마지막 하프타임 코러스",
+          "intensity": 5,
+          "note": "Slam back into the half-time backbeat at full size, crashing hard on 1 and 3 with big fills, and hold nothing back.",
+          "noteKr": "하프타임 백비트로 최대 크기로 되돌아와 1박과 3박에 세게 크래시하고 큰 필로 아무것도 아끼지 마세요."
+        }
+      ]
+    },
+    {
+      "id": "gentle-spontaneous-vamp",
+      "section": "songs",
+      "name": "Gentle Spontaneous Vamp",
+      "nameKr": "잔잔한 자유찬양 뱀프",
+      "tier": "Basic",
+      "bpm": 72,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "HH": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The quiet, open groove for spontaneous worship, prayer vamps, and 'soaking' moments. Sparse and unobtrusive, it keeps just enough time to hold the room without ever pulling focus from the singing.",
+      "descriptionKr": "자유찬양, 기도 뱀프, 소킹 같은 잔잔한 순간을 위한 조용하고 여백 있는 그루브다. 노래에서 시선을 빼앗지 않으면서 공간을 붙잡아 줄 만큼만 최소한으로 박자를 지킨다.",
+      "howTo": "Less is more. Play cross-stick (rim click) instead of a full snare on 2 and 4 for a soft, wooden 'tock.' Keep the hi-hat on quarter notes only, played lightly, and let the kick just mark 1 and 3. Watch the worship leader closely; this groove exists to serve the dynamics and follow spontaneous changes, so stay ready to drop out or swell at any moment.",
+      "howToKr": "적을수록 좋습니다. 2박과 4박에서 풀 스네어 대신 크로스스틱(림클릭)으로 부드럽고 나무 같은 '톡' 소리를 내세요. 하이햇은 4분음표만 가볍게 치고, 킥은 1박과 3박만 짚게 두세요. 예배 인도자를 가까이 지켜보세요. 이 그루브는 다이내믹을 섬기고 즉흥적인 변화를 따라가려고 존재하니, 언제든 빠지거나 부풀어 오를 준비를 하고 계세요.",
+      "arrangement": [
+        {
+          "label": "Pad Intro",
+          "labelKr": "패드 인트로",
+          "intensity": 1,
+          "note": "Barely there — a slow cymbal swell with mallets over the pad, no groove yet, just color and breath.",
+          "noteKr": "거의 존재감 없이 말렛으로 느린 심벌 스웰을 패드 위에 얹고 그루브 없이 색과 호흡만 더하세요."
+        },
+        {
+          "label": "Vamp Begins",
+          "labelKr": "뱀프 시작",
+          "intensity": 1,
+          "note": "Add the softest cross-stick on the backbeat and a light hi-hat pulse, kick on 1 only, staying prayerful and small.",
+          "noteKr": "가장 부드러운 크로스스틱 백비트와 가벼운 하이햇 펄스를 더하고 킥은 1박에만 넣으며 작고 기도하는 마음으로 치세요."
+        },
+        {
+          "label": "First Swell",
+          "labelKr": "첫 스웰",
+          "intensity": 2,
+          "note": "Let a cymbal swell lift into the phrase, brush in a gentle groove, and follow the leader's dynamics closely.",
+          "noteKr": "심벌 스웰로 프레이즈를 살짝 들어 올리고 은은한 그루브를 넣으며 인도자의 다이내믹을 바짝 따라가세요."
+        },
+        {
+          "label": "Spontaneous Build",
+          "labelKr": "스폰테이니어스 빌드",
+          "intensity": 3,
+          "note": "Open the hats slightly, add a steady backbeat and a little more kick as the room sings, growing only as much as the moment asks.",
+          "noteKr": "하이햇을 살짝 열고 회중이 노래할 때 꾸준한 백비트와 킥을 조금 더 넣으며 순간이 요구하는 만큼만 키우세요."
+        },
+        {
+          "label": "Peak Moment",
+          "labelKr": "절정",
+          "intensity": 4,
+          "note": "Reach the high point with open hats or ride and a couple of crashes, but keep it warm and rounded rather than aggressive.",
+          "noteKr": "오픈 하이햇이나 라이드와 몇 번의 크래시로 정점에 닿되 공격적이지 않게 따뜻하고 둥글게 유지하세요."
+        },
+        {
+          "label": "Settle Back",
+          "labelKr": "잦아듦",
+          "intensity": 1,
+          "note": "Melt back down to a cymbal swell and cross-stick or lay out entirely, letting the spontaneous moment breathe and rest.",
+          "noteKr": "심벌 스웰과 크로스스틱으로 다시 녹아들거나 아예 손을 놓고 자유 찬양의 순간이 숨 쉬며 쉬게 두세요."
+        }
+      ]
+    },
+    {
+      "id": "building-bridge-groove",
+      "section": "songs",
+      "name": "Building Bridge Groove",
+      "nameKr": "빌드업 브릿지 그루브",
+      "tier": "Advanced",
+      "bpm": 124,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "RD",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "RD": [
+          2,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "The intensity-builder for bridges and instrumental swells. A driving four-on-the-floor kick and a ride-bell pattern push energy relentlessly upward, setting up the lift into the final chorus.",
+      "descriptionKr": "브릿지나 연주 고조 구간에서 긴장을 쌓아 올리는 그루브다. 쉼 없는 포온더플로어 킥과 라이드 벨 패턴이 에너지를 계속 끌어올리며 마지막 코러스의 폭발을 준비한다.",
+      "howTo": "Move to the ride bell and dig into the accents on every quarter; this is what makes the section feel like it is climbing. The kick plays four-on-the-floor, all four beats, for constant drive, while the backbeat stays locked on 2 and 4. Start softer and grow: add volume and open the ride as the bridge builds, then crash into the downbeat when the chorus finally arrives.",
+      "howToKr": "라이드 벨로 옮겨 가서 매 4분음표의 악센트를 파고드세요. 이게 이 구간이 점점 차오르는 느낌을 만들어 줍니다. 킥은 네 박을 모두 밟는 포 온 더 플로어로 끊임없이 몰아가고, 백비트는 2박과 4박에 단단히 고정하세요. 더 여리게 시작해서 키워 가세요. 브리지가 쌓여 갈수록 볼륨을 더하고 라이드를 열었다가, 마침내 코러스가 도착하면 다운비트에 크래시를 치세요.",
+      "arrangement": [
+        {
+          "label": "Enter",
+          "labelKr": "진입",
+          "intensity": 1,
+          "note": "Start almost silent — cross-stick on the backbeat with a soft closed hat, kick on 1, holding all the power back.",
+          "noteKr": "거의 무음으로 시작해 크로스스틱 백비트와 부드러운 클로즈 하이햇, 1박 킥으로 모든 힘을 눌러두세요."
+        },
+        {
+          "label": "Cross-Stick Pass",
+          "labelKr": "크로스스틱 패스",
+          "intensity": 2,
+          "note": "Keep the cross-stick but add a steadier hat pulse and a bit more kick, hinting that something is coming.",
+          "noteKr": "크로스스틱을 유지하되 더 안정된 하이햇 펄스와 킥을 조금 더해 무언가 다가온다는 암시를 주세요."
+        },
+        {
+          "label": "Groove In",
+          "labelKr": "그루브 인",
+          "intensity": 3,
+          "note": "Switch to a full snare backbeat with open hats, settle into a steady groove, and lock tight with the bass.",
+          "noteKr": "스네어 백비트로 바꾸고 오픈 하이햇으로 안정된 그루브에 들어가 베이스와 단단히 맞추세요."
+        },
+        {
+          "label": "First Build",
+          "labelKr": "첫 빌드",
+          "intensity": 4,
+          "note": "Move to the ride or four-on-the-floor kick, add crash accents and a rising tom figure each time the bridge repeats.",
+          "noteKr": "라이드나 포온더플로어 킥으로 옮기고 브릿지가 반복될 때마다 크래시 악센트와 상승하는 톰 라인을 더하세요."
+        },
+        {
+          "label": "Peak",
+          "labelKr": "절정",
+          "intensity": 5,
+          "note": "Everything open and loud — crashes on every downbeat, four-on-the-floor, and big fills, this is the roof of the song.",
+          "noteKr": "모든 걸 열고 크게, 다운비트마다 크래시와 포온더플로어, 큰 필로 곡의 천장을 찍으세요."
+        },
+        {
+          "label": "Pull-Back Drop",
+          "labelKr": "드롭",
+          "intensity": 2,
+          "note": "Cut suddenly to cross-stick and a bare kick or drop out for a bar, creating a dramatic hush before the last lift.",
+          "noteKr": "갑자기 크로스스틱과 최소한의 킥으로 줄이거나 한 마디 손을 놓아 마지막 상승 전의 극적인 정적을 만드세요."
+        },
+        {
+          "label": "Final Lift",
+          "labelKr": "마지막 상승",
+          "intensity": 5,
+          "note": "Slam back to the full peak groove with crashes and driving kick, holding the top for the last repeats of the bridge.",
+          "noteKr": "크래시와 추진 킥으로 정점 그루브로 되돌아와 브릿지 마지막 반복까지 최고점을 유지하세요."
+        }
+      ]
+    },
+    {
+      "id": "up-tempo-celebration",
+      "section": "songs",
+      "name": "Up-Tempo Celebration",
+      "nameKr": "업템포 축제 그루브",
+      "tier": "Advanced",
+      "bpm": 140,
+      "beats": 4,
+      "subdivision": 2,
+      "lanes": [
+        "OH",
+        "HH",
+        "SN",
+        "KK"
+      ],
+      "grid": {
+        "OH": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "HH": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "SN": [
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        "KK": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "count": "1 & 2 & 3 & 4 &",
+      "description": "Fast, joyful, and celebratory, for shouts of praise, festival sets, and full-throttle up-tempo songs. Bright hi-hat eighths with an open-hat accent lifting the end of each bar, a snapping backbeat, and a bouncy kick.",
+      "descriptionKr": "빠르고 기쁘고 축제 같은 그루브다. 찬양의 함성, 페스티벌 세트, 신나는 업템포 곡을 위한 것이다. 밝은 하이햇 8비트에 마디 끝을 들어 올리는 오픈 하이햇 악센트, 딱 붙는 백비트, 통통 튀는 킥이 어우러진다.",
+      "howTo": "Keep the tempo honest; fast grooves tempt you to rush, so lean on the click. Play the hi-hat eighths bright and even, then open the hat on the final '&' of the bar and close it on the next '1' for a lift into each measure. Kick on 1, the '&' of 2, and 3. Keep the backbeat crisp and let the whole groove bounce with joy.",
+      "howToKr": "템포를 정직하게 지키세요. 빠른 그루브는 서두르게 만드니 클릭에 기대세요. 하이햇 8분음표를 밝고 고르게 치다가, 마디의 마지막 '&'에서 하이햇을 열고 다음 '1'에서 닫아 매 마디로 들어가는 리프트를 만드세요. 킥은 1박, 2박의 '&', 그리고 3박에 놓으세요. 백비트는 또렷하게 유지하고 그루브 전체가 기쁨으로 통통 튀게 하세요.",
+      "arrangement": [
+        {
+          "label": "Intro",
+          "labelKr": "인트로",
+          "intensity": 3,
+          "note": "Kick off with an energetic pulse — driving hats or a four-on-the-floor kick with a clap-like backbeat, upbeat from the first bar.",
+          "noteKr": "활기찬 펄스로 시작해 몰아치는 하이햇이나 포온더플로어 킥에 박수 같은 백비트로 첫 마디부터 신나게 가세요."
+        },
+        {
+          "label": "Verse",
+          "labelKr": "벌스",
+          "intensity": 3,
+          "note": "Keep the bounce with closed hats and a steady backbeat and a lively kick pattern, staying up-tempo but leaving headroom for the chorus.",
+          "noteKr": "클로즈 하이햇과 꾸준한 백비트, 경쾌한 킥으로 통통 튀는 느낌을 유지하되 코러스를 위한 여유를 남기세요."
+        },
+        {
+          "label": "Chorus",
+          "labelKr": "코러스",
+          "intensity": 5,
+          "note": "Full celebration — four-on-the-floor kick, crashes on 1, open hats or ride, and driving fills that make people move.",
+          "noteKr": "완전한 축제로 포온더플로어 킥, 1박 크래시, 오픈 하이햇이나 라이드, 사람들을 움직이게 하는 추진 필을 넣으세요."
+        },
+        {
+          "label": "Instrumental Break",
+          "labelKr": "인스트루멘탈 브레이크",
+          "intensity": 4,
+          "note": "Ride a tight dance groove, throw in syncopated kick or tom hooks and a repeated fill, keeping the floor moving.",
+          "noteKr": "타이트한 댄스 그루브를 타고 싱코페이션 킥이나 톰 훅, 반복 필을 던지며 플로어를 계속 움직이게 하세요."
+        },
+        {
+          "label": "Bridge",
+          "labelKr": "브릿지",
+          "intensity": 5,
+          "note": "Push to the peak with four-on-the-floor, crashes stacked on the downbeats, and building tom grooves under the gang vocals.",
+          "noteKr": "포온더플로어와 다운비트에 쌓은 크래시, 떼창 아래의 상승 톰 그루브로 정점까지 밀어붙이세요."
+        },
+        {
+          "label": "Final Chorus",
+          "labelKr": "마지막 코러스",
+          "intensity": 5,
+          "note": "Hold nothing back — full crashes, driving kick, and the biggest fills, keeping the party at full height to the end.",
+          "noteKr": "아무것도 아끼지 말고 꽉 찬 크래시와 추진 킥, 가장 큰 필로 끝까지 최고조의 열기를 유지하세요."
+        },
+        {
+          "label": "Outro",
+          "labelKr": "아웃트로",
+          "intensity": 3,
+          "note": "Bring it down a notch to a simpler groove or a punchy stop-hit ending, landing the celebration cleanly.",
+          "noteKr": "한 단계 낮춰 단순한 그루브나 강렬한 스톱 히트 엔딩으로 축제를 깔끔하게 마무리하세요."
+        }
+      ]
+    }
+  ],
+  "rudiments": [
+    {
+      "id": "single-stroke-roll",
+      "name": "Single Stroke Roll",
+      "nameKr": "싱글 스트로크 롤",
+      "sticking": [
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L"
+      ],
+      "notation": "R L R L R L R L",
+      "description": "The most basic rudiment. You simply alternate hands one hit at a time: right, left, right, left, kept perfectly even. Focus on making every stroke the same volume and the same spacing. It is the foundation for smooth tom fills and for building speed.",
+      "descriptionKr": "가장 기본이 되는 루디먼트입니다. 오른손 왼손을 한 번씩 번갈아 치되 완벽하게 고르게 유지합니다. 모든 타격의 크기와 간격을 똑같이 맞추는 데 집중하세요. 부드러운 탐 필인과 스피드의 기초가 됩니다.",
+      "application": "On the worship kit, single strokes power most tom fills. A descending R L R L around the toms is the classic lead-in to a chorus, and singles also drive fast hi-hat or ride patterns in upbeat songs. // 찬양 키트에서는 싱글 스트로크가 대부분의 탐 필인을 만듭니다. 탐을 따라 '오 왼 오 왼'으로 내려오는 필인이 후렴 직전의 대표적인 예입니다. 빠른 곡에서 하이햇이나 라이드를 빠르게 연주할 때도 쓰입니다."
+    },
+    {
+      "id": "double-stroke-roll",
+      "name": "Double Stroke Roll",
+      "nameKr": "더블 스트로크 롤",
+      "sticking": [
+        "R",
+        "R",
+        "L",
+        "L",
+        "R",
+        "R",
+        "L",
+        "L"
+      ],
+      "notation": "R R L L R R L L",
+      "description": "Play two hits with each hand before switching: right-right, left-left. The trick is letting the stick bounce for the second hit instead of forcing it with muscle. This is how drummers get fast, controlled rolls.",
+      "descriptionKr": "각 손으로 두 번씩 치고 손을 바꿉니다. 오오 왼왼 순서입니다. 두 번째 타격은 힘을 주지 말고 스틱의 반동(바운스)을 이용하는 것이 핵심입니다. 빠르고 컨트롤된 롤을 만드는 방법입니다.",
+      "application": "Doubles let you play smooth, controlled snare rolls that swell into a big crash, which is perfect for the build before a bridge or a key change. // 더블은 부드럽고 컨트롤된 스네어 롤을 가능하게 해서 크래시로 터지는 빌드업을 만듭니다. 브릿지나 조 바뀜(키 체인지) 직전에 아주 좋습니다."
+    },
+    {
+      "id": "single-paradiddle",
+      "name": "Single Paradiddle",
+      "nameKr": "싱글 파라디들",
+      "sticking": [
+        "R",
+        "L",
+        "R",
+        "R",
+        "L",
+        "R",
+        "L",
+        "L"
+      ],
+      "notation": "R L R R  L R L L",
+      "description": "A four-note pattern: R L R R, then L R L L. It mixes single and double strokes so the accent naturally alternates hands each time through. Say it out loud as you play: 'para-diddle.'",
+      "descriptionKr": "네 개의 음으로 이루어진 패턴입니다. 오 왼 오오 다음에 왼 오 왼왼입니다. 싱글과 더블이 섞여 있어서 강세가 자연스럽게 양손을 오갑니다. 연주하면서 '파라-디들'이라고 소리 내어 읽어 보세요.",
+      "application": "The paradiddle shines when you split it between hi-hat and snare: the accents fall on the hi-hat while ghost notes sneak onto the snare, giving a funky, dynamic groove for upbeat praise songs. It also makes tom fills flow smoothly. // 파라디들은 하이햇과 스네어에 나눠 연주할 때 빛을 발합니다. 강세는 하이햇에, 고스트노트는 스네어에 살짝 넣으면 신나는 찬양곡에 어울리는 다이내믹한 그루브가 됩니다. 스티킹이 자연스럽게 흘러서 탐 필인에도 좋습니다."
+    },
+    {
+      "id": "double-paradiddle",
+      "name": "Double Paradiddle",
+      "nameKr": "더블 파라디들",
+      "sticking": [
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "R",
+        "L",
+        "R",
+        "L",
+        "R",
+        "L",
+        "L"
+      ],
+      "notation": "R L R L R R  L R L R L L",
+      "description": "Like the single paradiddle but with two extra single strokes up front: R L R L R R, then L R L R L L. Its six-note length sits perfectly over triplets and gives a longer, rolling phrase.",
+      "descriptionKr": "싱글 파라디들과 비슷하지만 앞에 싱글 두 개가 더 붙습니다. 오 왼 오 왼 오오 다음에 왼 오 왼 오 왼왼입니다. 여섯 음 길이라 셋잇단음표(트리플렛) 위에 딱 맞아서 더 길고 굴러가는 프레이즈를 만듭니다.",
+      "application": "Double paradiddles fit 6/8 and shuffle worship ballads beautifully. Orchestrate the six notes around hi-hat, snare, and toms for a flowing fill that matches the triplet feel. // 더블 파라디들은 6/8이나 셔플 계열 찬양 발라드에 아주 잘 맞습니다. 여섯 음을 하이햇, 스네어, 탐에 나눠 배치하면 셋잇단 필에 어울리는 흐르는 듯한 필인이 됩니다."
+    },
+    {
+      "id": "single-flam",
+      "name": "Single Flam",
+      "nameKr": "싱글 플램",
+      "sticking": [
+        "l",
+        "R",
+        "r",
+        "L"
+      ],
+      "notation": "lR  rL",
+      "description": "A flam is one main note thickened by a soft grace note played a hair before it with the opposite hand, written 'lR' (quiet left, then loud right). It sounds like one fat 'thap' rather than two separate hits.",
+      "descriptionKr": "플램은 메인 음 바로 직전에 반대 손으로 작은 꾸밈음을 살짝 붙여 소리를 두껍게 만드는 주법입니다. 'lR'(작은 왼손 다음 큰 오른손)로 표기합니다. 두 번의 타격이 아니라 하나의 두툼한 '탁' 소리처럼 들립니다.",
+      "application": "Flams add weight to accents. A flammed snare backbeat hits harder, and a flam on a crash or tom makes the downbeat of a chorus land with extra punch. Beginners use them to make big moments feel bigger. // 플램은 강세에 무게감을 더합니다. 백비트 스네어에 플램을 넣으면 더 세게 들리고, 크래시나 탐에 플램을 넣으면 후렴 첫 박이 더 강하게 꽂힙니다. 큰 순간을 더 크게 만들고 싶을 때 사용합니다."
+    },
+    {
+      "id": "drag-ruff",
+      "name": "Drag (Ruff)",
+      "nameKr": "드래그 (러프)",
+      "sticking": [
+        "l",
+        "l",
+        "R",
+        "r",
+        "r",
+        "L"
+      ],
+      "notation": "llR  rrL",
+      "description": "A drag, also called a ruff, is a main note preceded by two quick soft grace notes from the opposite hand, written 'llR.' Those two little bounces cushion the accent, like a tiny stutter right before the beat.",
+      "descriptionKr": "드래그는 러프라고도 부르며, 메인 음 앞에 반대 손으로 작고 빠른 꾸밈음 두 개를 붙이는 주법입니다. 'llR'로 표기합니다. 작은 바운스 두 개가 강세 앞에서 살짝 더듬는 듯한 완충 역할을 합니다.",
+      "application": "Drags decorate slower worship grooves. A subtle drag into the snare backbeat adds texture without sounding busy, which is perfect for reflective songs where you want feel rather than flash. // 드래그는 느린 찬양 그루브를 꾸며 줍니다. 스네어 백비트로 들어가는 은은한 드래그는 산만하지 않게 질감을 더해 줘서, 화려함보다 감성이 필요한 잔잔한 곡에 잘 어울립니다."
+    },
+    {
+      "id": "five-stroke-roll",
+      "name": "Five Stroke Roll",
+      "nameKr": "파이브 스트로크 롤",
+      "sticking": [
+        "R",
+        "R",
+        "L",
+        "L",
+        "R",
+        "L",
+        "L",
+        "R",
+        "R",
+        "L"
+      ],
+      "notation": "R R L L R  L L R R L",
+      "description": "Two doubles plus one accent: R R L L R, then it flips to L L R R L. The two bounced doubles lead into a final accented note. It is a short, punchy roll you can drop in almost anywhere.",
+      "descriptionKr": "더블 두 개에 강세 하나를 더한 주법입니다. 오오 왼왼 오 다음에 왼왼 오오 왼으로 바뀝니다. 바운스로 친 더블 두 개가 마지막 강세 음으로 이어집니다. 어디에나 넣을 수 있는 짧고 강한 롤입니다.",
+      "application": "The five-stroke roll is a go-to quick fill. Roll on the snare and finish the accent on a crash or floor tom to punctuate the end of a phrase or push into the next section. // 파이브 스트로크 롤은 자주 쓰는 짧은 필인입니다. 스네어에서 롤을 굴리다가 마지막 강세를 크래시나 플로어탐에서 맺으면, 프레이즈의 끝을 찍거나 다음 파트로 밀어 넣기에 좋습니다."
+    },
+    {
+      "id": "six-stroke-roll",
+      "name": "Six Stroke Roll",
+      "nameKr": "식스 스트로크 롤",
+      "sticking": [
+        "R",
+        "L",
+        "L",
+        "R",
+        "R",
+        "L",
+        "L",
+        "R",
+        "R",
+        "L",
+        "L",
+        "R"
+      ],
+      "notation": "R L L R R L  L R R L L R",
+      "description": "A single, two doubles, and a single: R L L R R L, then L R R L L R. Accent the two outer singles and let the middle doubles bounce softly. It has a rolling, triplet-friendly flow.",
+      "descriptionKr": "싱글 하나, 더블 두 개, 싱글 하나로 된 주법입니다. 오 왼왼 오오 왼 다음에 왼 오오 왼왼 오입니다. 양끝의 싱글에 강세를 주고 가운데 더블은 부드럽게 바운스로 굴립니다. 셋잇단에 잘 맞는 굴러가는 느낌이 있습니다.",
+      "application": "The six-stroke roll makes a smooth, continuous fill in 6/8 ballads or shuffle feels. Orchestrate the accents on toms and the doubles on the snare for a flowing lead-in to a chorus. // 식스 스트로크 롤은 6/8 발라드나 셔플 필에서 부드럽게 이어지는 필인을 만듭니다. 강세는 탐에, 더블은 스네어에 배치하면 후렴으로 흐르듯 들어가는 필인이 됩니다."
+    },
+    {
+      "id": "flam-tap",
+      "name": "Flam Tap",
+      "nameKr": "플램 탭",
+      "sticking": [
+        "l",
+        "R",
+        "R",
+        "r",
+        "L",
+        "L"
+      ],
+      "notation": "lR R  rL L",
+      "description": "A flam followed by a single tap with the same hand: 'lR R,' then 'rL L.' You play the fat flam, then immediately a quieter note with the same stick before switching hands. It trains flams inside a steady stream of notes.",
+      "descriptionKr": "플램을 친 뒤 같은 손으로 작은 탭 하나를 이어 치는 주법입니다. 'lR R' 다음에 'rL L'입니다. 두툼한 플램을 치고 곧바로 같은 스틱으로 작은 음을 친 뒤 손을 바꿉니다. 연속된 음 속에서 플램을 넣는 연습이 됩니다.",
+      "application": "Flam taps give accented sixteenth-note grooves a driving, layered texture. Land the flam accents on the hi-hat or snare while the taps fill the gaps, and use them to build intensity in a bridge. // 플램 탭은 강세가 있는 16분음표 그루브에 밀어붙이는 층층의 질감을 더합니다. 플램 강세는 하이햇이나 스네어에, 탭은 그 사이를 채우게 하면 브릿지에서 긴장감을 쌓아 올릴 때 유용합니다."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "How should a beginner hold the sticks? What is 'matched grip' and the 'fulcrum'?",
+      "questionKr": "초보자는 스틱을 어떻게 잡아야 하나요? '매치드 그립'과 '받침점(펄크럼)'이 뭔가요?",
+      "answer": "Use matched grip: both hands hold the stick the same way, palms facing down. The fulcrum is the pivot point where the stick balances — usually between the thumb and the side of your index finger, about one-third up from the butt end. Pinch there firmly but keep the back fingers relaxed so the stick can rebound off the drum on its own. A death-grip kills the bounce and tires you out fast.",
+      "answerKr": "매치드 그립을 쓰세요. 양손이 똑같은 방법으로 스틱을 잡고, 손등이 위를 향하게 합니다. 받침점(펄크럼)은 스틱이 균형을 잡는 지점으로, 보통 엄지와 검지 옆면 사이이고 스틱 끝에서 3분의 1쯤 되는 곳입니다. 그 지점을 단단히 잡되 나머지 손가락은 힘을 빼서 스틱이 드럼에서 스스로 튕겨 올라오게 하세요. 너무 꽉 쥐면 리바운드가 죽고 금방 지칩니다."
+    },
+    {
+      "question": "What do counting tokens like '1 e & a' mean, and what is subdivision?",
+      "questionKr": "'1 e & a' 같은 카운트는 무슨 뜻이고, 서브디비전(박 나누기)은 뭔가요?",
+      "answer": "Subdivision is how many equal steps you split each beat into. Two steps per beat are eighth notes, counted '1 & 2 & 3 & 4 &'. Four steps per beat are sixteenth notes, counted '1 e & a 2 e & a...'. Saying the count out loud while you play keeps every note in its right slot and stops you from rushing. Beginners should always count before speeding up.",
+      "answerKr": "서브디비전은 한 박을 몇 개의 똑같은 조각으로 나누는지를 말합니다. 한 박을 둘로 나누면 8분음표이고 '1 & 2 & 3 & 4 &'로 셉니다. 넷으로 나누면 16분음표이고 '1 e & a 2 e & a...'로 셉니다. 연주하면서 카운트를 소리 내어 세면 모든 음이 제자리에 들어가고 서두르는 걸 막아 줍니다. 초보자는 빠르게 하기 전에 항상 소리 내어 세는 게 좋습니다."
+    },
+    {
+      "question": "What is the backbeat and where does the snare go?",
+      "questionKr": "백비트가 뭐고 스네어는 어디에 치나요?",
+      "answer": "The backbeat is the snare hit that drives most pop and worship grooves. In 4/4 it lands on beats 2 and 4 — the 'back' beats that fall between the kicks on 1 and 3. Count '1 2 3 4' and clap only on 2 and 4: that clap is your snare. It gives the song its push and lets the congregation feel the beat, so keep it steady and confident.",
+      "answerKr": "백비트는 대부분의 팝과 찬양 그루브를 끌고 가는 스네어 타격입니다. 4/4에서는 2박과 4박에 옵니다. 즉 1박과 3박의 킥 사이에 오는 '뒷박'입니다. '1 2 3 4'를 세면서 2박과 4박에만 손뼉을 쳐 보세요. 그 손뼉이 바로 스네어입니다. 백비트가 곡에 추진력을 주고 회중이 박자를 느끼게 하므로, 흔들리지 말고 자신 있게 꾸준히 치세요."
+    },
+    {
+      "question": "How do I read the groove grid — what do the rows and cell numbers mean?",
+      "questionKr": "그루브 그리드는 어떻게 읽나요? 줄과 칸의 숫자가 무슨 뜻인가요?",
+      "answer": "Each row is one part of the kit (HH hi-hat, SN snare, KK kick, CR crash, and so on), and each column is one step in time, read left to right as a looping bar. In the cells, 0 is a rest (don't play), 1 is a normal hit, 2 is an accent (louder), and 3 is a ghost note (a very soft snare tap). Open vs closed hi-hat is shown by using the OH row instead of the HH row, not by a different number.",
+      "answerKr": "각 줄은 드럼 키트의 한 부분이고(HH 하이햇, SN 스네어, KK 킥, CR 크래시 등), 각 칸은 시간의 한 스텝으로 왼쪽에서 오른쪽으로 한 마디를 반복해서 읽습니다. 칸 안의 0은 쉼(치지 않음), 1은 보통 타격, 2는 액센트(더 크게), 3은 고스트노트(아주 여린 스네어)입니다. 하이햇을 여는지 닫는지는 숫자가 아니라 HH 줄 대신 OH 줄을 쓰는 것으로 표시합니다."
+    },
+    {
+      "question": "Why do drummers play with a click / in-ears, and how do I stay locked to it?",
+      "questionKr": "드러머는 왜 클릭/인이어를 쓰고, 어떻게 클릭에 딱 붙어 있나요?",
+      "answer": "The click (metronome) is a steady beep in your in-ear monitors that keeps the whole band at one tempo, which matters a lot when there are backing tracks or lyrics on a screen. To lock in, place your hi-hat or ride exactly on top of the beep so you almost stop hearing it — if you hear the click 'flamming' against you, you're early or late. Practice slow first: it's better to be perfectly with the click at a slow tempo than sloppy at full speed.",
+      "answerKr": "클릭(메트로놈)은 인이어 모니터로 들리는 일정한 삑 소리로, 밴드 전체를 하나의 템포에 맞춰 줍니다. 반주 트랙이나 화면 가사가 있을 때 특히 중요합니다. 클릭에 붙으려면 하이햇이나 라이드를 삑 소리 바로 위에 얹어서, 클릭이 거의 안 들릴 정도로 겹치게 하세요. 클릭이 나와 '플램'처럼 어긋나 들리면 빠르거나 늦은 겁니다. 먼저 느리게 연습하세요. 빠른 템포에서 엉성한 것보다 느린 템포에서 클릭과 완벽히 맞는 게 낫습니다."
+    },
+    {
+      "question": "What are dynamics, and why do they matter in worship drumming?",
+      "questionKr": "다이내믹이 뭐고, 찬양 드럼에서 왜 중요한가요?",
+      "answer": "Dynamics means how loud or soft you play. A worship set usually rises and falls: a quiet verse, a building pre-chorus, a full chorus, a soft bridge. If you bash everything at full volume, the song has nowhere to go and you drown out the singers. Learn to play the verse gently (light hi-hat, ghost notes) and save your loud accents and crashes for the big moments. Serving the dynamics is often more important than the notes themselves.",
+      "answerKr": "다이내믹은 얼마나 크게 또는 여리게 치느냐를 말합니다. 찬양 콘티는 보통 오르내립니다. 조용한 절, 서서히 커지는 프리코러스, 꽉 찬 후렴, 여린 브리지처럼요. 모든 걸 최대 볼륨으로 두들기면 곡이 더 갈 데가 없어지고 싱어들을 덮어 버립니다. 절은 여리게(가벼운 하이햇, 고스트노트) 치고, 크게 치는 액센트와 크래시는 큰 순간을 위해 아껴 두세요. 찬양에서는 음표 자체보다 다이내믹을 잘 살리는 게 더 중요할 때가 많습니다."
+    },
+    {
+      "question": "What is the difference between a groove and a fill, and when do I play a fill?",
+      "questionKr": "그루브와 필인의 차이는 뭐고, 필인은 언제 치나요?",
+      "answer": "A groove is the repeating pattern you hold for most of the song — the steady bed the band sits on. A fill is a short break from the groove, usually one or two beats at the end of a phrase, that signals a transition (like going into the chorus). Beginners should play the groove 90% of the time and use small, simple fills at section changes. A rock-solid groove serves the song far better than lots of flashy fills.",
+      "answerKr": "그루브는 곡의 대부분 동안 유지하는 반복 패턴으로, 밴드가 올라앉는 든든한 바닥입니다. 필인은 그루브에서 잠깐 벗어나는 짧은 구간으로, 보통 프레이즈 끝의 한두 박이며 후렴으로 넘어가는 것 같은 전환을 알려 줍니다. 초보자는 90퍼센트는 그루브를 치고, 섹션이 바뀔 때만 작고 단순한 필인을 쓰세요. 화려한 필인을 많이 넣는 것보다 흔들림 없는 그루브가 곡을 훨씬 잘 섬깁니다."
+    },
+    {
+      "question": "What is a worship-serving mindset for a drummer?",
+      "questionKr": "드러머의 '찬양을 섬기는 마음가짐'은 어떤 건가요?",
+      "answer": "Your job is to serve the song, the band, and the congregation — not to show off. That means keeping steady time so everyone feels safe, matching the leader's dynamics, and leaving space instead of filling every gap. Watch the worship leader for cues, keep your eyes and ears open, and remember the goal is to help people worship, not to notice the drummer. Simple and solid beats flashy and shaky every time.",
+      "answerKr": "당신의 역할은 곡과 밴드와 회중을 섬기는 것이지, 실력을 뽐내는 게 아닙니다. 그러려면 모두가 안심하도록 박자를 흔들림 없이 지키고, 인도자의 다이내믹에 맞추고, 모든 빈틈을 채우기보다 여백을 남겨야 합니다. 인도자의 신호를 살피고 눈과 귀를 열어 두세요. 목표는 사람들이 예배하도록 돕는 것이지 드러머가 눈에 띄는 게 아닙니다. 단순하고 탄탄한 게 화려하고 불안한 것보다 언제나 낫습니다."
+    },
+    {
+      "question": "How do I count and feel a 6/8 ballad?",
+      "questionKr": "6/8 발라드는 어떻게 세고 어떻게 느끼나요?",
+      "answer": "In 6/8 you count six even steps, '1 2 3 4 5 6', but you feel two big pulses: one on '1' and one on '4'. Each pulse is split into three, which gives it that rolling, lilting, triplet-like sway — very common in slow worship ballads. The kick usually lands on 1 and the snare on 4. Tap your foot only on 1 and 4 while you count all six, and you'll feel the 'two big beats' groove.",
+      "answerKr": "6/8에서는 '1 2 3 4 5 6' 여섯 개의 고른 스텝을 세지만, 느끼는 건 두 개의 큰 맥입니다. 하나는 '1'에, 하나는 '4'에 있습니다. 각 맥이 셋으로 나뉘어서 굴러가는 듯한 삼연음 느낌의 흔들림이 생기는데, 느린 찬양 발라드에 아주 흔합니다. 보통 킥은 1에, 스네어는 4에 옵니다. 여섯을 다 세면서 발은 1과 4에만 구르면 '큰 두 박'의 그루브가 느껴집니다."
+    },
+    {
+      "question": "What are ghost notes and why would I play them?",
+      "questionKr": "고스트노트가 뭐고 왜 치나요?",
+      "answer": "Ghost notes are very soft, quiet snare taps played between the main backbeats. They're barely heard but strongly felt — they add a subtle sixteenth-note bounce and make a groove feel funky and alive instead of stiff. On the grid they show up as a 3 on the snare row. Keep them low (stick close to the drum, light touch) so your loud backbeat on 2 and 4 still stands out clearly above them.",
+      "answerKr": "고스트노트는 메인 백비트 사이에 치는 아주 여리고 조용한 스네어 타격입니다. 거의 안 들리지만 확실히 느껴집니다. 은근한 16분음표의 튐을 더해서 그루브를 뻣뻣하지 않고 그루비하고 살아 있게 만듭니다. 그리드에서는 스네어 줄의 3으로 표시됩니다. 스틱을 드럼 가까이 두고 가볍게 쳐서 아주 여리게 유지하세요. 그래야 2박과 4박의 큰 백비트가 그 위로 또렷하게 살아납니다."
+    },
+    {
+      "question": "When do I use the closed hi-hat versus the open hi-hat, ride, or crash?",
+      "questionKr": "클로즈 하이햇, 오픈 하이햇, 라이드, 크래시는 각각 언제 쓰나요?",
+      "answer": "Closed hi-hat (foot pressed down) gives a tight 'tick' for quiet verses and controlled grooves. Open hi-hat (foot slightly up) gives a loose, washy 'tss' for energy and lift, often on the '&' before a big beat. The ride cymbal is a smoother, sustained pattern for choruses and bigger sections where the hi-hat feels too small. A crash is a single big accent to mark the top of a section — hit it on beat 1 of the chorus, not constantly.",
+      "answerKr": "클로즈 하이햇(발로 눌러 닫은 상태)은 조용한 절과 절제된 그루브에 어울리는 단단한 '틱' 소리를 냅니다. 오픈 하이햇(발을 살짝 뗀 상태)은 에너지와 고조를 위한 느슨하고 퍼지는 '츠' 소리로, 큰 박 앞의 '&'에 자주 씁니다. 라이드는 하이햇이 작게 느껴지는 후렴이나 큰 섹션에서 더 부드럽고 길게 이어지는 패턴을 줍니다. 크래시는 섹션의 시작을 알리는 한 방의 큰 액센트입니다. 후렴 첫 박(1박)에 치고, 계속 남발하지 마세요."
+    },
+    {
+      "question": "If I make a mistake in the middle of a song, what should I do?",
+      "questionKr": "곡 중간에 실수하면 어떻게 해야 하나요?",
+      "answer": "Keep the time going — never stop. The one thing the band can't recover from is the drummer losing the beat, so if you drop a fill or hit the wrong drum, just calmly land back on the next beat 1 and hold the groove. Don't wince, don't freeze, and don't try to 'fix' it with a bigger fill. Nine times out of ten the congregation never notices a small slip; they only notice if the whole song falls apart.",
+      "answerKr": "박자는 계속 가게 하세요. 절대 멈추면 안 됩니다. 밴드가 회복하기 가장 힘든 건 드러머가 박자를 놓치는 것입니다. 그러니 필인을 놓치거나 엉뚱한 드럼을 쳤어도, 침착하게 다음 1박에 다시 들어와 그루브를 붙잡으면 됩니다. 인상 쓰지 말고, 얼어붙지 말고, 더 큰 필인으로 '만회'하려 하지 마세요. 열에 아홉은 회중이 작은 실수를 눈치채지 못합니다. 곡 전체가 무너질 때만 알아챕니다."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Backbeat",
+      "termKr": "백비트",
+      "definition": "The snare hit on beats 2 and 4 that drives most pop and worship grooves and gives the song its push. Count '1 2 3 4' and clap on 2 and 4 — that's the backbeat.",
+      "definitionKr": "2박과 4박에 치는 스네어로, 대부분의 팝과 찬양 그루브를 끌고 가며 곡에 추진력을 줍니다. '1 2 3 4'를 세면서 2박과 4박에 손뼉을 치면 그게 백비트입니다."
+    },
+    {
+      "term": "Groove",
+      "termKr": "그루브",
+      "definition": "The steady repeating pattern of hi-hat, snare, and kick that you hold for most of a song. It's the solid bed the whole band sits on; a good groove feels effortless and locked to the beat.",
+      "definitionKr": "곡의 대부분 동안 유지하는, 하이햇과 스네어와 킥의 꾸준한 반복 패턴입니다. 밴드 전체가 올라앉는 든든한 바닥이며, 좋은 그루브는 힘들이지 않고 박자에 딱 붙어 있는 느낌을 줍니다."
+    },
+    {
+      "term": "Fill",
+      "termKr": "필인",
+      "definition": "A short break from the groove, usually one or two beats at the end of a phrase, that signals a transition such as going into the chorus. Beginners should keep fills small and simple.",
+      "definitionKr": "그루브에서 잠깐 벗어나는 짧은 구간으로, 보통 프레이즈 끝의 한두 박이며 후렴으로 넘어가는 것 같은 전환을 알려 줍니다. 초보자는 필인을 작고 단순하게 유지하는 게 좋습니다."
+    },
+    {
+      "term": "Subdivision",
+      "termKr": "서브디비전 (박 나누기)",
+      "definition": "How many equal steps you split each beat into: 2 = eighth notes ('1 & 2 &'), 3 = triplets/compound feel, 4 = sixteenth notes ('1 e & a'). Counting the subdivision keeps your timing even.",
+      "definitionKr": "한 박을 몇 개의 똑같은 조각으로 나누는지를 말합니다. 2는 8분음표('1 & 2 &'), 3은 삼연음/컴파운드 느낌, 4는 16분음표('1 e & a')입니다. 서브디비전을 세면 박자가 고르게 유지됩니다."
+    },
+    {
+      "term": "BPM / Tempo",
+      "termKr": "템포(BPM)",
+      "definition": "The speed of the song, measured in beats per minute. A slow worship ballad might be 65–75 BPM; an upbeat praise song 120–140 BPM. The click sets the tempo the whole band follows.",
+      "definitionKr": "곡의 빠르기로, 분당 박 수(BPM)로 잽니다. 느린 찬양 발라드는 65~75 BPM, 신나는 찬양은 120~140 BPM쯤입니다. 클릭이 밴드 전체가 따라가는 템포를 정합니다."
+    },
+    {
+      "term": "Click / Metronome",
+      "termKr": "클릭 / 메트로놈",
+      "definition": "A steady beep, usually heard in your in-ears, that keeps everyone at one exact tempo. Practicing with a click builds rock-solid time; lock your hi-hat right on top of the beep.",
+      "definitionKr": "보통 인이어로 들리는 일정한 삑 소리로, 모두를 하나의 정확한 템포에 맞춰 줍니다. 클릭에 맞춰 연습하면 탄탄한 박자 감각이 생깁니다. 하이햇을 삑 소리 바로 위에 얹으세요."
+    },
+    {
+      "term": "Ghost note",
+      "termKr": "고스트노트",
+      "definition": "A very soft, quiet snare tap played between the main backbeats. Barely heard but strongly felt, it adds a subtle bounce that makes a groove feel alive. Shown as a 3 on the snare row of the grid.",
+      "definitionKr": "메인 백비트 사이에 치는 아주 여리고 조용한 스네어 타격입니다. 거의 안 들리지만 확실히 느껴져서, 그루브를 살아 있게 하는 은근한 튐을 더합니다. 그리드에서는 스네어 줄의 3으로 표시됩니다."
+    },
+    {
+      "term": "Accent",
+      "termKr": "액센트",
+      "definition": "A note played noticeably louder than the ones around it to emphasize a beat. On the grid it's a 2. Accents shape the groove and mark important moments, like the '1' of a new section.",
+      "definitionKr": "주변 음보다 눈에 띄게 크게 쳐서 그 박을 강조하는 음입니다. 그리드에서는 2입니다. 액센트는 그루브의 모양을 잡고, 새 섹션의 '1' 같은 중요한 순간을 짚어 줍니다."
+    },
+    {
+      "term": "Rudiment",
+      "termKr": "루디먼트",
+      "definition": "A basic sticking pattern (like single strokes, double strokes, paradiddles) that is the building block of drumming technique. Practicing rudiments slowly builds control, evenness, and speed.",
+      "definitionKr": "싱글 스트로크, 더블 스트로크, 패러디들 같은 기본 스티킹 패턴으로, 드럼 테크닉의 기초 블록입니다. 루디먼트를 느리게 연습하면 컨트롤과 균일함과 속도가 길러집니다."
+    },
+    {
+      "term": "Paradiddle",
+      "termKr": "패러디들",
+      "definition": "A core rudiment with the sticking R-L-R-R  L-R-L-L. It teaches your hands to alternate smoothly and is the basis of many fills and grooves. Start very slow and keep every note even.",
+      "definitionKr": "오른손-왼손-오른손-오른손, 왼손-오른손-왼손-왼손(R-L-R-R L-R-L-L) 스티킹의 핵심 루디먼트입니다. 양손이 매끄럽게 번갈아 움직이도록 훈련시키며, 많은 필인과 그루브의 바탕이 됩니다. 아주 느리게 시작해 모든 음을 고르게 유지하세요."
+    },
+    {
+      "term": "Flam",
+      "termKr": "플램",
+      "definition": "Two notes played almost together — one soft grace note a hair before the main hit — so it sounds like one thick 'flah' instead of a clean tap. It fattens a snare accent. (Also what an out-of-time click sounds like against you.)",
+      "definitionKr": "거의 동시에 치는 두 음으로, 여린 꾸밈음 하나가 메인 타격 바로 직전에 와서 깔끔한 한 방 대신 두툼한 '플라' 소리로 들립니다. 스네어 액센트를 두껍게 해 줍니다. (박자가 어긋난 클릭이 나와 겹칠 때도 이 소리가 납니다.)"
+    },
+    {
+      "term": "Matched grip",
+      "termKr": "매치드 그립",
+      "definition": "Holding both sticks the same way, palms facing down. It's the easiest, most natural grip for beginners and works well across the whole kit.",
+      "definitionKr": "양손으로 스틱을 똑같은 방법으로 잡고 손등이 위를 향하게 하는 방식입니다. 초보자에게 가장 쉽고 자연스러운 그립이며, 키트 전체에서 두루 잘 통합니다."
+    },
+    {
+      "term": "Fulcrum",
+      "termKr": "펄크럼 (받침점)",
+      "definition": "The pivot point where the stick balances, usually between the thumb and the side of the index finger. Pinch here firmly but relax the back fingers so the stick can rebound off the drum on its own.",
+      "definitionKr": "스틱이 균형을 잡는 지점으로, 보통 엄지와 검지 옆면 사이입니다. 이곳을 단단히 잡되 나머지 손가락은 힘을 빼서 스틱이 드럼에서 스스로 튕겨 올라오게 하세요."
+    },
+    {
+      "term": "Hi-hat (open / closed)",
+      "termKr": "하이햇 (오픈 / 클로즈)",
+      "definition": "Two cymbals worked by a foot pedal. Closed (foot down) gives a tight 'tick' for quiet parts; open (foot slightly up) gives a loose, washy 'tss' for energy. On the grid, open is the OH lane and closed is the HH lane.",
+      "definitionKr": "발 페달로 조작하는 두 장의 심벌입니다. 클로즈(발로 누름)는 조용한 부분에 어울리는 단단한 '틱' 소리를, 오픈(발을 살짝 뗌)은 에너지를 주는 느슨하고 퍼지는 '츠' 소리를 냅니다. 그리드에서 오픈은 OH 줄, 클로즈는 HH 줄입니다."
+    },
+    {
+      "term": "Ride",
+      "termKr": "라이드",
+      "definition": "A large cymbal you play a steady pattern on, giving a smoother, more sustained sound than the hi-hat. Great for choruses and bigger sections where the hi-hat feels too small.",
+      "definitionKr": "일정한 패턴을 치는 큰 심벌로, 하이햇보다 더 부드럽고 길게 이어지는 소리를 줍니다. 하이햇이 작게 느껴지는 후렴이나 큰 섹션에 좋습니다."
+    },
+    {
+      "term": "Crash",
+      "termKr": "크래시",
+      "definition": "A cymbal used for a single big accent to mark the top of a section, usually hit on beat 1 of a chorus. Use it to punctuate, not constantly, or it loses its impact.",
+      "definitionKr": "섹션의 시작을 알리는 한 방의 큰 액센트로 쓰는 심벌이며, 보통 후렴 첫 박(1박)에 칩니다. 계속 남발하지 말고 강조할 때만 쓰세요. 안 그러면 임팩트가 사라집니다."
+    },
+    {
+      "term": "Four-on-the-floor",
+      "termKr": "포 온 더 플로어",
+      "definition": "A pattern with the kick drum on every beat — 1, 2, 3, and 4 — giving a driving, energetic pulse common in upbeat praise songs. The snare still keeps the backbeat on 2 and 4.",
+      "definitionKr": "킥을 모든 박(1, 2, 3, 4)에 치는 패턴으로, 신나는 찬양에 흔한 힘차고 활기찬 맥을 만듭니다. 스네어는 여전히 2박과 4박에서 백비트를 유지합니다."
+    },
+    {
+      "term": "Half-time",
+      "termKr": "하프타임",
+      "definition": "A feel where the backbeat moves from beats 2 and 4 to just beat 3, making the groove feel half as fast and more spacious even though the tempo hasn't changed. Common in big, weighty bridges.",
+      "definitionKr": "백비트가 2박과 4박에서 3박 하나로 옮겨 가는 느낌으로, 템포는 그대로인데도 그루브가 절반으로 느려지고 더 넓게 느껴집니다. 크고 묵직한 브리지에 흔합니다."
+    },
+    {
+      "term": "Swing / Shuffle",
+      "termKr": "스윙 / 셔플",
+      "definition": "A feel where the subdivisions are uneven — long-short, long-short — instead of straight and even, giving a rolling, bouncy lilt. Related to the triplet feel of 6/8 and common in gospel-flavored worship.",
+      "definitionKr": "서브디비전이 반듯하고 고르지 않고 길게-짧게, 길게-짧게 불균등하게 흐르는 느낌으로, 굴러가는 듯한 탄력을 줍니다. 6/8의 삼연음 느낌과 이어지며, 가스펠 색채의 찬양에 흔합니다."
+    },
+    {
+      "term": "Dynamics",
+      "termKr": "다이내믹",
+      "definition": "How loud or soft you play. Controlling dynamics — quiet verses, building choruses, soft bridges — is one of the most important skills in worship drumming, often more important than the notes themselves.",
+      "definitionKr": "얼마나 크게 또는 여리게 치느냐입니다. 조용한 절, 커지는 후렴, 여린 브리지처럼 다이내믹을 조절하는 것은 찬양 드럼에서 가장 중요한 기술 중 하나이며, 음표 자체보다 더 중요할 때가 많습니다."
+    },
+    {
+      "term": "Cymbal swell",
+      "termKr": "심벌 스웰",
+      "definition": "A soft roll on a crash or ride cymbal (often with mallets or fast alternating stick taps) that grows from quiet to loud, used to build into a section without a hard hit. Great for gentle worship transitions.",
+      "definitionKr": "크래시나 라이드 심벌을 여리게 롤해서(주로 말렛이나 빠르게 번갈아 치는 스틱으로) 작은 소리에서 큰 소리로 부풀리는 기법으로, 강한 타격 없이 섹션으로 서서히 들어갈 때 씁니다. 부드러운 찬양 전환에 좋습니다."
+    },
+    {
+      "term": "In-ears",
+      "termKr": "인이어 (인이어 모니터)",
+      "definition": "Earphones that let you hear the click and a personal mix of the band clearly on a loud stage, while protecting your ears. Essential for playing tightly to a click and staying with backing tracks.",
+      "definitionKr": "시끄러운 무대에서도 클릭과 밴드의 개인 믹스를 또렷하게 들려주면서 귀를 보호해 주는 이어폰입니다. 클릭에 정확히 맞춰 연주하고 반주 트랙과 함께 가려면 꼭 필요합니다."
+    }
+  ],
+  "drills": [
+    {
+      "id": "drill-groove-to-click-slow-then-fast",
+      "title": "Groove to a Click, Slow-Then-Fast (your crash course)",
+      "titleKr": "클릭에 맞춘 그루브, 느리게-그다음-빠르게 (크래시 코스)",
+      "focus": "Core practice loop",
+      "focusKr": "핵심 연습 루프",
+      "goal": "This is your crash course — the beat behind most worship songs, playing today. Lock the basic 8-beat groove tightly to the click and keep it steady as you speed up and slow back down. It's rough at first and that's completely fine; the drills that follow let you earn every piece. It's working when you can barely hear the click because you're sitting right on top of it.",
+      "goalKr": "이게 크래시 코스예요. 웬만한 워십 곡 뒤에 깔리는 바로 그 비트를 오늘 칩니다. 기본 8비트 그루브를 클릭에 단단히 고정하고, 빨라졌다 다시 느려져도 흔들림 없이 유지하는 드릴입니다. 처음엔 좀 엉성해도 완전히 괜찮아요. 뒤따르는 드릴들에서 조각 하나하나를 벌어서 갖게 됩니다. 박 위에 정확히 올라타 있어서 클릭 소리가 거의 안 들릴 때 제대로 되고 있는 거예요.",
+      "reps": "10 min, up and back down",
+      "repsKr": "10분, 올렸다 다시 내리기",
+      "targetBpm": 60,
+      "patternRef": "groove-8beat-basic",
+      "steps": [
+        "Loop the 8-beat groove at 60. Hi-hat 8ths, kick on 1 and 3, snare on 2 and 4 — play it until it feels boring-easy. If your kick or hands feel shaky, that's okay for now; you'll sharpen each one in the drills ahead.",
+        "Aim to 'bury' the click: when you're perfectly in time the click seems to disappear under your notes.",
+        "Nudge the tempo up 5–10 bpm at a time. Only climb while the groove stays even and your body stays loose.",
+        "At your top comfortable tempo, then walk it back down — controlling the slow-down is as hard as speeding up.",
+        "Two or three round-trips beats one white-knuckle sprint. Relaxed and on the click wins every time."
+      ],
+      "stepsKr": [
+        "8비트 그루브를 60에서 루프하세요. 하이햇 8분음표, 킥은 1과 3박, 스네어는 2와 4박. 지루할 만큼 쉬워질 때까지 치세요. 킥이나 손이 좀 흔들려도 지금은 괜찮아요. 뒤 드릴들에서 하나씩 다듬을 겁니다.",
+        "클릭을 '묻는' 걸 목표로 하세요. 박이 완벽히 맞으면 클릭이 내 음 아래로 사라지는 것처럼 들립니다.",
+        "템포를 한 번에 5~10bpm씩 올리세요. 그루브가 고르고 몸이 느슨한 동안에만 올라갑니다.",
+        "가장 편안한 최고 템포에 닿으면 다시 걸어 내려오세요. 느려지기를 컨트롤하는 건 빨라지기만큼 어렵습니다.",
+        "이 왕복 두세 번이 손에 힘 꽉 준 전력질주 한 번보다 낫습니다. 편안하게 클릭 위에 있는 쪽이 언제나 이겨요."
+      ],
+      "order": 1
+    },
+    {
+      "id": "drill-loose-rebound-choke-test",
+      "title": "Loose Rebound / Free Bounce (the choke test)",
+      "titleKr": "느슨한 리바운드 / 프리 바운스 (초크 테스트)",
+      "focus": "Rebound control",
+      "focusKr": "리바운드 컨트롤",
+      "goal": "Build a relaxed grip that lets the stick do the work. You know it's working when a single drop bounces many even times on its own, and when you can 'choke' the bounce dead just by squeezing — proof you're controlling tension, not fighting the stick.",
+      "goalKr": "스틱이 알아서 일하게 두는 느슨한 그립을 만드는 드릴입니다. 한 번 떨어뜨린 스틱이 스스로 여러 번 고르게 튀고, 손에 힘을 줘서 그 바운스를 딱 죽일 수 있으면 제대로 되고 있는 겁니다. 힘으로 싸우는 게 아니라 긴장을 컨트롤하고 있다는 증거예요.",
+      "reps": "5 min, R and L",
+      "repsKr": "5분, 오른손 왼손 각각",
+      "targetBpm": null,
+      "patternRef": null,
+      "steps": [
+        "Hold one stick with a loose fulcrum (thumb and index), other fingers barely touching. Shoulders down, breathe out.",
+        "Drop the tip onto the snare or a pad from a few inches and let it bounce freely — don't help it, just let it die out. Count the bounces.",
+        "Now do the choke test: drop it again, then gently squeeze the fingers to stop the bounce instantly. Feel the difference between 'let go' and 'grab'.",
+        "Switch hands and match the left to the right — same number of free bounces, same relaxed feel.",
+        "If your forearm burns, you're squeezing too hard. Loosen until only the fulcrum holds the stick."
+      ],
+      "stepsKr": [
+        "스틱 하나를 엄지와 검지로 느슨하게 잡고 나머지 손가락은 살짝만 대세요. 어깨는 내리고 숨은 내쉬면서.",
+        "스네어나 패드 위 몇 센티 높이에서 스틱 팁을 떨어뜨리고 스스로 튀게 두세요. 도와주지 말고 자연스럽게 잦아들 때까지 바운스 횟수를 세보세요.",
+        "이제 초크 테스트예요. 다시 떨어뜨린 다음 손가락을 부드럽게 쥐어서 바운스를 즉시 멈춰보세요. '놓는' 느낌과 '잡는' 느낌의 차이를 몸으로 느끼세요.",
+        "손을 바꿔서 왼손을 오른손에 맞추세요. 같은 바운스 횟수, 같은 편안한 느낌으로.",
+        "팔뚝이 뻐근하면 너무 세게 쥐는 겁니다. 오직 지점(엄지-검지)만으로 스틱이 잡힐 때까지 힘을 빼세요."
+      ],
+      "order": 2
+    },
+    {
+      "id": "drill-single-stroke-tempo-ladder",
+      "title": "Single-Stroke Tempo Ladder",
+      "titleKr": "싱글 스트로크 템포 래더",
+      "focus": "Even singles",
+      "focusKr": "고른 싱글",
+      "goal": "Perfectly even alternating singles (R L R L) that stay relaxed as tempo climbs. It's working when both hands sound identical and you only move up a notch after a full minute with zero tension.",
+      "goalKr": "템포가 올라가도 편안함을 유지하는, 완벽하게 고른 교대 싱글(오 왼 오 왼)을 만드는 드릴입니다. 양손 소리가 똑같고, 한 단계에서 1분을 힘 안 들이고 버틴 뒤에만 다음 칸으로 올라가면 제대로 되고 있는 거예요.",
+      "reps": "8 min, climb in 5 bpm steps",
+      "repsKr": "8분, 5bpm씩 상승",
+      "targetBpm": 60,
+      "patternRef": null,
+      "steps": [
+        "Set the click to 60. Play steady 8th-note singles R L R L, one hit per stick, tips returning to the same start height.",
+        "Listen for evenness — the left should sound exactly like the right. Fix the weaker hand to match the stronger one.",
+        "Stay at each tempo for a full minute. If you're still relaxed and even, nudge the click up 5 bpm.",
+        "The moment your hands tense or the singles get uneven, drop back down 5 bpm and settle there.",
+        "End the session at your best relaxed tempo, not your fastest sloppy one — earn the speed, don't fake it."
+      ],
+      "stepsKr": [
+        "클릭을 60에 맞추세요. 8분음표 싱글을 오 왼 오 왼 꾸준히, 스틱당 한 번씩 치고 팁은 같은 시작 높이로 돌아오게 합니다.",
+        "고르기에 귀를 기울이세요. 왼손이 오른손과 똑같은 소리가 나야 합니다. 약한 손을 강한 손에 맞춰 고치세요.",
+        "각 템포에서 꽉 채운 1분을 머무르세요. 여전히 편안하고 고르면 클릭을 5bpm 올립니다.",
+        "손에 힘이 들어가거나 싱글이 흐트러지는 순간 5bpm 내려서 거기서 안정시키세요.",
+        "가장 빠른 엉성한 템포가 아니라 가장 편안한 템포에서 마무리하세요. 속도는 훔치는 게 아니라 벌어서 갖는 겁니다."
+      ],
+      "order": 3
+    },
+    {
+      "id": "drill-kick-foot-control",
+      "title": "Kick-Foot Control: Buried vs. Open",
+      "titleKr": "킥 풋 컨트롤: 버리드 vs 오픈",
+      "focus": "Bass drum evenness",
+      "focusKr": "베이스 드럼 고르기",
+      "goal": "Even, controlled kick strokes with a relaxed heel-up foot, and clear command of both a buried beater and a rebounding open stroke. It's working when four-on-the-floor sounds machine-even and your ankle isn't cramping.",
+      "goalKr": "힐업 자세로 편안하게, 고르고 통제된 킥 스트로크를 만들고, 비터를 묻는 주법과 튕겨 나오는 오픈 주법을 둘 다 확실히 다루는 드릴입니다. 포온더플로어가 기계처럼 고르게 들리고 발목이 안 뭉치면 제대로 되고 있는 거예요.",
+      "reps": "6 min",
+      "repsKr": "6분",
+      "targetBpm": 70,
+      "patternRef": "groove-four-on-floor",
+      "steps": [
+        "Loop the four-on-the-floor groove at 70 so the kick lands on every beat with the click.",
+        "Heel up, weight through the ball of your foot, ankle loose. Drop the leg to strike — don't stomp or grip with your toes.",
+        "First pass 'buried': press the beater into the head and hold it there. Feel the solid, controlled thump.",
+        "Second pass 'open': let the beater rebound off the head like a bouncing stick. Notice the more open, resonant tone.",
+        "Check evenness against the click — every kick the same volume and dead on time. Rest your leg the second it tenses."
+      ],
+      "stepsKr": [
+        "포온더플로어 그루브를 70에서 루프해서 킥이 매 박마다 클릭과 함께 떨어지게 하세요.",
+        "발뒤꿈치를 들고 발 앞꿈치에 체중을 싣고 발목은 느슨하게. 다리를 떨어뜨려 치세요. 쿵 밟거나 발가락에 힘주지 마세요.",
+        "첫 번째는 '버리드'예요. 비터를 헤드에 눌러 붙인 채로 두세요. 단단하고 통제된 묵직함을 느끼세요.",
+        "두 번째는 '오픈'이에요. 비터를 튕기는 스틱처럼 헤드에서 되튀게 두세요. 더 열리고 울리는 톤을 느껴보세요.",
+        "클릭에 맞춰 고르기를 확인하세요. 모든 킥이 같은 볼륨, 정확한 박에. 다리에 힘이 들어오는 순간 바로 쉬세요."
+      ],
+      "order": 4
+    },
+    {
+      "id": "drill-accents-vs-ghost-notes",
+      "title": "Accents vs. Ghost Notes",
+      "titleKr": "액센트 vs 고스트 노트",
+      "focus": "Dynamic control",
+      "focusKr": "다이내믹 컨트롤",
+      "goal": "A wide, controlled gap between loud accents and whisper-quiet ghost notes on the snare. It's working when the accents pop and the ghosts are barely audible but perfectly in time — that contrast is what makes a groove breathe.",
+      "goalKr": "스네어에서 큰 액센트와 속삭이듯 작은 고스트 노트 사이에 넓고 통제된 간격을 만드는 드릴입니다. 액센트는 팍 튀고 고스트는 거의 안 들리지만 박은 정확할 때 제대로 되고 있는 거예요. 그 대비가 그루브를 숨쉬게 만듭니다.",
+      "reps": "6 min",
+      "repsKr": "6분",
+      "targetBpm": 70,
+      "patternRef": null,
+      "steps": [
+        "Click at 70. Play steady 16th notes on the snare, all soft and low (stick tip about 2 inches up) — these are your ghost notes.",
+        "Now accent only beat 1 of each group: lift that one stick higher and let it drop, keep the other three whisper-quiet.",
+        "Move the accent around — beat 1, then the '2', then the 'e' — while the ghosts stay flat and even underneath.",
+        "Check the gap: accents should clearly jump out, ghosts should almost disappear. Widen the difference, don't muscle the ghosts louder.",
+        "Keep the low notes low with finger/wrist motion, not by tensing — height controls volume, not force."
+      ],
+      "stepsKr": [
+        "클릭을 70에 맞추세요. 스네어에 16분음표를 꾸준히, 전부 작고 낮게(스틱 팁 5센티 정도 높이) 치세요. 이게 고스트 노트입니다.",
+        "이제 각 그룹의 1박만 액센트하세요. 그 스틱 하나만 더 높이 들었다 떨어뜨리고, 나머지 셋은 속삭이듯 유지합니다.",
+        "액센트 위치를 옮겨보세요. 1박, 그다음 '2', 그다음 엇박으로. 그 아래 고스트는 평평하고 고르게 유지하면서.",
+        "간격을 확인하세요. 액센트는 확실히 튀어나오고 고스트는 거의 사라져야 합니다. 고스트를 더 세게 치지 말고 차이를 벌리세요.",
+        "낮은 음은 힘주지 말고 손가락과 손목 움직임으로 낮게 유지하세요. 볼륨은 힘이 아니라 높이로 조절합니다."
+      ],
+      "order": 5
+    },
+    {
+      "id": "drill-rudiment-ladder-hands-to-kit",
+      "title": "Rudiment Ladder: Singles → Doubles → Paradiddle",
+      "titleKr": "루디먼트 래더: 싱글 → 더블 → 파라디들",
+      "focus": "Sticking foundation",
+      "focusKr": "스티킹 기초",
+      "goal": "Three core rudiments played cleanly and evenly, first on a pad then onto the kit. It's working when doubles have two matched bounces and the paradiddle flows without you having to think 'which hand next'.",
+      "goalKr": "세 가지 핵심 루디먼트를 깔끔하고 고르게, 먼저 패드에서 그다음 드럼셋으로 옮겨 치는 드릴입니다. 더블의 두 타가 소리가 맞고, '다음이 어느 손이지' 생각 안 해도 파라디들이 흘러가면 제대로 되고 있는 거예요.",
+      "reps": "4 × 8 bars each rudiment",
+      "repsKr": "각 루디먼트당 4 × 8마디",
+      "targetBpm": 60,
+      "patternRef": null,
+      "steps": [
+        "Click at 60 on a pad. Singles first: R L R L, 8 bars, even and relaxed (the same clean singles you built in the tempo-ladder drill).",
+        "Doubles next: R R L L. Use one wrist stroke plus one controlled bounce per hand — both hits should match in volume.",
+        "Paradiddle: R L R R, L R L L. Say it out loud as you play until the sticking is automatic.",
+        "Now move each rudiment onto the kit: singles hand-to-hand around snare and toms, doubles and paradiddles with the accent (first note) leading to a tom — this is how a fill is born.",
+        "Keep it slow and clean. Speed comes free once the sticking is honest — never rush past sloppy."
+      ],
+      "stepsKr": [
+        "패드에서 클릭 60. 먼저 싱글이에요. 오 왼 오 왼, 8마디, 고르고 편안하게(싱글 스트로크 래더에서 다진 그 고른 싱글입니다).",
+        "다음은 더블. 오 오 왼 왼. 손마다 손목 스트로크 한 번 더하기 컨트롤된 바운스 한 번을 쓰세요. 두 타의 볼륨이 맞아야 합니다.",
+        "파라디들. 오 왼 오 오, 왼 오 왼 왼. 스티킹이 자동으로 나올 때까지 소리 내어 말하면서 치세요.",
+        "이제 각 루디먼트를 드럼셋으로 옮기세요. 싱글은 스네어와 탐을 손 바꿔가며, 더블과 파라디들은 액센트(첫 음)를 탐으로 끌고 가면서. 이게 바로 필인이 태어나는 방식입니다.",
+        "느리고 깔끔하게 유지하세요. 스티킹이 정직해지면 속도는 공짜로 따라옵니다. 엉성한 채로 절대 서두르지 마세요."
+      ],
+      "order": 6
+    },
+    {
+      "id": "drill-independence-starter",
+      "title": "Independence Starter: Vary One Limb",
+      "titleKr": "인디펜던스 스타터: 한 팔다리만 바꾸기",
+      "focus": "Limb independence",
+      "focusKr": "팔다리 독립",
+      "goal": "Hold a rock-steady 8-beat groove with three limbs while you change just one. It's working when adding a kick or hi-hat variation doesn't wobble the pulse — the groove stays glued to the click no matter what one limb does.",
+      "goalKr": "세 팔다리로 흔들림 없는 8비트 그루브를 유지하면서 딱 하나만 바꾸는 드릴입니다. 킥이나 하이햇 변주를 더해도 박이 안 흔들리면 제대로 되고 있는 거예요. 한 팔다리가 뭘 하든 그루브가 클릭에 붙어 있어야 합니다.",
+      "reps": "8 min, one variation at a time",
+      "repsKr": "8분, 한 번에 한 변주씩",
+      "targetBpm": 65,
+      "patternRef": "groove-8beat-basic",
+      "steps": [
+        "Loop the 8-beat groove at 65 and get it fully comfortable — hi-hat, snare, and kick all steady first.",
+        "Change only the kick: add one extra kick on the '&' of beat 3. Keep hi-hat and snare exactly as they were.",
+        "Reset, then change only the hi-hat: open it on the '&' of 4 and close it back on beat 1. Keep the kick and snare unchanged.",
+        "Reset, then change only the snare: add a soft ghost note before beat 4. Three limbs steady, one limb moving.",
+        "If the pulse wobbles, simplify back to the plain groove and try one smaller change. Steady first, fancy later."
+      ],
+      "stepsKr": [
+        "8비트 그루브를 65에서 루프하고 완전히 편해지게 하세요. 하이햇, 스네어, 킥 전부 먼저 안정시키고.",
+        "킥만 바꾸세요. 3박의 '엔(&)'에 킥을 하나 더 넣으세요. 하이햇과 스네어는 그대로 유지하고.",
+        "리셋한 뒤 하이햇만 바꾸세요. 4박의 '엔'에서 열었다가 1박에서 다시 닫으세요. 킥과 스네어는 그대로.",
+        "리셋한 뒤 스네어만 바꾸세요. 4박 직전에 부드러운 고스트 노트를 하나 넣으세요. 세 팔다리는 고정, 한 팔다리만 움직입니다.",
+        "박이 흔들리면 다시 기본 그루브로 단순화하고 더 작은 변화 하나만 시도하세요. 먼저 안정, 화려함은 나중에."
+      ],
+      "order": 7
+    }
+  ]
+}
