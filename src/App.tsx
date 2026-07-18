@@ -234,7 +234,7 @@ function LoadedApp({ data }: { data: AppData }) {
                 loading="lazy"
               />
             </span>
-            <span className="craft-credit__tag">Custom Guitar and Basses</span>
+            <span className="craft-credit__tag">Custom Guitars and Basses</span>
           </a>
         </div>
       </footer>
