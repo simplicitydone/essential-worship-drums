@@ -1,7 +1,7 @@
 import { createContext, useContext } from 'react'
 
-// Bilingual guide: the whole UI can show English, Korean, or both.
-export type Lang = 'en' | 'kr' | 'both'
+// Bilingual guide: the whole UI shows either English or Korean.
+export type Lang = 'en' | 'kr'
 
 export interface LangCtx {
   lang: Lang

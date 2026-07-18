@@ -84,7 +84,6 @@ export function GrooveGrid({ pattern }: { pattern: Pattern }) {
       <div className="groove__header">
         <div className="groove__title">
           <h3>{lang === 'kr' ? pattern.nameKr : pattern.name}</h3>
-          {lang === 'both' && <span className="groove__title-kr">{pattern.nameKr}</span>}
         </div>
         <div className="groove__meta">
           <span className={`badge tier-${pattern.tier.toLowerCase()}`}>{pattern.tier}</span>
@@ -160,7 +159,9 @@ export function GrooveGrid({ pattern }: { pattern: Pattern }) {
                   title={
                     playAlong
                       ? `${isMuted ? 'Unmute' : 'Mute'} ${LANE_LABEL[lane].en}`
-                      : `${LANE_LABEL[lane].en} · ${LANE_LABEL[lane].kr}`
+                      : lang === 'kr'
+                        ? LANE_LABEL[lane].kr
+                        : LANE_LABEL[lane].en
                   }
                 >
                   {LANE_LABEL[lane].short}
@@ -234,11 +235,9 @@ export function GrooveGrid({ pattern }: { pattern: Pattern }) {
       )}
 
       <p className="groove__desc">{lang === 'kr' ? pattern.descriptionKr : pattern.description}</p>
-      {lang === 'both' && <p className="groove__desc groove__desc--kr">{pattern.descriptionKr}</p>}
       <p className="groove__howto">
         <span className="groove__howto-label">Practice</span> {lang === 'kr' ? howToKr : pattern.howTo}
       </p>
-      {lang === 'both' && <p className="groove__howto groove__howto--kr">{howToKr}</p>}
 
       {pattern.arrangement && pattern.arrangement.length > 0 && (
         <ArrangementMap parts={pattern.arrangement} />

@@ -15,12 +15,6 @@ function Body({ en, kr }: { en: string; kr: string }) {
           {p}
         </p>
       ))}
-      {lang === 'both' &&
-        kr.split(/\n{2,}/).map((p, i) => (
-          <p key={i} className="lesson__para lesson__para--kr">
-            {p}
-          </p>
-        ))}
     </>
   )
 }
@@ -31,10 +25,7 @@ function LessonBody({ lesson, patternLibrary }: { lesson: Lesson; patternLibrary
   const points = lang === 'kr' ? lesson.keyPointsKr : lesson.keyPoints
   return (
     <article className="lesson">
-      <h2 className="lesson__title">
-        {lang === 'kr' ? lesson.titleKr : lesson.title}
-        {lang === 'both' && <span className="lesson__title-kr">{lesson.titleKr}</span>}
-      </h2>
+      <h2 className="lesson__title">{lang === 'kr' ? lesson.titleKr : lesson.title}</h2>
 
       {lesson.diagram && <KitDiagram name={lesson.diagram} />}
 
@@ -42,24 +33,18 @@ function LessonBody({ lesson, patternLibrary }: { lesson: Lesson; patternLibrary
 
       {points.length > 0 && (
         <div className="lesson__points">
-          <h3 className="lesson__points-heading">Key points · 핵심</h3>
+          <h3 className="lesson__points-heading">{lang === 'kr' ? '핵심' : 'Key points'}</h3>
           <ul>
             {points.map((p, i) => (
               <li key={i}>{p}</li>
             ))}
-            {lang === 'both' &&
-              lesson.keyPointsKr.map((p, i) => (
-                <li key={`kr-${i}`} className="lesson__point--kr">
-                  {p}
-                </li>
-              ))}
           </ul>
         </div>
       )}
 
       {demo && (
         <div className="lesson__demo">
-          <h3 className="lesson__demo-heading">Try it · 직접 해보기</h3>
+          <h3 className="lesson__demo-heading">{lang === 'kr' ? '직접 해보기' : 'Try it'}</h3>
           <GrooveGrid pattern={demo} />
         </div>
       )}

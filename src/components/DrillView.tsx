@@ -43,7 +43,11 @@ function DrillCard({ drill, patternLibrary }: { drill: Drill; patternLibrary: Re
           </ol>
           {demo && (
             <div className="drill__demo">
-              <p className="drill__demo-hint">Loop it — start slow, speed up only when it stays relaxed.</p>
+              <p className="drill__demo-hint">
+                {lang === 'kr'
+                  ? '반복하자 — 느리게 시작하고, 힘이 빠진 상태가 유지될 때만 빠르게 한다.'
+                  : 'Loop it — start slow, speed up only when it stays relaxed.'}
+              </p>
               <GrooveGrid pattern={demo} />
             </div>
           )}
@@ -63,16 +67,11 @@ export function DrillView({
   const { lang } = useLang()
   return (
     <div className="section">
-      <h2 className="section__heading">Practice Drills · 연습 드릴</h2>
+      <h2 className="section__heading">{lang === 'kr' ? '연습 드릴' : 'Practice Drills'}</h2>
       <p className="section__lead">
-        This is where faking turns into real playing. Do a few every day — slow,
-        relaxed, and honest. Tap a drill to open its steps.
-        {lang !== 'en' && (
-          <span className="bi-kr">
-            흉내가 진짜 실력으로 바뀌는 곳이다. 매일 몇 가지씩 느리고 편안하게, 정직하게
-            연습한다. 드릴을 눌러 단계를 펼쳐 본다.
-          </span>
-        )}
+        {lang === 'kr'
+          ? '흉내가 진짜 실력으로 바뀌는 곳이다. 매일 몇 가지씩 느리고 편안하게, 정직하게 연습한다. 드릴을 눌러 단계를 펼쳐 본다.'
+          : 'This is where faking turns into real playing. Do a few every day — slow, relaxed, and honest. Tap a drill to open its steps.'}
       </p>
       <ProgressBar ids={drills.map((d) => d.id)} label="drilled" />
       <div className="drill-list">

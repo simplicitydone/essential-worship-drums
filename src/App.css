@@ -118,12 +118,6 @@
   margin: 0 0 18px;
   max-width: 62ch;
 }
-.bi-kr {
-  display: block;
-  color: var(--text-muted);
-  font-size: 0.92em;
-  margin-top: 4px;
-}
 
 /* ===== GrooveGrid ===== */
 .groove {
@@ -142,11 +136,6 @@
 }
 .groove__title h3 {
   font-size: 1.12rem;
-}
-.groove__title-kr {
-  display: block;
-  color: var(--text-muted);
-  font-size: 0.85rem;
 }
 .groove__meta {
   display: flex;
@@ -498,11 +487,6 @@
 .groove__desc {
   margin: 12px 0 0;
 }
-.groove__desc--kr {
-  color: var(--text-muted);
-  font-size: 0.92em;
-  margin-top: 4px;
-}
 .groove__howto {
   margin: 10px 0 0;
   color: var(--text-muted);
@@ -721,19 +705,9 @@
   letter-spacing: -0.02em;
   margin-bottom: 14px;
 }
-.lesson__title-kr {
-  display: block;
-  font-size: 0.95rem;
-  color: var(--text-muted);
-  font-weight: 500;
-}
 .lesson__para {
   margin: 0 0 12px;
   max-width: 64ch;
-}
-.lesson__para--kr {
-  color: var(--text-muted);
-  font-size: 0.95em;
 }
 .lesson__points {
   margin-top: 18px;
@@ -754,10 +728,6 @@
 }
 .lesson__points li {
   margin-bottom: 5px;
-}
-.lesson__point--kr {
-  color: var(--text-muted);
-  font-size: 0.92em;
 }
 .lesson__demo {
   margin-top: 22px;
@@ -914,10 +884,6 @@
   margin: 0 0 8px;
   font-size: 0.94rem;
 }
-.rudiment-card__desc--kr {
-  color: var(--text-muted);
-  font-size: 0.88rem;
-}
 .rudiment-card__app {
   margin: 0;
   font-size: 0.88rem;
@@ -966,16 +932,6 @@
   color: var(--text);
   margin: 0;
 }
-.quiz-item__answer--q-kr {
-  color: var(--text-muted);
-  font-size: 0.9em;
-  font-weight: 600;
-  padding-bottom: 0;
-}
-.quiz-item__answer--kr {
-  color: var(--text-muted);
-  font-size: 0.92em;
-}
 .study-guide__heading {
   font-size: 1.1rem;
   margin-bottom: 12px;
@@ -991,18 +947,8 @@
   font-weight: 700;
   color: var(--accent);
 }
-.glossary__term-kr {
-  color: var(--text-muted);
-  font-weight: 500;
-}
 .glossary__entry dd {
   margin: 4px 0 0;
-}
-.glossary__def-kr {
-  display: block;
-  color: var(--text-muted);
-  font-size: 0.92em;
-  margin-top: 2px;
 }
 
 /* ===== Practice drills ===== */

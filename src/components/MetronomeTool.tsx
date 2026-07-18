@@ -41,7 +41,7 @@ export function MetronomeTool() {
   return (
     <div className="metronome">
       <div className="metronome__top">
-        <h3 className="metronome__title">🥁 Metronome · 메트로놈</h3>
+        <h3 className="metronome__title">🥁 {lang === 'kr' ? '메트로놈' : 'Metronome'}</h3>
         <button
           type="button"
           className={`play-btn ${running ? 'is-playing' : ''}`}

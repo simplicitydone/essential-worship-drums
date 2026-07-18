@@ -6,7 +6,7 @@ import { LangContext, LANG_KEY, type Lang } from './lang'
 export function LangProvider({ children }: { children: ReactNode }) {
   const [lang, setLangState] = useState<Lang>(() => {
     const saved = typeof localStorage !== 'undefined' ? localStorage.getItem(LANG_KEY) : null
-    return saved === 'kr' || saved === 'both' ? saved : 'en'
+    return saved === 'kr' ? 'kr' : 'en'
   })
   const setLang = (l: Lang) => {
     setLangState(l)

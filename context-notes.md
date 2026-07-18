@@ -107,3 +107,17 @@ Workflow note: passing a big array via Workflow `args` as a JSON string fails
 - Cloudflare: no tunnel config in the laptop repo (lives on server or dashboard).
   ewd = port 3027. Adding a hostname = one cloudflared ingress rule + DNS route;
   doable server-side if file/CLI-managed, else dashboard/API-token needed.
+
+## Bilingual mode simplified (2026-07-18)
+- Deleted the 'both' (EN+한) language mode per user: type Lang = 'en' | 'kr' now.
+  Removed the third toggle button, every `lang === 'both'` render branch, and the
+  orphaned *-kr / bi-kr CSS rules. localStorage 'both' falls back to 'en'.
+- Also killed the remaining kr+eng mixing so each mode is single-language:
+  hard-coded "EN · 한글" composite headings (App section titles, Practice Drills,
+  Key points, Try it, Metronome, Rudiments, Study Guide, Glossary, Song Map, lane
+  tooltips) now pick one string via the toggle, and the `lang !== 'en'` stacked
+  leads (Drills/Rudiments/StudyGuide) became exclusive en/kr text. Authored KR
+  strings for the Grooves/Fills/Songs leads + drill demo hint, which were EN-only.
+- Repo made public as github.com/simplicitydone/essential-worship-drums
+  (port number dropped from the GitHub name, same convention as
+  korean-lottery-analysis; folder stays 3012_ewd). README port 3027→3012.

@@ -8,7 +8,12 @@ export function ArrangementMap({ parts }: { parts: ArrangementPart[] }) {
   const max = 5
   return (
     <div className="arrmap">
-      <h4 className="arrmap__title">Song Map · 곡의 흐름 <span className="arrmap__sub">— how the drums grow &amp; pull back</span></h4>
+      <h4 className="arrmap__title">
+        {lang === 'kr' ? '곡의 흐름' : 'Song Map'}{' '}
+        <span className="arrmap__sub">
+          {lang === 'kr' ? '— 드럼이 커졌다가 다시 물러나는 흐름' : '— how the drums grow & pull back'}
+        </span>
+      </h4>
 
       <div className="arrmap__arc" role="img" aria-label="Dynamic intensity across the song sections">
         {parts.map((p, i) => (

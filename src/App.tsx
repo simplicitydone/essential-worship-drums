@@ -24,7 +24,6 @@ function parseHash(): Nav {
 const LANG_OPTIONS: { value: Lang; label: string }[] = [
   { value: 'en', label: 'EN' },
   { value: 'kr', label: '한국어' },
-  { value: 'both', label: 'EN+한' },
 ]
 
 export default function App() {
@@ -128,7 +127,7 @@ function LoadedApp({ data }: { data: AppData }) {
       <main className="main">
         {tab === 'crash' && (
           <LessonSection
-            title="Crash Course — Play This Sunday · 속성 코스"
+            title={lang === 'kr' ? '속성 코스 — 이번 주일에 바로' : 'Crash Course — Play This Sunday'}
             lessons={data.crashLessons}
             patternLibrary={data.patternLibrary}
           />
@@ -138,7 +137,7 @@ function LoadedApp({ data }: { data: AppData }) {
           <>
             <MetronomeTool />
             <LessonSection
-              title="The Fundamentals · 기본기"
+              title={lang === 'kr' ? '기본기' : 'The Fundamentals'}
               lessons={data.basicsLessons}
               patternLibrary={data.patternLibrary}
             />
@@ -148,8 +147,12 @@ function LoadedApp({ data }: { data: AppData }) {
 
         {tab === 'grooves' && (
           <PatternBrowser
-            heading="Grooves · 그루브"
-            lead="The beats you'll play under 90% of worship songs. Loop each one slowly with the ▶ until it feels automatic."
+            heading={lang === 'kr' ? '그루브' : 'Grooves'}
+            lead={
+              lang === 'kr'
+                ? '예배곡의 90%에서 치게 될 비트다. ▶로 천천히 반복하며 몸에 배게 만들자.'
+                : "The beats you'll play under 90% of worship songs. Loop each one slowly with the ▶ until it feels automatic."
+            }
             patterns={data.grooves}
             selectedId={sel}
             onSelect={setSel}
@@ -158,8 +161,12 @@ function LoadedApp({ data }: { data: AppData }) {
 
         {tab === 'fills' && (
           <PatternBrowser
-            heading="Fills · 필인"
-            lead="Short breaks that lead back to beat 1. Keep them simple and always land the downbeat."
+            heading={lang === 'kr' ? '필인' : 'Fills'}
+            lead={
+              lang === 'kr'
+                ? '1박으로 되돌아가는 짧은 연결구다. 단순하게 치고, 반드시 첫 박에 정확히 착지하자.'
+                : 'Short breaks that lead back to beat 1. Keep them simple and always land the downbeat.'
+            }
             patterns={data.fills}
             selectedId={sel}
             onSelect={setSel}
@@ -169,12 +176,12 @@ function LoadedApp({ data }: { data: AppData }) {
         {tab === 'worship' && (
           <>
             <LessonSection
-              title="Serving the Song · 곡을 섬기기"
+              title={lang === 'kr' ? '곡을 섬기기' : 'Serving the Song'}
               lessons={data.worshipLessons}
               patternLibrary={data.patternLibrary}
             />
             <PatternBrowser
-              heading="Worship Grooves · 예배 그루브"
+              heading={lang === 'kr' ? '예배 그루브' : 'Worship Grooves'}
               patterns={data.worshipPatterns}
               groupByTier={false}
               selectedId={sel}
@@ -187,8 +194,12 @@ function LoadedApp({ data }: { data: AppData }) {
 
         {tab === 'songs' && (
           <PatternBrowser
-            heading="Song Templates · 곡 템플릿"
-            lead="Generic worship-song feels you'll meet again and again — match the groove to the moment in the set."
+            heading={lang === 'kr' ? '곡 템플릿' : 'Song Templates'}
+            lead={
+              lang === 'kr'
+                ? '예배에서 계속 만나게 되는 전형적인 곡 흐름이다. 셋의 순간에 맞는 그루브를 고르자.'
+                : "Generic worship-song feels you'll meet again and again — match the groove to the moment in the set."
+            }
             patterns={data.songs}
             groupByTier={false}
             selectedId={sel}
@@ -204,7 +215,7 @@ function LoadedApp({ data }: { data: AppData }) {
           Content: <code>db/ewd.sqlite</code> · schema v{data.schemaVersion} ·{' '}
           {Object.keys(data.patternLibrary).length} patterns
         </span>
-        <a href="https://github.com/simplicitydone/3027_ewd" target="_blank" rel="noreferrer">
+        <a href="https://github.com/simplicitydone/essential-worship-drums" target="_blank" rel="noreferrer">
           Source
         </a>
       </footer>
