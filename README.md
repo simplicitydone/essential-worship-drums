@@ -2,10 +2,10 @@
 
 An interactive beginner's guide to **worship drumming** — from *how to hold the
 sticks* to playing real grooves — with **audible, looping** GrooveGrids. Bilingual
-(English / 한국어). Live at https://ewd.simplicity-is-art.com/ (port 3027 via
+(English / 한국어 toggle). Live at https://ewd.simplicity-is-art.com/ (port 3012 via
 `docker-compose`, nginx serving `dist/`).
 
-Modeled on [`3025_egc`](../3025_egc) (Essential Guitar Chords): same
+Modeled on [Essential Guitar Chords](https://github.com/simplicitydone/essential-guitar-chords): same
 SQLite-is-the-source-of-truth data flow, PWA packaging, and nginx deploy — but
 the domain is the drum kit, and the interactive centerpiece is a **step-sequencer
 groove that loops through a synthesized kit** instead of a strummed chord.
