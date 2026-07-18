@@ -211,6 +211,18 @@ function LoadedApp({ data }: { data: AppData }) {
       </main>
 
       <footer className="footer">
+        <div className="craft-credit">
+          <a href="https://blog.naver.com/ensembleguitar" target="_blank" rel="noreferrer">
+            <img
+              src="/ensemble-guitar-works.png"
+              alt="Ensemble Guitar Works"
+              width="756"
+              height="204"
+              loading="lazy"
+            />
+          </a>
+          <span className="craft-credit__tag">Custom Guitar and Basses</span>
+        </div>
         <span>
           Content: <code>db/ewd.sqlite</code> · schema v{data.schemaVersion} ·{' '}
           {Object.keys(data.patternLibrary).length} patterns
