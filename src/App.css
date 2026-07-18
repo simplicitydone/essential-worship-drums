@@ -87,16 +87,22 @@
   font-size: 0.82rem;
 }
 
-/* Luthier credit badge */
+/* Luthier credit badge — bottom-right, under the Source link */
+.footer-right {
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
 .craft-credit {
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 6px;
-  margin-bottom: 10px;
+  text-decoration: none;
 }
-.craft-credit a {
+.craft-credit__card {
   display: inline-block;
   background: #fff;
   border: 1px solid var(--border);
